@@ -1,0 +1,12 @@
+---
+title: "So true."
+date: 2009-10-21 16:31
+comments: true
+external-url:
+categories:
+---
+[<img src="http://1.asset.soup.io/asset/0503/3169_bd81.png" width="345" height="478" alt="3169_bd81" />][1]
+
+So true.
+
+  [1]: http://imgs.xkcd.com/comics/bag_check.png

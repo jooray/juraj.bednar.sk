@@ -1,0 +1,12 @@
+---
+title: "etherpad"
+date: 2009-12-20 15:18
+comments: true
+external-url:
+categories:
+---
+This is the open source release of EtherPad, a web-based realtime collaborative document editor.
+
+This project exists mainly as an exhibition of the code, to help support those who want to run or modify their own etherpad servers, or for those who are curious about how etherpad's algorithms make realtime collaboration possible.
+
+<http://code.google.com/p/etherpad/>

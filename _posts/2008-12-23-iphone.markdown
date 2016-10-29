@@ -1,0 +1,30 @@
+---
+title: "iPhone"
+date: 2008-12-23 9:32
+comments: true
+external-url:
+categories:
+---
+It's stable.  
+  
+ It does not have proper Bluetooth (can be used only for handsfree). For connecting to Internet from notebook, you need jailbreak and some application (I use _ssh -D_).  
+  
+ No cut &amp; paste.  
+  
+ Push e-mail, calendar and contacts work great.  
+  
+ It's not possible to use the phone while syncing.  
+  
+ No MMS  
+  
+No multitasking  
+  
+SSH client works (TouchTerm works even if you don't jailbreak)  
+  
+Great browser.  
+  
+Overall only after a few months of use. But it's retarded and the only reason I got it was, that maybe if it's retarded, the retarded parts will work well. Enough of crashing phones.  
+  
+What I'm really looking forward to is Android-based phones, when they mature.
+
+Rating: 0/5

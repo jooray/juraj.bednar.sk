@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-03-29 17:5
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0274/5044_69f0.jpeg" width="800" height="533" alt="5044_69f0" />][1]
+
+  [1]: http://www.rulez-t.info/uploads/posts/2009-03/1237122556_erikjohansson_12.jpg

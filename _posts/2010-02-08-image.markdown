@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-02-08 8:22
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/0678/3960_094f.jpeg" width="500" height="375" alt="3960_094f" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: http://www.flickr.com/photos/celeste/4324434044/in/set-72157604802877154/
+  [2]: http://charlottinka.soup.io/post/44786287/Image

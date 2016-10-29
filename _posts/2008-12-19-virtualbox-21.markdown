@@ -1,0 +1,16 @@
+---
+title: "VirtualBox 2.1"
+date: 2008-12-19 11:51
+comments: true
+external-url:
+categories:
+---
+I (internally in our company) complained about Sun releasing things such as their [StorageTek 7000 demo][1] for VMWare, while they have their own virtualization technology. The page still mentions only VMWare, but VirtualBox 2.1 can read and use VMWare VMDK images.  
+  
+Among other things is hardware virtualization support on Mac OS X, new networking, etc.  
+  
+I kind of like virtualbox, because it is open.
+
+<http://www.virtualbox.org/wiki/Changelog>
+
+  [1]: http://www.sun.com/storage/disk_systems/unified_storage/resources.jsp

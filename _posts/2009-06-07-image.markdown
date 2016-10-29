@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-07 21:45
+comments: true
+external-url:
+categories:
+---
+[<img src="http://5.asset.soup.io/asset/0345/0085_0ca8.jpeg" width="328" height="278" alt="0085_0ca8" />][1]
+
+  [1]: http://img192.imageshack.us/img192/6833/spend.jpg

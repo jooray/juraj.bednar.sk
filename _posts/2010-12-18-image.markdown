@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-12-18 12:9
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/1355/5288_5b4d.png" width="562" height="408" alt="5288_5b4d" />][1]
+
+  [1]: http://imgs.xkcd.com/comics/tree.png

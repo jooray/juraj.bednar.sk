@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-11-28 9:53
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0539/3486_e88f.jpeg" width="1000" height="664" alt="3486_e88f" />][1]
+
+[Reposted from [pstmn][2]]
+
+  [1]: http://www.archdaily.com/40418/summer-house-vestfold-2-jva/
+  [2]: http://pstmn.soup.io/post/34784687/Image

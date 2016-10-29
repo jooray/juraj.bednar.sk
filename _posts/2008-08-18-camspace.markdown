@@ -1,0 +1,10 @@
+---
+title: "CamSpace"
+date: 2008-08-18 23:54
+comments: true
+external-url:
+categories:
+---
+great technology for playing any games using any object and a webcam. Looks great, check the video.
+
+<http://www.camspace.com/>

@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-10-25 11:16
+comments: true
+external-url:
+categories:
+---
+[<img src="http://5.asset.soup.io/asset/1181/5429_ed40.jpeg" width="768" height="1024" alt="5429_ed40" />][1]
+
+  [1]: http://archiv.roumen.cz/archive/harspicke_strojirny.jpg

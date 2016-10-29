@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-05-24 0:9
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0326/8804_60e7.gif" width="600" height="1430" alt="8804_60e7" />][1]
+
+  [1]: http://www.phdcomics.com/comics/archive/phd042009s.gif

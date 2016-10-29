@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-09-06 23:42
+comments: true
+external-url:
+categories:
+---
+[<img src="http://d.asset.soup.io/asset/0445/1357_8a37.jpeg" width="653" height="405" alt="1357_8a37" />][1]
+
+[Reposted from [mz-r500][2]]
+
+  [1]: 
+  [2]: http://mz-r500.soup.io/post/27013700/Image

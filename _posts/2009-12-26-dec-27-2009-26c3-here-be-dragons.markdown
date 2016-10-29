@@ -1,0 +1,12 @@
+---
+title: "Dec 27, 2009: 26C3: Here Be Dragons"
+date: 2009-12-26 17:12
+comments: true
+external-url:
+categories:
+---
+<img src="http://d.asset.soup.io/asset/0605/1613_22b3.jpeg" width="850" height="215" alt="1613_22b3" />
+
+10:00–Dec 30, 2009 22:00 @ Berlin &amp; The Internets (stream available)
+
+The largest and most interesting hacker conference starts tomorrow. If you can't be there, don't miss the online streams! Schedule Recordings Online streaming info Direct link for streaming (latest version of VLC recommended) IRC SILC coverage (Slovak): silc.digmia.com, channel 26c3

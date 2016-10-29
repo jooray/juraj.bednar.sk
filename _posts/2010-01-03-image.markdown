@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-01-03 14:22
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0617/8004_fa79.jpeg" width="500" height="375" alt="8004_fa79" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: 
+  [2]: http://charlottinka.soup.io/post/40186809/Image

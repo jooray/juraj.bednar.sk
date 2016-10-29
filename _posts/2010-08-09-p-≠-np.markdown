@@ -1,0 +1,14 @@
+---
+title: "P ≠ NP"
+date: 2010-08-09 12:17
+comments: true
+external-url:
+categories:
+---
+A serious attempt to prove it. I have no idea if it's correct.  
+  
+Paper [here][1].
+
+<http://gregbaker.ca/blog/2010/08/07/p-n-np/>
+
+  [1]: http://www.scribd.com/doc/35539144/pnp12pt

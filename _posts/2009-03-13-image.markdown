@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-03-13 0:27
+comments: true
+external-url:
+categories:
+---
+[<img src="http://9.asset.soup.io/asset/0262/3673_432b.jpeg" width="350" height="524" alt="3673_432b" />][1]
+
+  [1]: http://lemonodor.com/images/troubled-harajuku-teen.jpg

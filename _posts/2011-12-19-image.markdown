@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-12-19 22:35
+comments: true
+external-url:
+categories:
+---
+[<img src="http://5.asset.soup.io/asset/2653/5125_138d.png" width="764" height="1885" alt="5125_138d" />][1]
+
+  [1]: http://c.asset.soup.io/asset/2642/4652_0421.png

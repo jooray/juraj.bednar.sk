@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-03-26 15:54
+comments: true
+external-url:
+categories:
+---
+[<img src="http://c.asset.soup.io/asset/0272/4300_de74.png" width="740" height="262" alt="4300_de74" />][1]
+
+  [1]: http://xkcd.com/557/

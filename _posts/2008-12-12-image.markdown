@@ -1,0 +1,14 @@
+---
+title: "(Image)"
+date: 2008-12-12 20:9
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/0170/5112_521e.jpeg" width="500" height="268" alt="5112_521e" />][1]
+
+[Reposted from [fyi][2] via [queitsch][3]]
+
+  [1]: http://graphjam.com/2008/06/16/song-chart-memes-god-vs-satan/
+  [2]: http://fyi.soup.io/post/6798405/Image
+  [3]: http://soup.lithen.de/post/9348115/Image

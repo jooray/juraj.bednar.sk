@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-05-16 22:46
+comments: true
+external-url:
+categories:
+---
+[<img src="http://f.asset.soup.io/asset/0318/6831_a6dd.gif" width="665" height="607" alt="6831_a6dd" />][1]
+
+  [1]: http://www.threadless.com//product/329/zoom.gif

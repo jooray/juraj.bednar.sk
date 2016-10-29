@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-12-12 22:26
+comments: true
+external-url:
+categories:
+---
+[<img src="http://0.asset.soup.io/asset/2622/2960_1acf.gif" width="214" height="260" alt="2960_1acf" />][1]
+
+  [1]: https://lh4.googleusercontent.com/-Lnq2j-MLFNM/TuT_5fXioXI/AAAAAAAABUE/cdIiRC7pDPo/w214/atpsynanim.gif

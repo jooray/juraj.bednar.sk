@@ -1,0 +1,16 @@
+---
+title: "Songbird 0.7"
+date: 2008-12-01 17:44
+comments: true
+external-url:
+categories:
+---
+It crashed once.  
+  
+Closing window quits the player.  
+  
+Filled their survey, will wait for yet another version. Not so good at this time. 1.0 will probably be okay, 0.7 is a huge step forward from 0.6.  
+  
+I would love DAAP and MPD support.
+
+Rating: 0/5

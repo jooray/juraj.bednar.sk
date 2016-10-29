@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-27 1:20
+comments: true
+external-url:
+categories:
+---
+[<img src="http://3.asset.soup.io/asset/0365/9171_5541.jpeg" width="600" height="600" alt="9171_5541" />][1]
+
+  [1]: http://eclipse.astronomie.info/1999-08-11/Bernd/eclipse-5exposures.jpg?maxWidth=300

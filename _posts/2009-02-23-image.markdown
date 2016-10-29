@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-02-23 17:34
+comments: true
+external-url:
+categories:
+---
+[<img src="http://7.asset.soup.io/asset/0249/1927_6fe1.gif" width="498" height="814" alt="1927_6fe1" />][1]
+
+  [1]: http://static.thepiratebay.org/doodles/cartoonish.gif

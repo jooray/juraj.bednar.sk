@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-01-12 15:15
+comments: true
+external-url:
+categories:
+---
+[<img src="http://9.asset.soup.io/asset/1443/6409_e17f.jpeg" width="500" height="546" alt="6409_e17f" />][1]
+
+  [1]: http://28.media.tumblr.com/tumblr_levad3JI6i1qasthro1_r1_500.jpg

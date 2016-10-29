@@ -1,0 +1,13 @@
+---
+title: "via Wired"
+date: 2010-02-08 9:37
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0679/5198_e7f5.jpeg" width="660" height="660" alt="5198_e7f5" />][1]
+
+via [Wired][2]
+
+  [1]: http://www.wired.com/magazine/wp-content/images/18-02/pl_arts_found6_f.jpg
+  [2]: http://www.wired.com/magazine/2010/01/pl_arts_found/all/1

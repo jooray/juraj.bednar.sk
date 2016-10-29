@@ -1,0 +1,10 @@
+---
+title: "Varnish"
+date: 2009-02-12 12:10
+comments: true
+external-url:
+categories:
+---
+Varnish is a state-of-the-art, high-performance HTTP accelerator. It uses the advanced features in Linux 2.6, FreeBSD 6/7 and Solaris 10 to achieve its high performance.
+
+<http://varnish.projects.linpro.no/>

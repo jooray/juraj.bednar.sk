@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2012-03-13 14:2
+comments: true
+external-url:
+categories:
+---
+[<img src="http://c.asset.soup.io/asset/3009/0124_9b60.jpeg" width="1365" height="1055" alt="0124_9b60" />][1]
+
+  [1]: http://a.yfrog.com/img619/9513/6wimtb.jpg

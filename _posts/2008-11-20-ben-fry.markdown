@@ -1,0 +1,20 @@
+---
+title: "Ben Fry"
+date: 2008-11-20 18:53
+comments: true
+external-url:
+categories:
+---
+is an author of [Processing][1] -- a very simple environment for digital art. It allows you to create music, video, images and interactive projects, publish them on a web site like Java applet. It is not a difficult programming environment, it works as Sketches, you just open, sketch a code and run it. Has several sister projects like [Arduino][2], [Wiring][3] and [Processing Mobile][4].  
+  
+Ben has written two books on visualizing data.  
+  
+His site has lots of visualizations and my latest fetish -- [genetic data][5] and their visualizations.
+
+<http://benfry.com/>
+
+  [1]: http://www.processing.org/
+  [2]: http://www.arduino.cc/
+  [3]: http://www.wiring.org.co/
+  [4]: http://mobile.processing.org/
+  [5]: http://www.benfry.com/genetics/

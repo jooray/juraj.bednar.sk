@@ -1,0 +1,18 @@
+---
+title: "Vimeo"
+date: 2009-01-04 23:16
+comments: true
+external-url:
+categories:
+---
+I tried using Vimeo, you can see my first attempt somewhere near this post.  
+  
+I found, that Mac OS X sucks, there is no simple way to rotate video right (and I shot it in 'portrait mode', I don't know why, but it just is like it is and you can't tell the dog to do the food-fight again).  
+  
+Luckily, we have Linux, it was as simple as:  
+  
+_mencoder dorka.mov -vf rotate=1 -of avi -o dorka-rotated.avi -oac pcm -ovc lavc -lavcopts vcodec=mjpeg_  
+  
+OK, that's not that simple, but it works. The video will appear there.  
+  
+I love Vimeo interface, it's much better than YouTube, quality is higher, they even allow you to post HD content (it seems that YouTube started doing that too). And the player is just much nicer for me, YouTube looks like from 90s.

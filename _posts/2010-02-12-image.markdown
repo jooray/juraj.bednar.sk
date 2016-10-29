@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-02-12 8:39
+comments: true
+external-url:
+categories:
+---
+[<img src="http://c.asset.soup.io/asset/0673/5196_9115.jpeg" width="442" height="600" alt="5196_9115" />][1]
+
+  [1]:

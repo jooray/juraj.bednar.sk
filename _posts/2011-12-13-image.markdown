@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-12-13 11:9
+comments: true
+external-url:
+categories:
+---
+[<img src="http://a.asset.soup.io/asset/2623/8170_7ee2.png" width="535" height="333" alt="8170_7ee2" />][1]
+
+  [1]: http://www.abclinuxu.cz/images/clanky/xkcd/xkcd-519_czech.png

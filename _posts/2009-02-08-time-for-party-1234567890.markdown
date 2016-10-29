@@ -1,0 +1,10 @@
+---
+title: "Time for party: 1234567890"
+date: 2009-02-08 22:57
+comments: true
+external-url:
+categories:
+---
+"Over at Linux Magazine Online, Jon maddog Hall writes that on Friday the 13th, 2009 at 11:31:30pm UTC UNIX time will reach 1,234,567,890. This will be Friday, February 13th at 1831 and 30 seconds EST. Matias Palomec has a perl script you an use to see what time that will be for you: perl -e 'print scalar localtime(1234567890),"\\n";' Now, while this is not the UNIX epoch, Alan Cox does assure us that Linux is now working on 64-bit time, and the UNIX epoch 'roll-over' would happen about the time that the sun burnt out."  
+  
+Shall we have a virtual party at Saturday the 14th, 00:31:30?  

@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-17 11:57
+comments: true
+external-url:
+categories:
+---
+[<img src="http://d.asset.soup.io/asset/0356/1453_9aa8.jpeg" width="600" height="450" alt="1453_9aa8" />][1]
+
+  [1]: http://img13.imageshack.us/img13/8906/oznam.jpg

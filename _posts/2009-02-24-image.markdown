@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-02-24 18:28
+comments: true
+external-url:
+categories:
+---
+[<img src="http://9.asset.soup.io/asset/0250/0521_8264.jpeg" width="253" height="5693" alt="0521_8264" />][1]
+
+  [1]: http://img3.imageshack.us/img3/8086/038pics.jpg

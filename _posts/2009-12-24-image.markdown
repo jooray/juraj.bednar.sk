@@ -1,0 +1,14 @@
+---
+title: "(Image)"
+date: 2009-12-24 21:47
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0600/5764_b980.jpeg" width="800" height="557" alt="5764_b980" />][1]
+
+[Reposted from [xiffy][2] via [charlottinka][3]]
+
+  [1]: http://www.modelmayhem.com/pic.php?pic_id=49a73d8934aac&date=2009-02-26%2017:10:34&id=1029978&pid=10918935&the_count=7&group_id=&ua=
+  [2]: http://xiffy.soup.io/post/38876008/Image
+  [3]: http://charlottinka.soup.io/post/38963202/Image

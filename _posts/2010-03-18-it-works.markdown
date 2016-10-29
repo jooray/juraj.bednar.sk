@@ -1,0 +1,14 @@
+---
+title: "It works!"
+date: 2010-03-18 10:48
+comments: true
+external-url:
+categories:
+---
+[<img src="http://6.asset.soup.io/asset/0739/4678_f508.jpeg" width="250" height="188" alt="4678_f508" />][1]
+
+It works!  
+  
+Some anaglyphs online soon :).
+
+  [1]: http://www.stereoscopy.com/cameras/it-fx.jpg

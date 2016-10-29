@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-03-25 14:41
+comments: true
+external-url:
+categories:
+---
+[<img src="http://2.asset.soup.io/asset/1706/8402_9813.jpeg" width="530" height="701" alt="8402_9813" />][1]
+
+  [1]: http://2d-code.co.uk/le-petit-prince-qr-code/

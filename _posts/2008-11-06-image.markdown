@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2008-11-06 23:39
+comments: true
+external-url:
+categories:
+---
+[<img src="http://1.asset.soup.io/asset/0168/2753_4566.jpeg" width="1024" height="768" alt="2753_4566" />][1]
+
+  [1]:

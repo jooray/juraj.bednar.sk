@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-09-14 18:50
+comments: true
+external-url:
+categories:
+---
+[<img src="http://1.asset.soup.io/asset/0460/9761_ce96.jpeg" width="360" height="480" alt="9761_ce96" />][1]
+
+[Reposted from [mz-r500][2]]
+
+  [1]: 
+  [2]: http://mz-r500.soup.io/post/28379285/Image

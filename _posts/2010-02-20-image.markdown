@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-02-20 20:30
+comments: true
+external-url:
+categories:
+---
+[<img src="http://9.asset.soup.io/asset/0697/1577_8c13.gif" width="300" height="250" alt="1577_8c13" />][1]
+
+  [1]: http://asset.soup.io/asset/0695/6370_1ecb.gif

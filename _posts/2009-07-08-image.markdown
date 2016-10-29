@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-07-08 16:59
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/0382/4856_ac7b.png" width="432" height="432" alt="4856_ac7b" />][1]
+
+[Reposted from [jzx][2]]
+
+  [1]: http://imgur.com/JULHG.png
+  [2]: http://blog.neexistuje.sk/post/22813273/Image

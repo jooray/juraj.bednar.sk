@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-06-03 23:1
+comments: true
+external-url:
+categories:
+---
+[<img src="http://2.asset.soup.io/asset/0856/7138_72e3.png" width="273" height="276" alt="7138_72e3" />][1]
+
+  [1]: http://xkcd.com/742/

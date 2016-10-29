@@ -1,0 +1,19 @@
+---
+title: "Shoes"
+date: 2009-01-04 17:54
+comments: true
+external-url:
+categories:
+---
+![][1]  
+  
+I am playing with [Shoes][2]. I doubt anyone would do any difficult app with this, but for simple GUI hacks, it seemed pretty okay. I have [several][3] [problems][4]. And the whole idea of doing it as a domain specific language and not as a Ruby gems has some pluses, but if it was just a simple standard Ruby gem/framework as rails, it would help much more. I also have the same problem as [one user when using HTTPS][5].  
+  
+Anyways, [Nobody knows shoes][6] is a pretty interesting book to read (it's a 40-page PDF with very little text), I must say I never seen a GUI framework tutorial presented in such a way. Worth reading even if you don't intend to program in Shoes.
+
+  [1]: http://help.shoooes.net/static/shoes-icon.png
+  [2]: http://shoooes.net/
+  [3]: http://stackoverflow.com/questions/411246/how-do-i-pass-get-command-line-parameters
+  [4]: http://stackoverflow.com/questions/411255/tab-movement-in-shoes
+  [5]: http://stackoverflow.com/questions/402427/using-shoes-and-download-over-https-gives-ssl-errors
+  [6]: http://hackety.org/press/

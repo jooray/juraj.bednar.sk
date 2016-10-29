@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-03-18 0:34
+comments: true
+external-url:
+categories:
+---
+[<img src="http://7.asset.soup.io/asset/0266/0919_103c.jpeg" width="800" height="508" alt="0919_103c" />][1]
+
+  [1]: http://www.nathangwynne.com

@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-12-23 21:50
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0601/0692_86ab.jpeg" width="1055" height="694" alt="0692_86ab" />][1]
+
+[Reposted from [radvanyi][2]]
+
+  [1]: 
+  [2]: http://radvanyi.soup.io/post/38917153/Image

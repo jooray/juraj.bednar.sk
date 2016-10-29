@@ -1,0 +1,14 @@
+---
+title: "(Image)"
+date: 2009-08-25 1:6
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0393/6718_de2c.jpeg" width="400" height="269" alt="6718_de2c" />][1]
+
+[Reposted from [ludovico][2] via [kittykat][3]]
+
+  [1]: http://img2.visualizeus.com/thumbs/09/07/03/coffee-e28a5d75a1f19f37c819e53592b0b068_h.jpg
+  [2]: http://ludovico.soup.io/post/23406230/Image
+  [3]: http://kittykat.soup.io/post/25207041/Image

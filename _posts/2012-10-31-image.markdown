@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2012-10-31 1:24
+comments: true
+external-url:
+categories:
+---
+[<img src="http://5.asset.soup.io/asset/3850/7029_d906.png" width="630" height="430" alt="7029_d906" />][1]
+
+  [1]: https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/550281_423622667692990_1890805433_n.png

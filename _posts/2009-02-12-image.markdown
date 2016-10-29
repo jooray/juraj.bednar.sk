@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-02-12 23:50
+comments: true
+external-url:
+categories:
+---
+[<img src="http://a.asset.soup.io/asset/0240/8042_e2ed.jpeg" width="1300" height="747" alt="8042_e2ed" />][1]
+
+  [1]:

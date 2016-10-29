@@ -1,0 +1,10 @@
+---
+title: "AEMEA"
+date: 2009-08-09 16:1
+comments: true
+external-url:
+categories:
+---
+This open access academic publication presents new results in the foundations of mathematics and computer science. A method for solving the Turing Immortality Problem is presented in section 8 based on the mathematical results in sections 1 through 8. In section 9, a dynamic register machine is defined as an extension of the register machine. In section 10, the design of the immortal dynamic register machine program is explained. In section 11, the immortal dynamic register machine program composed of 1590 dynamic register machine instructions is presented that can determine in a finite number of computational steps whether a given Turing machine has any immortal configurations.
+
+<http://www.aemea.org/>

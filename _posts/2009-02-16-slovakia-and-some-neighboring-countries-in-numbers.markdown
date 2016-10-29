@@ -1,0 +1,10 @@
+---
+title: "Slovakia and some neighboring countries in numbers"
+date: 2009-02-16 22:16
+comments: true
+external-url:
+categories:
+---
+[http://graphs.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2007$zpv;v=0$inc\_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc\_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc\_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL\_n5tAQ;by=ind$inc\_c;uniValue=255;gid=CATID0;by=grp$map\_x;scale=log;dataMin=194;dataMax=96846$map\_y;scale=lin;dataMin=23;dataMax=86$map\_s;sma=49;smi=2.65$cd;bd=0$inds=#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc\_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc\_y;mmid=YCOORDS;iid=pyj6tScZqmEc3xNIyXiZ6EA;by=ind$inc\_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL%5Fn5tAQ;by=ind$inc\_c;uniValue=255;gid=CATID0;by=grp$map\_x;scale=log;dataMin=8380;dataMax=22781$map\_y;scale=log;dataMin=2.992;dataMax=256$map\_s;sma=49;smi=2.65$cd;bd=0$inds=i204\_l001993asdV;i57\_l001993bAeR;i99\_t001976,,,,;i14\_t001976,,,,][1]
+
+  [1]: http://graphs.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2007$zpv;v=0$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=194;dataMax=96846$map_y;scale=lin;dataMin=23;dataMax=86$map_s;sma=49;smi=2.65$cd;bd=0$inds=#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=pyj6tScZqmEc3xNIyXiZ6EA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL%5Fn5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=8380;dataMax=22781$map_y;scale=log;dataMin=2.992;dataMax=256$map_s;sma=49;smi=2.65$cd;bd=0$inds=i204_l001993asdV;i57_l001993bAeR;i99_t001976,,,,;i14_t001976,,,,

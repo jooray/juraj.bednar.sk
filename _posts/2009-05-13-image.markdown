@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-05-13 12:8
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/0314/7480_b033.png" width="740" height="226" alt="7480_b033" />][1]
+
+  [1]: http://imgs.xkcd.com/comics/cnr.png

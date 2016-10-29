@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-09-16 16:5
+comments: true
+external-url:
+categories:
+---
+[<img src="http://2.asset.soup.io/asset/0465/0498_b844.gif" width="560" height="175" alt="0498_b844" />][1]
+
+  [1]: http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/0000/000/35/35.strip.print.gif

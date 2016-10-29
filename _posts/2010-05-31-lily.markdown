@@ -1,0 +1,10 @@
+---
+title: "Lily"
+date: 2010-05-31 16:11
+comments: true
+external-url:
+categories:
+---
+Extension of Firefox similar in philosophy to Pure Data or Max/MSP.
+
+<http://www.lilyapp.org/about/>

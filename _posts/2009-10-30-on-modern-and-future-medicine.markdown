@@ -1,0 +1,8 @@
+---
+title: "On modern and future medicine"
+date: 2009-10-30 18:57
+comments: true
+external-url:
+categories:
+---
+I always liked science and how it constantly pushes our understanding of the world around us and of ourselves further. Constantly. Exponentially? Of these I like medicine. There are lot of problems in the world with medical practice, but knowledge is still accelerating and improving not only our understanding, but directly the quality of our lives. I had a LASEK (laser eye surgery) a month ago. And I see better than ever with glasses. The business aspect: lifetime warranty covering all necessary operations to keep my vision optimal through my upcoming lifetime makes it affordable. And it gets safer and more comfortable. When my friend had it more than 15 years ago, she spent two weeks with her eyes closed and bound in pain. It worked well for her removing her 6 dioptries. My operation took 15 minutes, examination before that took two hours. After three days I could use my eyes (before that, it was quite uncomfortable, but I had wonderful support from Janka). After two weeks, I could drive. Laser eye aurgery techniques is a good example of combining high-tech equipment, physics and medicine. This is a trend - one field is not enough - and that's a good thing. Computation, DNA analysis, genetic engineering, psychology, cognitive science, artificial intelligence, biochemistry, physics (optics!), networking and communication - they all are combined in single projects. Interesting and improving life quality. Custom tailored medicines. Less pain, longer and more quality life. I am happy to live in this time.

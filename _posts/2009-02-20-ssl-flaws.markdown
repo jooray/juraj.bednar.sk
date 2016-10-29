@@ -1,0 +1,12 @@
+---
+title: "SSL Flaws"
+date: 2009-02-20 11:36
+comments: true
+external-url:
+categories:
+---
+_Hackers at the Black Hat conference have shown that [SSL encryption isn't as secure as online businesses][1] would like us to think. Independent hacker Moxie Marlinspike showed off several techniques to fool the tech behind the little padlock on your screen. He claimed that by using a real world attack on several secure websites such as PayPal, Gmail, Ticketmaster and Facebook, he garnered 117 email accounts, 16 credit card numbers, seven PayPal logins and 300 other miscellaneous secure logins_
+
+<https://www.blackhat.com/presentations/bh-dc-09/Marlinspike/BlackHat-DC-09-Marlinspike-Defeating-SSL.pdf>
+
+  [1]: http://www.itpro.co.uk/609932/websites-in-danger-as-hacker-breaks-ssl-encryption

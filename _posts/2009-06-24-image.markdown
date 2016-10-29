@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-24 11:12
+comments: true
+external-url:
+categories:
+---
+[<img src="http://3.asset.soup.io/asset/0363/1299_a571.png" width="679" height="225" alt="1299_a571" />][1]
+
+  [1]: http://imgs.xkcd.com/comics/game_theory.png

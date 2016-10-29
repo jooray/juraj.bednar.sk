@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-09-06 23:2
+comments: true
+external-url:
+categories:
+---
+[<img src="http://1.asset.soup.io/asset/1062/6433_0c45.png" width="669" height="559" alt="6433_0c45" />][1]
+
+  [1]: http://www.secretgeek.net/dod_intro.asp

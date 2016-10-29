@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-08 23:16
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0346/2398_a10b.jpeg" width="1489" height="967" alt="2398_a10b" />][1]
+
+  [1]: http://awesome.goodmagazine.com/transparency/web/0904/trans0409ourfavoritedrugs.jpg

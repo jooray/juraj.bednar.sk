@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2010-08-14 20:58
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/1005/3044_c3e2.jpeg" width="385" height="500" alt="3044_c3e2" />][1]
+
+  [1]: http://farm3.static.flickr.com/2591/4163421028_712269596c_o.jpg

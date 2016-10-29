@@ -1,0 +1,8 @@
+---
+title: "Wiffiti"
+date: 2009-07-26 12:5
+comments: true
+external-url:
+categories:
+---
+<http://wiffiti.com/>

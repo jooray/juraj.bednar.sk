@@ -1,0 +1,10 @@
+---
+title: "FOCA"
+date: 2010-12-01 9:11
+comments: true
+external-url:
+categories:
+---
+Metadata extractor and analyzer
+
+<http://www.informatica64.com/DownloadFOCA/>

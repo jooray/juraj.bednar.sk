@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-05-15 13:6
+comments: true
+external-url:
+categories:
+---
+[<img src="http://7.asset.soup.io/asset/0317/1143_3bcd.jpeg" width="750" height="562" alt="1143_3bcd" />][1]
+
+  [1]: http://fixonomy.com/wiki/images/0/02/I_have_nothing_against_god.jpg

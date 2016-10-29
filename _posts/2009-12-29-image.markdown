@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-12-29 12:35
+comments: true
+external-url:
+categories:
+---
+[<img src="http://4.asset.soup.io/asset/0606/4612_5bf4.gif" width="320" height="146" alt="4612_5bf4" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: 
+  [2]: http://charlottinka.soup.io/post/39375677/Image

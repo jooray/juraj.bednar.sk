@@ -1,0 +1,18 @@
+---
+title: "JavaDay"
+date: 2008-12-05 1:48
+comments: true
+external-url:
+categories:
+---
+After JavaDay (liked presentations about Oracle Coherence, NetBeans and OpenESB / SOA).  
+  
+Installed NetBeans 6.5, played with JavaFx.  
+  
+Learned a lot about enterprise clustering using Glassfish. Still don't understand Terracota.  
+  
+Found about [Devoxx][1] conference, it's sold out, but watched some videos from 2007 and looking forward to see videos from this year's edition, there are some interesting talks.  
+  
+I think I have a coding phase and would like to do a lot of coding.
+
+  [1]: http://www.devoxx.com/display/JV08/Home

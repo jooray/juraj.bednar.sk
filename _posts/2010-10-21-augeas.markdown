@@ -1,0 +1,8 @@
+---
+title: "Augeas"
+date: 2010-10-21 22:15
+comments: true
+external-url:
+categories:
+---
+<http://augeas.net/index.html>

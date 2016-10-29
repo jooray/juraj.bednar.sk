@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-09-26 23:9
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/0477/1032_98be.png" width="413" height="336" alt="1032_98be" />][1]
+
+  [1]: http://xkcd.com/638/

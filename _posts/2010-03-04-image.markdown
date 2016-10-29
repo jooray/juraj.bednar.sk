@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-03-04 8:23
+comments: true
+external-url:
+categories:
+---
+[<img src="http://3.asset.soup.io/asset/0715/5667_d5aa.jpeg" width="500" height="475" alt="5667_d5aa" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: http://whiteboardjournal.com/news/art-design/klein-bottle-house.html
+  [2]: http://charlottinka.soup.io/post/47038028/Image

@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-02-18 8:41
+comments: true
+external-url:
+categories:
+---
+[<img src="http://c.asset.soup.io/asset/0688/6940_ded4.jpeg" width="600" height="900" alt="6940_ded4" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: http://www.photographersgallery.com/i/full/times_square.jpg
+  [2]: http://charlottinka.soup.io/post/45363315/Image

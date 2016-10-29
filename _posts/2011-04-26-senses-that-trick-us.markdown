@@ -1,0 +1,8 @@
+---
+title: "senses that trick us"
+date: 2011-04-26 22:36
+comments: true
+external-url:
+categories:
+---
+We get input about the world using our senses. We get information about the world. The question is if we all see the same thing. How it differs? If you think the world around us is exactly how we sense it, you are probably wrong. Apart from the fact that we see or hear only parts of the spectrum etc., even this information is processed, mainly influenced by the person’s expectations. This is not an esoteric stuff, it is a proven fact. Take sight: your eye is not clear, there is at least blood. It of course affects the output of the receptors, but we don’t see it: our brain filter it out. Expectation can affect what we see (directly). I was watching a TED talk about smell and they said, that smell is the most similar among people: people usually smell the same thing. There are genetic variations which affect how we taste bitter and this is significant and measurable. Marlous told me that painters usually have to turn their painting of figure upside-down when they want to work on colors or general finish. The brain renders the figure and it greatly affects what the painter can see and how can he work. After something gets a shape, it is more difficult to work on color or recreate it. If we all perceive a different world there are a few important questions: How different? How does it affect us and our thinking (a Strange Loop?). I like the idea of adding a new senses, but maybe fine-tuning existing ones does not have to be surgical at all. Maybe changing the way we think about the world affects our perception of the world on a much lower level than we thought?

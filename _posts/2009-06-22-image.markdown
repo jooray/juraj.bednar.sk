@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2009-06-22 13:29
+comments: true
+external-url:
+categories:
+---
+[<img src="http://3.asset.soup.io/asset/0361/4035_45bb.jpeg" width="800" height="600" alt="4035_45bb" />][1]
+
+  [1]:

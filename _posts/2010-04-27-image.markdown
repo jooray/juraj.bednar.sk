@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-04-27 14:59
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0801/9598_aea9.jpeg" width="500" height="666" alt="9598_aea9" />][1]
+
+[Reposted from [kyrah][2]]
+
+  [1]: 
+  [2]: http://soup.kyrah.net/post/54373198/Image

@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2010-01-29 20:4
+comments: true
+external-url:
+categories:
+---
+[<img src="http://e.asset.soup.io/asset/0661/9262_e900.jpeg" width="500" height="500" alt="9262_e900" />][1]
+
+[Reposted from [charlottinka][2]]
+
+  [1]: http://iamhugs.tumblr.com/page/8
+  [2]: http://charlottinka.soup.io/post/43474382/Image

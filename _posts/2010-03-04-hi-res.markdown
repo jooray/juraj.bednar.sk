@@ -1,0 +1,16 @@
+---
+title: "hi res"
+date: 2010-03-04 8:24
+comments: true
+external-url:
+categories:
+---
+[<img src="http://2.asset.soup.io/asset/0716/2658_06be.jpeg" width="2263" height="636" alt="2658_06be" />][1]
+
+[hi res][2]
+
+[Reposted from [charlottinka][3]]
+
+  [1]: http://img256.imageshack.us/img256/7769/7aeb594a9e1a82897c8b9ea.jpg
+  [2]: http://img256.imageshack.us/img256/7769/7aeb594a9e1a82897c8b9ea.jpg
+  [3]: http://charlottinka.soup.io/post/47084568/hi-res

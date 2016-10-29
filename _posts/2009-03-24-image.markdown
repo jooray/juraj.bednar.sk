@@ -1,0 +1,13 @@
+---
+title: "(Image)"
+date: 2009-03-24 15:42
+comments: true
+external-url:
+categories:
+---
+[<img src="http://7.asset.soup.io/asset/0270/9527_fda3.jpeg" width="480" height="480" alt="9527_fda3" />][1]
+
+[Reposted from [mx][2]]
+
+  [1]: http://www.mandor.sk
+  [2]: http://soup.hudak.info/post/16102330/Image

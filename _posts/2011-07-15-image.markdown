@@ -1,0 +1,10 @@
+---
+title: "(Image)"
+date: 2011-07-15 20:21
+comments: true
+external-url:
+categories:
+---
+[<img src="http://8.asset.soup.io/asset/2172/6216_9a1d.jpeg" width="282" height="700" alt="6216_9a1d" />][1]
+
+  [1]:
