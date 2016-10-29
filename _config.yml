@@ -64,6 +64,23 @@ exclude:
     - INSTALL.md
 
 
+# Podcast settings
+
+podcast_url: http://juraj.bednar.sk/podcast
+podcast_album_art: /assets/podcast/podcast_cover.jpg
+podcast_title: 'Reči o živote, vesmíre a vôbec'
+podcast_owner: Juraj Bednár
+podcast_email: juraj@bednar.sk
+podcast_category: 'Society &amp; Culture'
+podcast_subcategory_one: Personal Journals
+podcast_subcategory_two: Philosophy
+podcast_explicit: "no"
+podcast_author: Juraj Bednár
+podcast_description: 'O slobode, ako byť lepším, hackovaní seba, života, počítačov, ekonomike a všeličom inom. Hostiteľ: Juraj Bednár'
+podcast_summary: 'Juraj Bednár rozpráva o svojich hackoch, vychytávkach a filozofuje s kamarátmi.'
+podcast_subtitle: 'Sloboda, hacking, život'
+
+
 
 #      ______      __              _____      __
 #     / ____/___  / /___  _____   / ___/_____/ /_  ___  ____ ___  ___  _____
