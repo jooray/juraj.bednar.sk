@@ -1,4 +1,4 @@
 _site/
 .sass-cache/
 tmp/
-Gemfile.lock
+Gemfile.lock.code-highlighter-cache
