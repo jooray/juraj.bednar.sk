@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/jurajbednar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://juraj.bednar.sk
+  * I am jurajbednar (https://keybase.io/jurajbednar) on keybase.
+  * I have a public key with fingerprint 3529 61E1 BF53 DA48 B2D1  8B77 4D35 0309 AEE2 FB70
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "352961e1bf53da48b2d18b774d350309aee2fb70",
+            "host": "keybase.io",
+            "key_id": "4d350309aee2fb70",
+            "uid": "7aee919a5c379078d1a9f58dc6cf8100",
+            "username": "jurajbednar"
+        },
+        "revoke": {
+            "sig_ids": [
+                "172b554503184f8d265069f68ff2588ab9f055002269b197fbf91a0e483e3cf50f"
+            ]
+        },
+        "service": {
+            "hostname": "juraj.bednar.sk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1414320388,
+    "expire_in": 157680000,
+    "prev": "28d93dbecae8e9b8eb619faa29f34586dbebf3a9abf6245cb75061c49332c610",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: GPGTools - http://gpgtools.org
+
+owFtUmtQVGUYXlgXEXSAGdaUAJkzeCuic99zFiYGUyhC+yFZ4uRyLt9ZDsju8ewF
+iDaIS4BCiJCYU3KRdrCAWn6YNuVoUCkJpjVNySUJ4+4wOkNSDGzfUs30o+/PO9/7
+Pu/zPO8774kNWo2/315Ku6771yXF79tpXpORfiu8COGtYiFiLEJywWqQZIsZqIoq
+W+yIESEonKUxgPESRYgcyfC4iDG8wUCKBIUSKMsBgEu8AUXikGyrzdcBaXjOBuJl
+K8zBj0kWYfZ/8I7VggFmWIzlKIEwsKiBETGOlShGFGhBYjB0FWgDqoXLAxCd41C5
+HB6IFk5FXHGICpzWXOBzbZPNUMiGGA8hmAHnKYqEchhDSoyI0xRKsxLNSBJOMQzH
+sxJKUSiK4zTLY6xB4iUW41BAMgQgBIlCJeRVyA1FnbKwSu6b7L8G4v92EG/Lhe4U
+1Wq3CtYjsJhttytGny97oeID5wPe9A+NiZctItwsbHAC1SZbLYgRg0jBLvt4MRIj
+CRwlGCYOAQWKrAKT7ENQBppB4fPJACekxBmRJUQeCBxgAMszgKcxVuI4nJUIkmJo
+WOIlgmM5XqJxkhJ4AxweE0iWIHCBxnzrtIGjFitipMOhT84MOeHuLJzdoQLEFVTt
+H7lG4+evCdD5+65DE7Qu9N+TuZ8cshL7xKfam0uaezmeb1BlUPvHlcnvTVGNJ/d3
+v5J4ozN1hzuPXX84MLISBFc8uTg9Nlsf8nSeOb3Pc22z2vvSQbt71NWb2vLaV8Wp
+7Y8av+uceHHJedGSd9VxqDWgaSdXU7vrSmfxb9sej+9vohL2vHszKazk94/r9ce/
+OJgytE+naXne2D2NX5z7Sf/JWd2U7vXtwztp1uwKzZn9WkqcWI5yn+FOVIeXdUzO
+OyLY2Ib5hmyhKoEhm7f9OeK9lvuRPrILKX3k2r3AlAe1Jt8uPnfc62n7cIr57LJj
+ED0a0VGTrik9ib/Zsjvp2Qd1CVtHB7ZsUmKGs4fdanPVhaiyxdPm1pqZO7aiB8Vj
+Sl3w8MhAeYh2pHrLeSXsDW9tRcGlY1PRefmFz6janBvtp8avz6wZx6JC96hN+9IW
+Oqax6L66yCz/24ltfZ6G+QufD5V09Uykx9QN/PDlgRXQPXr3bLV36Lzuqtf8VFhm
+REppibZ9c2jsW9fXWht7Nqwt+KUsuTJDZwpEZzJAo7zsORzS9mPuQG+/e2pTtd5x
+IOvth6fz71YO7di/671getlC2qiKMb/A/nrdYuPGgFn258n1XVuJueg75P268Tnl
+Utq9waTL7z+38diZW81V2zOpwFP6zLQeb3LWkdSH+GMp5yaiayMDQVwEOi2+3LNS
+Wf7BCzFjexdc7yx5/gI=
+=OVwb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jurajbednar
+
+==================================================================
