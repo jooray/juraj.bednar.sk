@@ -79,7 +79,7 @@ exclude:
 #  - legacy
 #  - yule
 
-color_scheme: simplicity
+color_scheme: juraj
 
 
 #       ______            __
@@ -94,7 +94,7 @@ color_scheme: simplicity
 #   the settings for the fonts are used in /assets/css/simplicity.scss
 
 font:
-  import: 'Work+Sans'
+  import: 'Open+Sans'
 #  import: 'Titillium+Web:400,400italic,700,700italic'
 #  import: 'Roboto:400,400italic,700,700italic|Roboto+Mono'
 #  import: 'Merriweather:400,400italic,700,700italic'
@@ -102,10 +102,10 @@ font:
 #  import: 'Gentium+Basic:400,400italic,700,700italic'
 #  import: 'Fira+Sans:400,400italic,700,700italic|Fira+Mono'
   font-family-serif:      'Georgia, "Times New Roman", serif;'
-  font-family-sans-serif: '"Work Sans", "Neue Helvetica", Arial, serif;'
-  base-font-family:       '"Work Sans", "Neue Helvetica", Arial, serif;'
+  font-family-sans-serif: '"Open Sans", "Neue Helvetica", Arial, serif;'
+  base-font-family:       '"Open Sans", "Neue Helvetica", Arial, serif;'
   font-family-monospace:  '"Hack", Monaco, "Courier New", monospace;'
-  header-font-family:     '"Work Sans", "Neue Helvetica", Arial, serif;'
+  header-font-family:     '"Open Sans", "Neue Helvetica", Arial, serif;'
 
 
 #      ______
