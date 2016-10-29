@@ -2,11 +2,10 @@
 title: "About Hacktivism: My TedX talk with English subtitles"
 date: 2013-08-26 00:27
 comments: true
-categories: blog
+categories: talk
 tags:
  - ztohoven
  - geek
- - talk
  - slovak
 video: https://www.youtube.com/watch?v=0zVpmWKulm4
 ---

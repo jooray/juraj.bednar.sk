@@ -1,9 +1,11 @@
 ---
 title: 'BIOHACKING | Neurofeedback, meditácia, EEG a hacking mozgu v Paralelní Polis'
 video: https://www.youtube.com/watch?v=mU4biaDB1hY
+categories: talk
 tags:
- - talk
  - slovak
+ - biohacking
+ - lifehacking
 ---
 
 Prednáška z Paralelní Polis o tom ako si hacknúť svoj mozog.
