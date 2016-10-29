@@ -3,6 +3,7 @@ title: "Moral reform by Ztohoven: An ultimate hack"
 date: 2013-01-06 16:42
 comments: true
 categories: blog
+tags: ztohoven
 ---
 
 Almost nobody would guess that the speech of Czech MP David Rath would start a moral reform in the country. Rath was arrested and charged with receiving bribes in May 2012. He had a chance to explain what happened to other MPs, who would then vote on his political immunity. His words were not addressing the fellow MPs. He was looking at the cameras and trying to create a sentiment in the Czech nation. He pointed out other cases of corruption. The moral reform was not coming from his words nor from his heart. It was happening in parallel to his speech. And he was the only one that did not notice.
