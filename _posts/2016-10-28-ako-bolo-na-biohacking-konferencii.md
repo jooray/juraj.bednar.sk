@@ -13,11 +13,7 @@ podcast_duration: "50:49"
 podcast_length: 42700945
 ---
 
-My podcast from Bulletproof Biohacking conference is in Slovak.
-
-
-Môj videopodcast o tom ako bolo na Bulletproof Biohacking konferencii
-2016.
-
-Môžete si stiahnuť a
-[vypočuť audio](https://soundcloud.com/juraj-bednar/ako-bolo-na-bulletproof-conference-2016) alebo [pozrieť video](https://www.youtube.com/watch?v=3WzgZ83YoBM).
+Podcast o tom ako bolo na Bulletproof Biohacking konferencii 2016 v
+Kalifornii. Veľká časť je o výstave, predajcoch a zaujímavých biohackerských produktoch. V
+závere krátky prehľad prednášok s odkazom na iné podcasty s
+prednášajúcimi, ak vás dané témy zaujímajú bližšie. 

@@ -5,9 +5,9 @@ a,
 a:link {
     -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
     transition: all .15s cubic-bezier(.33,.66,.66,1);
-    color: $ci-1;
+    color: $ci-2;
     text-decoration: none;
-    border-bottom: 2px solid $ci-1;
+    border-bottom: 2px solid $ci-2;
 }
 
 a:visited {
@@ -15,16 +15,16 @@ a:visited {
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
-    border-bottom: 4px solid $ci-1;
+    color: darken( $ci-2, 10% );
+    border-bottom: 4px solid $ci-2;
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+    color: lighten( $ci-2, 20% );
 }
 
 a:active {
-    color: darken( $ci-1, 20% );
+    color: darken( $ci-2, 20% );
 }
 
 h1 a, h1 a:visited, h1 a:link,

@@ -1,0 +1,11 @@
+        {% if page.podcast_link %}
+				<p>
+					<audio controls>
+						<source src="{{ page.podcast_link }}" type="audio/mpeg"/>
+					</audio><br/>
+					<a href="{{ page.podcast_link }}" download>Download audio</a>
+				</p>
+				{% endif %}
+
+
+

@@ -44,11 +44,12 @@ devices. You find it in _sass/_layout/_layout_media_queries.scss
   white-space: nowrap;
   padding: .5em 2em .5em 2em;
   border: 0;
+	color: $ci-1;
 }
 #tnav a:hover {
   border: 0;
-  color: $ci-2;
-  background: $ci-1;
+  color: $ci-1;
+  background: $ci-2;
 }
 .tnav-list {
   display: inline-block;

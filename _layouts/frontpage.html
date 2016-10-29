@@ -33,7 +33,14 @@ format: frontpage
             </div>
             {% endif %}
 
-
+						{% if post.podcast_link %}
+						<p>
+							<audio controls>
+								<source src="{{ post.podcast_link }}" type="audio/mpeg"/>
+							</audio><br/>
+							<a href="{{ post.podcast_link }}" download>Download audio</a>
+						</p>
+						{% endif %}
 
             {% if post.video or post.embed %}
             {% elsif post.image %}
