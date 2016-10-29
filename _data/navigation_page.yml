@@ -1,14 +1,40 @@
-- name: "Getting Started"
-  url: "/getting-started/"
-
-- name: "What's special about <em>Simplicity</em>?"
-  url: "/about-simplicity/"
+- name: "Learn more about me"
+  url: "/about-me/"
 
 - name: "All Articles"
   url: "/archive/"
 
-- name: "Why I designed <em>Simplicity</em>"
-  url: "/info/"
+- name: "Atom feed"
+  url: "/atom.xml"
 
-- name: "Style Guide"
-  url: "/style-guide/"
+- name: "Twitter"
+  url: "https://twitter.com/jurbed"
+
+- name: "Github"
+  url: "https://github.com/jooray"
+
+- name: "LinkedIn"
+  url: "http://www.linkedin.com/in/jbednar/"
+
+- name: "Keybase"
+  url: "https://keybase.io/jurajbednar"
+
+- name: "Biohacking"
+  url: "/biohacking-bratislava"
+
+- name: "Progressbar - Bratislava hackerspace"
+  url: "http://www.progressbar.sk/"
+
+- name: "Paralelni Polis - hackerspace and Bitcoin cafe in Prague"
+  url: "http://www.paralelnipolis.cz/"
+
+- name: "DIGMIA - my server-geeks company"
+  url: "http://www.digmia.com/"
+
+- name: "Citadelo - hackers on your side"
+  url: "http://www.citadelo.com/"
+
+- name: "Essential Data - search & big data company"
+  url: "http://www.essential-data.sk/"
+
+

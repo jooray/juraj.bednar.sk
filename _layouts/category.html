@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<h2>Category: {{ page.title }}</h2>
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% assign catsize = site.categories[page.category] | size %}
+{% unless catsize > 0 %}
+  <p>No posts in this category at this time.</p>
+{% endunless %}
+
+		<ul class="toc">
+		{% for post in site.categories[page.category] %}
+			<li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}<span>{{ post.subheadline }}</span>{% endif %}{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>

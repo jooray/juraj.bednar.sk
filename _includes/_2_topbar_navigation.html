@@ -3,25 +3,20 @@
 
     <li id="tnav-logo" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow"><a href="#" accesskey="1">{{ site.title }}</a>
       <ul class="tnav-children">
+
         <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/">Start</a></li>
-        <li class="tnav-item"><a href="https://github.com/Phlow">Phlow @ GitHub</a></li>
-        <li class="tnav-item"><a href="https://twitter.com/phlow/">Phlow @ Twitter</a></li>
-        <li class="tnav-item"><a href="http://phlow.de/">Phlow.de</a></li>
+				<li class="tnav-item"><a href="/about-me/">Learn more about me</a></li>
+				<li class="tnav-item"><a href="http://www.progressbar.sk/">Progressbar - Bratislava hackerspace</a></li>
+				<li class="tnav-item"><a href="http://www.paralelnipolis.cz/">Paralelni Polis - hackerspace in Prague</a></li>
+				<li class="tnav-item"><a href="http://www.digmia.com/">DIGMIA - my server-geeks company</a></li>
+				<li class="tnav-item"><a href="http://www.citadelo.com/">Citadelo - my &quot;hackers on your side&quot; company</a></li>
+				<li class="tnav-item"><a href="http://www.essential-data.sk/">Essential Data - search &amp; big data company</a></li>
+
+
       </ul>
     </li>
 
-{% comment %}
-#   This is just an example of a dropdown menu of the navigation.
-#   Delete comments to use it.
-#
-    <li class="tnav-item tnav-hide tnav-has-children tnav-allow-hover"><a href="#">Dropdown</a>
-      <ul class="tnav-children">
-        <li class="tnav-item"><a href="#">Dropdown Item 1</a></li>
-        <li class="tnav-item"><a href="#">Dropdown Item 2</a></li>
-        <li class="tnav-item"><a href="#">Dropdown Item 3</a></li>
-      </ul>
-    </li>
-{% endcomment %}
+		<li id="tnav-logo" class="tnav-item"><a href="/tag/slovak/">Slovenčina</a></li>
 
     <li id="tnav-search" class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/search/">{% include svg/search.svg %}</a></li>
 
@@ -34,15 +29,26 @@
 		<li class="tnav-item"><a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}">StumbleUpon</a></li>
 		<li class="tnav-item"><a href="http://reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}">Reddit</a></li>
 		<li class="tnav-item"><a href="http://www.linkedin.com/shareArticle?url={{ site.url }}{{ site.baseurl }}/{{ page.url }}&title={{ page.title }}&source={{ site.url }}{{ site.baseurl }}/{{ page.url }}">LinkedIn</a></li>
-		<li class="tnav-item"><a href="mailto:?subject={{ page.title }}&body={{ page.url }}">Email</a></li>
+		<li class="tnav-item"><a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ site.baseurl }}{{ page.url }}">Email</a></li>
       </ul>
     </li>
 
     <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a href="#">Navigation</a>
       <ul class="tnav-children">
-        <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/info/">About {{ site.title }}</a></li>
-        <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/contact/">Contact</a></li>
+        <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/about-me/">About me</a></li>
         <li class="tnav-item tnav-hide"><a href="{{ site.url }}{{ site.baseurl }}/archive/">Archive</a></li>
+				<li class="tnav-item"><a href="/atom.xml">Atom feed</a></li>
+				<li class="tnav-item"><a href="https://twitter.com/jurbed">Twitter</a></li>
+				<li class="tnav-item"><a href="https://github.com/jooray">Github</a></li>
+				<li class="tnav-item"><a href="http://www.linkedin.com/in/jbednar/">LinkedIn</a></li>
+				<li class="tnav-item"><a href="https://keybase.io/jurajbednar">Keybase</a></li>
+{% for category in site.categories %}
+				<li class="tnav-item"><a href="/category/{{ category[0] }}/">{{ category[0] | capitalize }}</a></li>
+{% endfor %}
+{% for tag in site.tags %}
+				<li class="tnav-item"><a href="/tag/{{ tag[0] }}/">{{ tag[0] | capitalize }}</a></li>
+{% endfor %}
+
       </ul>
     </li>
 

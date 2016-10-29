@@ -1,12 +1,8 @@
 - name: 'About'
-  url: '/info/'
+  url: '/about-me/'
 
 - name: 'Navigation'
   url: '/navigation/'
 
 - name: 'Theme by Phlow'
   url: 'http://phlow.de/'
-
-- name: 'Impressum'
-  class: 'impressum'
-  url: 'http://phlow.de/impressum.html'

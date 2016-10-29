@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<h2>Tag: {{ page.tag }}</h2>
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% assign catsize = site.tags[page.tag] | size %}
+{% unless catsize > 0 %}
+  <p>No posts with this tag at this time.</p>
+{% endunless %}
+
+		<ul class="toc">
+		{% for post in site.tags[page.tag] %}
+			<li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}<span>{{ post.subheadline }}</span>{% endif %}{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>
