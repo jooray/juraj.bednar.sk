@@ -3,7 +3,7 @@ title: "Solve the world's problems as your career"
 date: 2016-09-23 01:42
 comments: true
 categories: blog
-image: posts/2016-09-23-solve-the-worlds-problems-wayan.jpg
+image: /posts/2016-09-23-solve-the-worlds-problems-wayan.jpg
 tags: lifehacking
 ---
 
