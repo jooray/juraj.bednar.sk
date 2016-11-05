@@ -18,9 +18,14 @@ slogan:       'On geeky stuff, life hacks and entrepreneurship'
 
 
 # Build settings
+<<<<<<< HEAD
 url:          'https://juraj.bednar.sk'
 baseurl:      ''
 urlimg:       'https://juraj.bednar.sk/images'
+=======
+url:          'https://phlow.github.io'
+baseurl:      '/simplicity'
+>>>>>>> b272f9e... Now uses absolute_url filter instead of {{ site.url }}{{ site.baseurl }}
 markdown:     kramdown
 highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/

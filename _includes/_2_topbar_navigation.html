@@ -4,7 +4,7 @@
     <li id="tnav-logo" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow"><a href="#" accesskey="1">{{ site.title }}</a>
       <ul class="tnav-children">
 
-        <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/">Start</a></li>
+        <li class="tnav-item"><a href="{{ "/" | absolute_url }}">Start</a></li>
 				<li class="tnav-item"><a href="/about-me">Learn more about me</a></li>
 				<li class="tnav-item"><a href="https://twitter.com/jurbed">Twitter</a></li>
 				<li class="tnav-item"><a href="https://github.com/jooray">Github</a></li>
@@ -16,13 +16,12 @@
 				<li class="tnav-item"><a href="http://www.citadelo.com/">Citadelo - my &quot;hackers on your side&quot; company</a></li>
 				<li class="tnav-item"><a href="http://www.essential-data.sk/">Essential Data - search &amp; big data company</a></li>
 
-
       </ul>
     </li>
 
 		<li id="tnav-logo" class="tnav-item"><a href="/tag/slovak/">SK</a></li>
 
-    <li id="tnav-search" class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/search/">{% include svg/search.svg %}</a></li>
+    <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}">{% include svg/search.svg %}</a></li>
 
     <li id="tnav-share" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow"><a href="#">{% include svg/share.svg %}</a>
       <ul class="tnav-children">
@@ -39,8 +38,9 @@
 
     <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a href="#">Navigation</a>
       <ul class="tnav-children">
-        <li class="tnav-item"><a href="{{ site.url }}{{ site.baseurl }}/about-me">About me</a></li>
-        <li class="tnav-item tnav-hide"><a href="{{ site.url }}{{ site.baseurl }}/archive/">Archive</a></li>
+<<<<<<< HEAD
+        <li class="tnav-item"><a href="{{ "/about-me" | absolute_url }}">About me</a></li>
+        <li class="tnav-item tnav-hide"><a href="{{ "/archive" | absolute_url }}">Archive</a></li>
 				<li class="tnav-item"><a href="/atom.xml">Atom feed</a></li>
 {% for category in site.categories %}
 				<li class="tnav-item"><a href="/category/{{ category[0] }}/">{{ category[0] | capitalize }}</a></li>
