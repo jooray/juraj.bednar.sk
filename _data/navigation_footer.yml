@@ -4,5 +4,12 @@
 - name: 'Navigation'
   url: '/navigation/'
 
-- name: 'Theme by Phlow'
-  url: 'http://phlow.de/'
+- name: 'Podcast info'
+  url: '/category/podcast'
+
+- name: 'Podcast feed'
+  url: 'http://juraj.bednar.sk/podcast-feed.xml'
+
+- name: 'iTunes'
+  url: 'https://geo.itunes.apple.com/sk/podcast/reci-o-zivote-vesmire-a-vobec/id1170817570?mt=2'
+
