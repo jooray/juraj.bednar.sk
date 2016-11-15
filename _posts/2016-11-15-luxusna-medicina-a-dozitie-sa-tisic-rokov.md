@@ -17,10 +17,14 @@ na veci, s ktorými nie úplne súhlasím.
 Medicína ako luxus
 ==================
 
-Druhá vec čo sa mi nepáči zo zápiskov je "strašenie ľudí" tým, že niečo je drahé a dostupné len
+Dôležitá vec, čo sa mi nepáči zo zápiskov je "strašenie ľudí" tým, že niečo je drahé a dostupné len
 pre bohatých. To, že je niečo luxus teraz znamená, že do toho tečú peniaze a to presne umožňuje
 ten exponenciálny rozvoj. To je to, čo ľudia pri tom exponenciálnom rozvoji nechápu, že on sa
-nedeje automaticky, nie je to prírodný jav. Je výsledkom práce ľudí. Moorov zákon funguje vďaka
+nedeje automaticky, nie je to prírodný jav. Je výsledkom práce ľudí.
+
+<!--more-->
+
+Moorov zákon funguje vďaka
 konkurencii, trhu a snahe podnikateľov zarobiť peniaze. Keď nás prestane zaujímať zvyšovanie výkonu
 procesorov a prestaneme si kupovať stále lepšie zariadenia, výkon prestane a ľudia sa budú venovať
 niečomu inému. A práve bohatí majú unikátnu a trochu "nespravodlivú" schopnosť nasmerovať energiu
