@@ -12,24 +12,7 @@ tags:
 Tento blog je reakciou na [skvelý článok](https://dennikn.sk/blog/zapisky-z-buducnosti-3-digitalna-biologia-a-medicina/)
 (respektíve skvelú sériu) Michala Meška Zápisky z budúcnosti. V treťom dieli svojej reportáže zo Singularity
 University sa venuje Digitálnej biológii a medicíne. Článok je skvelý, odporúčam prečítať. Reagujem len
-na dve veci, s ktorými nie úplne súhlasím.
-
-Tlačové správy alebo realita?
-=============================
-
-V prvom rade: Veľa z toho je zatiaľ wishful thinking. Len príklad: využil som asi všetky dostupné
-genetické horoskopy (vrátane spomínaného [Athletigen](http://athletigen.com)). Majú veľmi
-nekonzistentné výsledky, nie sú zintegrované s fenotypom a ostatnými dátami. A momentálne
-nevieme vyhodnotiť “váhu” jednotlivých génov. Keď mám tri gény podporujúce výkon v silových
-športoch a jeden ktorý náš výkon zoslabuje, čo to pre mňa znamená?
-(Závisí od toho aká je ich expresia). Peter Diamandis je nadšenec, veľmi ma to baví čítať,
-ale viac pracuje s tlačovými správami ako so skúsenosťami s použiteľnosťou produktov. V jeho
-newsletteri Abundance Insider, ktorý pravidelne čítam hovorí o technologických vynálezoch, ale
-tie sú väčšinou v štádiu "Proof of concept" na univerzite alebo ako startup nápad, nie ako niečo
-prakticky realizované. Aj napriek tomu je skvelé tomu venovať pozornosť,
-lebo vidíme, čo sa deje. Len je dôležité uvedomiť si, že nie všetko, čo
-sa dostane do štádia proof of concept na univerzite je možné pretaviť to
-funkčného a trvalo udržateľného (teda ziskového) produktu alebo služby.
+na veci, s ktorými nie úplne súhlasím.
 
 Medicína ako luxus
 ==================
@@ -106,3 +89,32 @@ moci - že sú schopní zamerať "sústredenie" spoločnosti (to, čomu ľudia v
 zdroje) na to, po čom túžia - budeme žiť tisíc rokov. Aj privatizačný zbohatlík chce tak dve vily, dve jachty,
 tri drahé autá a jednu helikoptéru. Potom ho začnú zaujímať vredy v žalúdku, to, že nevidí tak ako za mladi
 a to, že ten stres, ktorý v sebe celý život hromadil ho pomaly zabíja. Dovoľme mu tento problém vyriešiť.
+
+P.S.: Kľúčom k dožitiu sa dlhého veku (môj cieľ je 1000 rokov) je dožiť
+sa času, kedy budú dostupné technológie, ktoré to umožnia. "Žiť
+dostatočne dlho na to, aby ste žili naveky". Sada mojich vychytávok, na
+ktoré ste nemuseli byť privatizačným podnikateľom, aby ste si ich mohli
+dovoliť je v mojej prednáške [Biohacking: Ako sa dožiť 1000
+rokov](http://juraj.bednar.sk/talk/2016/04/12/biohacking-ako-sa-dozit-1000-rokov/),
+pozrite si ju, je zadarmo. O tom, že to nie je len o prežití, ale o
+kvalite života a produktivite [hovorím viac aj v ďalej prednáške, ktorá je o
+hackovaní mozgu a
+produktivity](http://juraj.bednar.sk/talk/2016/02/10/biohacking-neurofeedback-meditacia-eeg-a-hacking-mozgu/). A ak vás táto téma naozaj zaujíma, pridajte sa do československej [Biohacking skupiny
+na Facebooku](https://www.facebook.com/groups/555837574564696/).
+
+
+P.P.S.: Veľa z toho čo hovorí Peter Diamandis a čo spomína Michal Meško je zatiaľ wishful thinking.
+Len príklad: využil som asi všetky dostupné
+genetické horoskopy (vrátane spomínaného [Athletigen](http://athletigen.com)). Majú veľmi
+nekonzistentné výsledky, nie sú zintegrované s fenotypom a ostatnými dátami. A momentálne
+nevieme vyhodnotiť “váhu” jednotlivých génov. Keď mám tri gény podporujúce výkon v silových
+športoch a jeden ktorý náš výkon zoslabuje, čo to pre mňa znamená?
+(Závisí od toho aká je ich expresia). Peter Diamandis je nadšenec, veľmi ma to baví čítať,
+ale viac pracuje s tlačovými správami ako so skúsenosťami s použiteľnosťou produktov. V jeho
+newsletteri Abundance Insider, ktorý pravidelne čítam hovorí o technologických vynálezoch, ale
+tie sú väčšinou v štádiu "Proof of concept" na univerzite alebo ako startup nápad, nie ako niečo
+prakticky realizované. Aj napriek tomu je skvelé tomu venovať pozornosť,
+lebo vidíme, čo sa deje. Len je dôležité uvedomiť si, že nie všetko, čo
+sa dostane do štádia proof of concept na univerzite je možné pretaviť to
+funkčného a trvalo udržateľného (teda ziskového) produktu alebo služby.
+
