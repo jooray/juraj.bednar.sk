@@ -16,16 +16,13 @@ description: > # this means to ignore newlines until "email:"
 email: juraj@bednar.sk
 slogan:       'On geeky stuff, life hacks and entrepreneurship'
 
+# The language setting is used in /includes/header.html for html-settings
+lang: "en"
 
 # Build settings
-<<<<<<< HEAD
 url:          'https://juraj.bednar.sk'
 baseurl:      ''
 urlimg:       'https://juraj.bednar.sk/images'
-=======
-url:          'https://phlow.github.io'
-baseurl:      '/simplicity'
->>>>>>> b272f9e... Now uses absolute_url filter instead of {{ site.url }}{{ site.baseurl }}
 markdown:     kramdown
 highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/
@@ -42,8 +39,6 @@ posts_list_limit: 15
 # Use <!--more--> in your posts to generate an excerpt and a teaser
 excerpt_separator: <!--more-->
 
-# The language setting is used in /includes/header.html for html-settings
-language: "en"
 
 
 
@@ -271,6 +266,7 @@ socialmedia:
     # rss: # Full URL needed
 
 
+<<<<<<< HEAD
 feed:
     path: atom.xml
 
