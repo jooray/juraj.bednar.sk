@@ -18,9 +18,9 @@ slogan:       'On geeky stuff, life hacks and entrepreneurship'
 
 
 # Build settings
-url:          'http://juraj.bednar.sk'
+url:          'https://juraj.bednar.sk'
 baseurl:      ''
-urlimg:       'http://juraj.bednar.sk/images'
+urlimg:       'https://juraj.bednar.sk/images'
 markdown:     kramdown
 highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/
