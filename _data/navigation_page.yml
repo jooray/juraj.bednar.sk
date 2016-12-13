@@ -1,5 +1,5 @@
 - name: "Learn more about me"
-  url: "/about-me/"
+  url: "/about-me"
 
 - name: "All Articles"
   url: "/archive/"
