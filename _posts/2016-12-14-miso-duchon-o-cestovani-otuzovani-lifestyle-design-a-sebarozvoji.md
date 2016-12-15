@@ -28,6 +28,7 @@ Odkazy, ktoré spomíname alebo by ste si ich mali pozrieť:
  * [Travel Hacking blog Mišovej priateľky Janky](http://travelhack.me/)
  * [Travel hacking guide z Progressbaru](https://www.progressbar.sk/blog/posts/travel-hacking-kniha-cestovatelskych-tipov-a-trikov)
  * [Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
+ * [Osobnostný test na silné stránky](https://www.authentichappiness.sas.upenn.edu/testcenter) - test je zdarma, ale nedá sa spraviť priamy odkaz, takže kliknite na tento odkaz a vyberte **VIA Survey of Character Strengths**.
 
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
