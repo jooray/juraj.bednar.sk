@@ -1,16 +1,16 @@
 ---
 title: 'Robert Chovanculiak o sharing economy, transakčných nákladoch, Uberi a súkromných školách v slumoch'
-video: https://www.youtube.com/watch?v=kgBiUCmX5y4
+video: https://www.youtube.com/watch?v=NAUw57IRsvo
 categories: podcast
 tags:
  - slovak
  - lifehacking
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-01-02
-podcast_link: http://juraj.bednar.sk/assets/podcast/
-podcast_file_size: 78 MB
-podcast_duration: "1:08:21"
-podcast_length: 82024265
+podcast_link: http://juraj.bednar.sk/assets/podcast/05-zdielana-ekonomika-transakcne-naklady-sukromne-skoly-v-slumoch.mp3
+podcast_file_size: 91 MB
+podcast_duration: "1:19:19"
+podcast_length: 95212109
 ---
 
 TOFILL
