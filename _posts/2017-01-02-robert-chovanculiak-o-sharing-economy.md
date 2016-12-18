@@ -32,6 +32,3 @@ Odkazy, ktoré spomíname alebo by ste si ich mali pozrieť:
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
 
-Prihlásenie [cez iTunes (Apple zariadenia)](https://geo.itunes.apple.com/sk/podcast/reci-o-zivote-vesmire-a-vobec/id1170817570?mt=2), [cez RSS (väčšina ostatných podcast prehrávačov)](http://juraj.bednar.sk/podcast-feed.xml).
-
-Prípadne si vypočujte [jednotlivé epizódy na webe bez podcast aplikácie](/category/podcast/#epizody).

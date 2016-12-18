@@ -52,6 +52,9 @@ format: page
 
       </div><!-- /.content -->
 
+      {% if page.podcast_link %}
+      	{% include _podcast_subscribe.html %}
+			{% endif %}
 
       {% if page.comments == true %}
       {% include _comments.html %}

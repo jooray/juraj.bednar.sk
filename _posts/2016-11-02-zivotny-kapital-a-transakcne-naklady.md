@@ -50,3 +50,5 @@ Transakčné náklady je možné často znížiť rôznymi všeobecnými technik
 * referencie 
 	- využime našu reálnu sociálnu sieť - *"máš dobrú upratovačku?"*
 
+
+Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!

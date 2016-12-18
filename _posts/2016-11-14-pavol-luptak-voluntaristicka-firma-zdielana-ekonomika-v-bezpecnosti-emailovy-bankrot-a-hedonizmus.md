@@ -37,4 +37,5 @@ Pavla Luptáka nájdete na:
   * Wilderova [prednáška o Hacktrophy a koncepte bug bounty programov](https://m.youtube.com/watch?v=WNwPjvD_Dxc) a [slajdy k nej](http://slides.com/nethemba/rise-of-crowdsourced-security)
   * [Slajdy k zatiaľ neuskutočnenej prednáške o voluntaristickej firme](http://slides.com/nethemba/the-most-free-company)
 
+Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
 
