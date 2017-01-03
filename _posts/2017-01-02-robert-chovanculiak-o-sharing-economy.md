@@ -5,19 +5,15 @@ categories: podcast
 tags:
  - slovak
  - lifehacking
-image: /assets/podcast/podcast_cover.jpg
+image: /podcast_cover.jpg
 date: 2017-01-02
-podcast_link: http://juraj.bednar.sk/assets/podcast/05-zdielana-ekonomika-transakcne-naklady-sukromne-skoly-v-slumoch.mp3
+podcast_link: https://juraj.bednar.sk/assets/podcast/05-zdielana-ekonomika-transakcne-naklady-sukromne-skoly-v-slumoch.mp3
 podcast_file_size: 91 MB
 podcast_duration: "1:19:19"
 podcast_length: 95212109
 ---
 
-TOFILL
-TOFILL
-TOFILL
-TOFILL
-TOFILL
+Čo je to zdieľaná ekonomika? Je to len novodobé hipsterské slovo pre kúl "appky", ktorými z mobilu získame jednoduchší prístup na trh? V rozhovore s ekonómom Robertom Chovanculiakom sa dozviete o tom aké problémy rieši zdieľaná ekonomika, prečo chudobné deti chodia radšej do súkromnej školy, ako nám voľný trh zvyšuje životnú úroveň. Bavíme sa aj o tom, či je možné nahradiť niektoré časti štátu crowdfundingovými platformami.
 
 <!--more-->
 
@@ -31,4 +27,3 @@ Odkazy, ktoré spomíname alebo by ste si ich mali pozrieť:
 
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
-
