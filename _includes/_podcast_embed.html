@@ -5,6 +5,11 @@
 					</audio><br/>
 					<a href="{{ page.podcast_link }}" download>Download audio</a>
 				</p>
+
+				<script>
+fbq('track', 'ViewPodcast', { podcast: '{{ page.podcast_link }}' });
+				</script>
+
 				{% endif %}
 
 
