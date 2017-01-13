@@ -14,7 +14,7 @@ podcast_duration: "1:25:04"
 podcast_length: 102098342
 ---
 
-Vesmíru vládne entropia. Ak niektorej oblasti svojho života nevenujeme energiu, postupne degraduje. Do svojej kariéry alebo financií neinvestujeme energiu a čudujeme sa, že nenapredujeme alebo sme iba šedý priemer. Nevenujeme sa zdraviu a ono sa zhoršuje. Partnerskému vzťahu odchádza šťava. Je na to nejaké riešenie? Dá sa mať všetko? Na túto otázku zodpovedá **Zuzana Bednárová** a.k.a. moja mama. Už roky sa venuje koučingu, zlepšovaní života - svojho aj svojich klientov. A podarilo sa mi ju ukecať na podcast, takže verím, že zlepší trochu aj ten váš. Tento podcast naozaj stojí za to pre každého!
+Vesmíru vládne entropia. Ak niektorej oblasti svojho života nevenujeme energiu, postupne degraduje. Do svojej kariéry alebo financií neinvestujeme energiu a čudujeme sa, že nenapredujeme alebo sme iba šedý priemer. Nevenujeme sa zdraviu a ono sa zhoršuje. Partnerskému vzťahu odchádza šťava. Je na to nejaké riešenie? Dá sa mať všetko? Na túto otázku zodpovedá **Zuzana Bednárová** a.k.a. moja mama. Už roky sa venuje koučingu, zlepšovaniu života - svojho aj svojich klientov. A podarilo sa mi ju ukecať na podcast, takže verím, že zlepší trochu aj ten váš. Tento podcast naozaj stojí za to pre každého!
 
 <!--more-->
 
