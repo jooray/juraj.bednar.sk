@@ -32,7 +32,7 @@ Odkazy, ktoré spomíname alebo by ste si ich mali pozrieť:
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
 
- = Prepis podcastu =
+**Prepis podcastu**
 
 
 **Juraj**:
