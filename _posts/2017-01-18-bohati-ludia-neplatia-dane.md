@@ -18,6 +18,8 @@ takže predtým než mi začnete nadávať, že nie som za plnú rovnosť (čo n
 som), prečítajte si prečo to tak je a to, že chápem, že máte iné morálne
 intuície.
 
+<!--more-->
+
 **Nerovnosť**
 
 Najprv pár základných vecí: Príjmové nožnice sa pravdepodobne
