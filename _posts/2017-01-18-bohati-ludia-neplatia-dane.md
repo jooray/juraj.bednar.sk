@@ -284,6 +284,8 @@ ušetrí, napríklad na lepšie bývanie. Neplatí teda toľko daní na
 spotrebe, ale ušetrí oveľa menej ako si myslí, pretože nevyužíva efekt
 nových peňazí; dokonca je na zlej strane tohto efektu.
 
+<img src="/images/posts/2017-01-18-bohati-ludia-neplatia-dane-transfer.png" alt="Transfer od bohatých k chudobným a od chudobných k bohatým"/>
+
 Zoberte si napríklad rodinu, ktorá si "šetrí na bývanie". To znamená, že si
 ukladajú eurá na nejaký "sporiaci účet", ktorý ak to veľmi preženiem zarába 5% p.a.
 Ich sused si vezme hypotéku s trojpercentným úrokom a kúpi si nový dom.
