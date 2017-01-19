@@ -143,8 +143,8 @@ Myslím, že jeden z dôvodov je, že účtovne je v zisku zahrnuté riziko,
 ktoré je dosť rôzne v rôznych odvetviach. Riziko je tiež náklad, ale nie
 je daňovo uznateľný, takže z marže je veľká časť pokrytie rôznych druhov
 rizík (zníženie dopytu, kolísanie vstupných cien, právne riziká, meniace
-sa prostredie, ...). Z tohto dôvodu si myslím, že marža (po zdanení) na
-ktorú podnikatelia cielia je oveľa stabilnejšia ako samotný zisk. Ak je
+sa prostredie, ...). Z tohto dôvodu si myslím, že výnos kapitálu (po zdanení) na
+ktorý podnikatelia cielia je oveľa stabilnejší ako samotný zisk. Ak je
 to pravda (čo je len môj názor, ktorý nemám nijak podložený), tak daň z
 príjmu je obyčajný náklad, ktorý sa pretaví do koncovej ceny produktov
 a služieb.
@@ -157,7 +157,15 @@ koncového spotrebiteľa. Na to, aby firma mohla zaplatiť daň z príjmu,
 musí ho získať od spotrebiteľa, ak nevytvorí zisk, nič neplatí. Takže v
 konečnom dôsledku peniaze na zaplatenie daní pochádzajú z peňaženky
 spotrebiteľa - nie od "bohatého podnikateľa". Ten ich síce "prizná" a
-odvedie štátu, ale zaplatil ich spotrebiteľ.
+odvedie štátu, ale zaplatil ich spotrebiteľ. (Na druhej strane, daň z
+príjmu predstavuje v priemere cca 1-2% z tržieb firmy, takže zrušenie
+dani z príjmu by asi veľmi ceny neznížilo, na druhej strane by prinieslo
+konkurenciu, pretože je to podstatná časť z výnosu kapitálu - to sa ale
+netýka ostatných daní, ktoré platí spotrebiteľ, DPH je pätina ceny
+koncového produktu, spotrebné dane na benzín sú tiež podstatnou zložkou
+ceny, ktoré sa prejavujú aj v cenách produktov, ktoré kupujú ľudia,
+ktorí "chodia všade pešo" - tie paradajky na Miletičku niekto musí
+doviezť).
 
 To, že dane platia "bohaté firmy" je podľa mňa ilúzia, platíme ich my,
 ktorí služby týchto firiem využívame. Z tohto pohľadu je zaujímavé to,
@@ -276,14 +284,39 @@ ušetrí, napríklad na lepšie bývanie. Neplatí teda toľko daní na
 spotrebe, ale ušetrí oveľa menej ako si myslí, pretože nevyužíva efekt
 nových peňazí; dokonca je na zlej strane tohto efektu.
 
-Zoberte si napríklad rodinu, ktorá si "šetria na bývanie". To znamená, že si
+Zoberte si napríklad rodinu, ktorá si "šetrí na bývanie". To znamená, že si
 ukladajú eurá na nejaký "sporiaci účet", ktorý ak to veľmi preženiem zarába 5% p.a.
 Ich sused si vezme hypotéku s trojpercentným úrokom a kúpi si nový dom.
 Na trhu je o dom menej, takže ceny domov stúpli (samozrejme, nové domy
 sa aj stavajú, len si treba uvedomiť, že aj druhý sused stavia - tiež na
 hypotéku - a teda robotníkov je menej, nehovoriac o tých, ktorí za eurofondy stavajú
 ďiaľnice a teda nemôžu stavať váš dom - ak im neponúknete obzvlášť dobrú
-odmenu).
+odmenu). Čo to znamená pre šetriacu rodinu? Že ceny toho, na čo šetria
+stúpajú oveľa rýchlejšie a oplatí sa skôr sa napojiť na zdroj nových
+peňazí (úvery, eurofondy) ako šetriť. A tým sa znova dostávame k tomu
+efektu nových peňazí. Neoplatí sa šetriť (teda rozhodnúť sa "spotrebúvať
+menej"), ale prisať sa na zdroj nových peňazí a presunúť to šetrenie cez
+rast spotrebiteľských cien na všetkých ostatných. Predstavte si to tak,
+že ja si postavím teraz dom na hypotéku, spôsobím rast cien
+nehnuteľností a vďaka mne vzrastú aj ceny robotníkov. K nim (a k
+pôvodnému majiteľovi pozemku, od ktorého som kúpil) sa dostanú tieto
+nové peniaze a podľa toho, čo kúpia oni spôsobia rast ďalších cien. Teda
+ľudia, ktorí spotrebuvávajú všetky tieto statky (domy, pozemky,
+robotníci, rožky s treskou a borovička, ktorú si robotníci kupujú) toho
+môžu vďaka vyšším cenám spotrebovať menej. Takže všetci šetria na môj
+dom. Paráda, nie? Myslíte si, že hypotéku dostane pravdepodobnejšie chudobný
+človek alebo stredná trieda? Ešte raz, aby sa to lepšie vstrebalo - **chudobní
+ľudia cez to, že môžu vďaka rastúcim cenám spotrebovať menej "šetria" na
+domy bohatších ľudí, ktorí dostanú hypotéku**. A nie len na domy,
+hypotéky sú len jedna z mála ciest, ktorými sa statky presúvajú od
+chudobným k bohatším. Eurofondy sú ďalší pekný príklad. Celé je to
+neviditeľné, nikomu neubúda zostatok na účte, len sa zrazu za eurofondy
+rekonštruuje "zadarmo" detské ihrisko alebo kostol v dedine, všetci sú
+štastní, že tú európsku úniu máme. A potom si len zanadávame, že tie
+paradajky a domy zase zdraželi, zlí chamtiví podnikatelia, však?
+Nabudúce, keď budete nadávať na vyššie ceny, pozrite sa na logo
+európskej únie a nápis "Postavené z fondov Európskej Únie". To je pravý
+dôvod, prečo ceny stúpajú - a chudobní sú chudobnejší.
 
 Bohatý človek má síce veľmi často nejaké eurá ("keš je kráľ", hlavne v
 dobe krízy, kedy bohatý človek "vo výpredaji" kupuje lacno všetko, čoho
@@ -325,8 +358,12 @@ fondom alebo eurofondovým grantom.
 
 Ak sa vám podarí čokoľvek ušetriť, šetrite to v niečom inom ako v
 štátnych peniazoch. Pre každého je to niečo iné, ale pre mňa sú dobré
-investície do môjho vzdelania a rozvoja (teda zvyšujem svoju hodnotu na
-trhu), ak máte deti, tak to bude investovanie do zdravia a vzdelania
+investície do môjho vzdelania a rozvoja - teda zvyšujem svoju hodnotu na
+trhu a chcem mať viac možností a schopností ako založiť a viesť firmu
+(čím viac toho viem, tým efektívnejšie a vo viacerých oblastiach môžem
+podnikať).
+
+Ak máte deti, tak to bude investovanie do zdravia a vzdelania
 vašich detí. To sú dividendy, ktoré vám nikdy nezoberie žiadna centrálna
 banka. Samozrejme, neučte sa niečo, čo v dobe technologického pokroku nebude
 potrebné. A nechcem tým povedať, že máte ísť na štátnu univerzitu
