@@ -106,5 +106,9 @@ src="//www.youtube-nocookie.com/embed/QkyIeFMinGo?rel=0" frameborder="0"
 allowfullscreen></iframe>
 
 [Celý podcast
-tu](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/)
+tu](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/).
+
+Odporúčam pozrieť aj môj [novší blog, ktorý sa tiež dotýka konfliktu medzi
+exponenciálnymi technológiami a lineárnymi vládami - na príklade
+vzdelávania.](https://juraj.bednar.sk/blog/2017/01/24/exponencialne-technologie-vs-linearna-vlada/)
 
