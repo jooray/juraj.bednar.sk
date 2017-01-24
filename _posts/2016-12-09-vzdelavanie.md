@@ -97,3 +97,14 @@ Môže to byť napríklad:
 * komunita, v ktorej sa pohybujeme - zdieľajme vedomosti a skúsenosti navzájom. Môj kolega a kamarát Tomáš Zaťko vymyslel, že vždy keď ideme na chatu, máme tzv. lightning talks. Sú to krátke prednášky (zvyčajný limit býva 10 alebo 15 minút), na ktorých si povieme, čo zaujímavé riešime, normálna prezentácia. Naposledy som videl veľa fotiek zvláštnych objektov v telách z urgentného príjmu, dozvedel som sa ako asi prebieha vývoj nových peptidových antibiotík, Tomáš nám vysvetlil ako sa mu podarilo zmobilizovať polku mesta na Bublifukovanie a ja som [hovoril o vlajke](http://www.ztohoven.com/). Super nápad, včera sme to robili aj s našou návštevou doma, rýchle privátne lightning talks s rozhovorom. 
 
 Na záver dávam ešte do pozornosti [môj podcast](/category/podcast), ktorý je pokusom vzdelávať dospelých v tom, čo ich škola nenaučila - ako mať kvalitný a úspešný život. Samozrejme, môj pohľad, každý je iný. 
+
+Obzvlášť [odporúčam epizódu, v ktorej Robert Chovanculiak vysvetľuje
+prečo chudobné deti v slumoch chodia do súkromných škôl aj napriek tomu,
+že štátne školy existujú a sú "zadarmo"](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/). Konkrétny úryvok tejto časti tu:
+<iframe width="560" height="315"
+src="//www.youtube-nocookie.com/embed/QkyIeFMinGo?rel=0" frameborder="0"
+allowfullscreen></iframe>
+
+[Celý podcast
+tu](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/)
+
