@@ -41,6 +41,7 @@ Odkazy k podcastu:
 
  * [Nassim Nicholas Taleb: Antifragile](https://www.martinus.sk/?uItem=206175).
  * [Jurajov blog o Barbell stratégii na financie (v angličtine)](https://juraj.bednar.sk/blog/2016/09/06/barbell-strategy-for-investment/)
+ * [Facebook skupina Taleboviny](https://www.facebook.com/groups/1156112114478175/), v ktorej sa bavíme o antifragilite a podobných témach.
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
 
