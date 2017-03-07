@@ -28,7 +28,8 @@ Odkazy, ktoré spomíname alebo by ste si ich mali pozrieť:
  * [Facebook](https://www.facebook.com/LifebookSlovensko)
  * [E-mail kontakt na Zuzanu](mailto:zuzana@lifebook.sk?subject=Podcast)
  * [LifeIQ - online test](http://www.lifebook.sk/lifeiq/) - test zdarma, v ktorom sa môžete ohodnotiť vo všetkých oblastiach života a zistiť tak na čom potrebujete pracovať najviac a čo vám k tomu pomôže.
- * [Jurajov blog o Barbell stratégii na financie (v angličtine)](https://juraj.bednar.sk/blog/2016/09/06/barbell-strategy-for-investment/)
+ * [Jurajov blog o Barbell stratégii na financie (v angličtine)](https://juraj.bednar.sk/blog/2016/09/06/barbell-strategy-for-investment/) a [podcast na rovnakú tému](https://juraj.bednar.sk/podcast/2017/03/07/barbell-strategia-pre-investicie/)
+ * [Stanovovanie cieľov a ladenie si života](https://www.facebook.com/vejdiven/videos/1295848267173607/) - Záznam z Life tuning night z Paralelní Polis
  
 Ak vás tento podcast zaujal, prihláste sa k odberu, vyzdieľajte ho na sociálnych sieťach a podobne. Poteší aj recenzia na iTunes. V jeho tvorbe budem pokračovať iba vtedy, ak budem mať pocit, že to má zmysel a teda že ho niekto počúva. Ďakujem všetkým poslucháčom za investovaný čas!
 

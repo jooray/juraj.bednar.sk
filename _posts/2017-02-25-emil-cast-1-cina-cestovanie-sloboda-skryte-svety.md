@@ -33,6 +33,7 @@ Odkazy k podcastu:
  * [YouTube kanál Serpentza](https://www.youtube.com/user/serpentza)
  * [YouTube kanál C-milk](https://www.youtube.com/user/laowhy86)
  * [Čo je to WeChat?](https://www.youtube.com/watch?v=2BCgCA_VREA)
+ * [Ako funguje internet, objednávanie, služby v Číne?](https://a16z.com/2017/02/06/china-trends-2016-2017/) - skvelá prednáška o tom ako funguje internetový ekosystém v Číne. Ak chcete vedieť, čo nás čaká s našim retro Facebookom, pozrite si toto :).
 
 Facebook skupiny, ktoré spomínam v úvode a závere:
 
