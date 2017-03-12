@@ -6,4 +6,3 @@ there.
 
 Other than that, [go to the site itself at juraj.bednar.sk](http://juraj.bednar.sk/).
 
-
