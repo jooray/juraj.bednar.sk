@@ -27,6 +27,9 @@ umývačkou riadu?
 Povieme si aj niečo o meditácii a o tom, že na zmenu sveta nepotrebujete
 nič, len použiť svoju slobodu, vyhrnúť rukávy a ísť na vec.
 
+Mimochodom, ak by ste chceli pomôcť pri založení Paralelnej Polis v
+Bratislave, [pozrite si (zatiaľ provizórny) web paralelnapolis.sk](http://paralelnapolis.sk/) a prihláste sa k odberu noviniek.
+
 Odkazy k podcastu:
 
  * [Paralelné systémy a zmena zdola](https://medium.com/@matejheld/paralelné-systémy-a-zmena-z-dola-1ac3ce469ce#.idc76djeb) a [dodatok k článku](https://medium.com/@matejheld/dodatok-k-článku-paralelné-systémy-a-zmena-z-dola-a2dc0436445c#.x2luy639m), kde Matej popisuje svoju víziu paralelných systémov a rôznych možností zmien.
