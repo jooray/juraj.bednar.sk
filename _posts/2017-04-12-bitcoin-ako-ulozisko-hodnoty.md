@@ -15,6 +15,8 @@ hodnoty, nie len ako transakčného systému. Musí byť hodnota
 Bitcoinu (vyjadrená v štátnych menách) stabilná (teda nie volatilná)
 na to, aby sme ju mohli úspešne používať ako úložisko hodnoty?
 
+<!--more-->
+
 Existuje trh s ukladaním bohatstva do kryptomien?
 
 Myslím, že pre každého trochu viac pokročilého užívateľa Bitcoinu je toto veľmi zaujímavá téma, tak ak ste nevideli, odporúčam, mám na to dobré odozvy. A dozviete sa niečo, čo nie je úplne bežná znalosť.
