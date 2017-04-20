@@ -1,6 +1,6 @@
 ---
 title: 'Bitcoin ako úložisko hodnoty'
-video: https://www.youtube.com/watch?v=ZTX50oKit_0
+video: https://www.youtube.com/watch?v=ey_2OoNx5x4
 categories: talk
 tags:
  - geek
@@ -8,7 +8,9 @@ tags:
  - slovak
 ---
 
-Videozáznam z mojej prednášky Bitcoin ako úložisko hodnoty z [Progressbaru](https://www.progressbar.sk/).
+Videozáznam z mojej prednášky Bitcoin ako úložisko hodnoty z Paralelní Polis v Prahe.
+Je [dostupná aj staršia verzia prednášky z Progressbaru, má ale horší
+zvuk aj obraz](https://www.youtube.com/watch?v=ZTX50oKit_0).
 
 Trochu viac "technická" prednáška o použití Bitcoinu ako úložisko
 hodnoty, nie len ako transakčného systému. Musí byť hodnota
@@ -29,5 +31,4 @@ Ak preferujete anglickú verziu, je [dostupná aj
 tá](https://juraj.bednar.sk/talk/2017/03/18/bitcoin-as-a-store-of-value/),
 ale táto verzia je trošku podrobnejšia a presnejšia.
 
-[Slajdy sú dostupné tu](https://prezi.com/4n89ux1jck8p/bitcoin-z-kavovych-usadenin/).
-
+[Slajdy sú dostupné tu](https://prezi.com/ethybarblk6f/bitcoin-ako-ulozisko-hodnoty/)
