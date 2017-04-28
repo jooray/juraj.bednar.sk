@@ -1,6 +1,6 @@
 ---
 title: 'Hacking the Czech Parliament via SMS [30c3]'
-video: https://www.youtube.com/watch?v=hBxeSmBBdfg
+video: https://www.youtube.com/watch?v=gNfxb1A1rSg
 categories: talk
 tags:
  - ztohoven
