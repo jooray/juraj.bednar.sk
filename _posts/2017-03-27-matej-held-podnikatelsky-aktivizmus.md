@@ -1,5 +1,5 @@
 ---
-title: 'Podnikateľský aktivizmus, invoácie vo vzdelávaní, podnikateľský surrealizmus, mindfulness a paralelná polis (Matej Held)'
+title: 'Podnikateľský aktivizmus, inovácie vo vzdelávaní, podnikateľský surrealizmus, mindfulness a paralelná polis (Matej Held)'
 video: https://www.youtube.com/watch?v=JE3og4hXPTU
 categories: podcast
 tags:
