@@ -4,6 +4,7 @@ date: 2017-05-31 20:20
 comments: true
 categories: blog
 tags: bitcoin
+image: /posts/2017-05-31-blockchains-and-network-effects.jpg
 ---
 
 An insight that is important in relation to recent talks about hard forks:
