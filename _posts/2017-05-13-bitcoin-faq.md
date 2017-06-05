@@ -144,3 +144,85 @@ Ak chcete naozaj zaujímavú prednášku z iného pohľadu ako robím
 štandardne, napíšte mi ponuku, ako odmenu beriem Bitcoiny aj iné
 kryptomeny alebo zlaté mince. Možno ma ukecáte aj na eurá, ak ich
 bude dosť. :)
+
+## Je Ethereum budúcnosť? ##
+
+Neviem.  Osobne Ethereum považujem za skvelý projekt, dokonca málokto vie, že Vitalik chvíľu
+bol u nás v Progressbare v Bratislave, tak som s ním strávil nejaký čas a myslím si, že je technologický génius.
+
+Čo sa týka Etherov ako meny, nemyslím si, že je to dobrá mena sama o sebe, myslím si, že je
+to token na platenie za služby tej siete (asi ako "cestovný lístok v
+MHD", tiež si ich nekúpim sto na investíciu do budúcnosti). Problém je,
+že je to sieť pomerne drahá, takže si myslím, že to, čo sa stane pôjde dvomi vetvami:
+
+**[Rootstock](http://www.rsk.co/)** je implementácia Ethereum technológie nad Bitcoin blockchainom ako tzv. sidechain.  Trošku zložiteješie vysvetliť, ale v praxi sa to dá predstaviť ako druhý chain, ktorý vie interagovať s Bitcoinovou sieťou (posielať skutočné Bitcoiny namiesto etherov), ale nezahlcuje Bitcoin blockchain smart contract transakciami. Myslím si, že toto je oveľa užitočnejší use-case ako Ethereum samotné, pretože dokáže interagovať s Bitcoin sieťou, ktorá je väčšia (a teda [network effect je väčší](https://juraj.bednar.sk/blog/2017/05/31/blockchains-and-network-effects/)).
+
+**Privátne / alternatívne blockchainy**. Tým, že ether transakcie majú dosť nepredikovateľnú reálnu cenu, pre mnoho aplikácií bude výhodnejšie postaviť si vlastný chain. Ak ste zaregistrovali informácie o Ethereum Enterprise Alliance, tak väčšina tých firiem tam nie je preto, že by chceli stavať na Ethereum sieti, ale preto, že si zoberú technológiu na ktorej je to postavené a postavia si vlastný chain, ktorý bude "lacnejší". To je v konečnom dôsledku dobré aj pre Ethereum samotné (nebude zaspamované toľkými transakciami).
+
+Poznámka: Myslím si, že permissioned chains sú hlúposť, najdôležitejšia
+inovácia blockchainu je to, že umožňuje kooperovať ľuďom, ktorí si
+navzájom neveria. Ak treba niekoho do siete "pustiť", je lepšia
+centralizovaná databáza.
+
+Týmto smerom ide aj [Hyperledger](https://www.hyperledger.org/)
+
+Ďalší dôvod, prečo si myslím, že Ethereum je fajn technológia, ale nemám až tak rád Ethereum sieť je ten
+hard fork. Som veľmi rád, že ho urobili, pretože ukázali že to nie je katastrofa a že sa to dá ustáť. To ma
+nabíja nádejou, že to v pohode dá aj Bitcoin a akýkoľvek blockchain, ktorý sa pre to rozhodne a užívatelia
+si vyberú pre nich ten lepší chain.
+
+Každopádne tie dôvody sa mi nepáčia. Toto je [na webe Ethereum](http://www.ethereum.org/), hneď prvý odstavec:
+
+*Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.*
+
+Ale ten fork bol práve "third party interference" do existujúceho kontraktu. Neodsudzujem Vitalika, že sa tak
+rozhodol, ja osobne neviem, čo by som spravil, ale po tom forku mať ako prvý odstavec napísané toto chce
+dosť odvahu. Neviem, či sa niekedy nerozhodnú pre ďalší bail-out.
+
+## Sú ICOs/konkrétne kryptomeny/Bitcoin bezpečné? ##
+
+Bitcoin podľa mňa je do veľkej miery bezpečný. Prečo to tak je?
+Ak sa niekomu podarí ukradnúť Bitcoiny, odmena je niekde na úrovni
+miliárd dolárov, kým si to niekto všimne. To znamená, že útočníkom
+sa oplatí investovať určite milióny až miliardy dolárov do hľadania
+bezpečnostnej zraniteľnosti. V tomto rozpočte sa už dá robiť aj
+vlastný hardvér a podobne. Bitcoin je najväčší bug bounty program na
+svete. Trochu o tom viem, keďže som zakladateľom
+[Hacktrophy](https://hacktrophy.com), čo je bug bounty program
+pre etických hackerov. Myšlienka je taká, že firmy môžu odmeniť
+ľudí za nájdenie a nahlásenie (teda nie zneužitie) zraniteľnosti.
+
+Pri Bitcoine je tá bounty rádovo vyššia ako akákoľvek iná etická bounty.
+Samozrejme, útočník by musel bezpečnostnú chybu zneužiť, čo je opak
+etického hackovania, ale ekonomické motivácie fungujú veľmi podobne
+(rozdiel je ten, že neetický hacker musí zarátať riziko odhalenia
+a potrestania, ktoré je v tomto prípade pomerne vysoké a reputačné
+riziko, kdežto pri etickom bug bounty programe má reputačný zisk a
+žiadne riziko potrestania).
+
+
+Súvisí to s Ethereum a s ICOs a s tým hard forkom, ktorý som spomínal
+v predchádzajúcej otázke tak, že tie ICOs (alebo kryptomeny všeobecne)
+patria medzi najväčšie bug bounty programy na svete. 
+
+[Andreas to vysvetľuje tu, veľmi odporúčam](https://www.youtube.com/watch?v=zGKCmHWguEQ&feature=youtu.be)
+
+Zaujímavý pohľad je potom na bail-out. Bitcoin vznikol na protest
+proti bail-outom, Satoshi napísal do prvého bloku toto:
+
+**The Times 03/Jan/2009 Chancellor on brink of second bailout for
+banks**
+
+To, čo urobil Vitalik s forkom Etherea je v podstate bailout. Ak teda
+ľudia spúšťajú ICOs a kryptomeny, vyzbierajú za pár minút niekoľko
+miliónov dolárov na kóde, ktorý neprešiel žiadnym rozumným bezpečnostným
+auditom, odohrá sa ten bezpečnostný audit po spustení. A ak sa stane
+niečo podobné ako pri *The DAO*, kedy niekto nájde dieru a zneužije ju
+a získa tak množstvo hodnotných tokenov, na ktorých môže zbohatnúť,
+je veľká šanca, že Vitalik zase takú dieru bailoutne pomocou rozdelenia
+siete (tzv. hard forku).
+
+Nie je to katastrofa a môžeme polemizovať, čo je horšie, ale kupovať
+nové tokeny, ktoré za sebou nemajú niekoľkoročný bezpečnostný audit
+je podľa mňa riziko, o ktorom je dobré vedieť. A prosím, nezneužívajte
+diery, nahlasujte ich, je vždy dobré byť na správnej strane histórie.
