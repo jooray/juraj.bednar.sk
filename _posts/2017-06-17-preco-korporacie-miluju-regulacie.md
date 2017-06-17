@@ -7,25 +7,27 @@ tags: slovak
 image: /posts/2017-06-17-preco-korporacie-miluju-regulacie.jpg
 ---
 
-Jeden z najväčších mýtov o voľnom trhu ktorý poznám je, že veľké
+Jeden z najväčších mýtov o voľnom trhu, ktorý poznám je, že veľké
 korporácie snívajú o voľnom trhu a laissez faire kapitalizme. Nič nemôže
 byť ďalej od pravdy.
 
 Poznáte to. Zisk z dodávania verejnému sektoru končí v schránkových
-firmách. Vymyslíme reguláciu - register konečných užívateľov výhod.
+firmách. Vymyslíme reguláciu - napríklad register konečných užívateľov výhod.
 Každý, kto chce dodať čo i len toaletný papier cez verejné obstarávanie
 musí byť v registri a tam sa konečný užívateľ výhod konečne prizná, aj
 keď má na obchodnom registri aj v banke bieleho koňa. Ak nie, hrozí mu
 pokuta. Všetci jasajú ako sme konečne zatočili so schránkovými firmami.
 
-Realita?
+**Realita?**
 
 <!--more-->
 
-Korporácie vrátane schránkových firiem sa tešia. Ktokoľvek, kto chce
-dodať verejnej správe čo i len toaletný papier sa musí ísť zaregistrovať.
+Korporácie vrátane schránkových firiem sa tešia. Registráciu zmáknu,
+obzvlášť keď "vedia", že budú pre verejnú správu dodávať, zarátajú si
+to do ceny.
 Je to tak hodinová návšteva notára, stojí to stovky eur a výsledok je len
-možnosť predávať do verejnej správy.
+možnosť predávať do verejnej správy. Takže pre firmy, ktoré to chcú len
+skúsiť je to bariéra navyše s neistým výsledkom.
 
 Zaujímavé to ale začne byť až keď sa na to pozriete z pohľadu
 začínajúceho podnikateľa (potenciálnej konkurencie). Prejdime od
@@ -57,10 +59,11 @@ Ale ten nový podnikateľ (je jedno, či má sedem rokov alebo 30),
 ktorý chce predávať limonádu a ešte ani nevie, či mu biznis pôjde najprv
 musí vyriešiť množstvo iných problémov - založiť firmu, zohnať
 registračnú pokladnicu, účtovníka, povolenie na prevádzku, pre všetkých
-ľudí čo vyrábať a predávať, ten papier od lekára (mimochodom, keď som si
+ľudí čo budú vyrábať alebo predávať ten papier od lekára
+(mimochodom, keď som si
 ho vybavoval, doktorka sa na mňa ani nepozrela, vystavila mi ho rovno
 sestrička). A potom pre každú verziu limonády, aj keď ešte neviem aké
-budú vypísať alergény a zloženie. (Teraz nehovorím, že toto sú aktuálne
+to budú, vypísať alergény a zloženie. (Teraz nehovorím, že toto sú aktuálne
 regulácie).
 
 **Objavovanie**
@@ -103,7 +106,7 @@ zákonom dané bonzovanie svojich zákazníkov.
 Samozrejme, účel svätí prostriedky. Vďaka reguláciám máme superbezpečné
 jogurty, vďaka ktorým nezomrieme na otravu, teplé miestečká pre ľudí,
 ktorí sa zaoberajú dodržiavaním regulácií, vysnívaný pocit bezpečia
-medzi tvomi teroristickými útokmi, čo je obdobie, kedy nás naši ctení
+medzi dvomi teroristickými útokmi, čo je obdobie, kedy nás naši ctení
 volení zástupcovia ubezpečujú, že už tá ďalšia regulácia na ktorej
 pracujú nás zachráni. A vďaka helmám nepadajú ľudia z nákupných centier,
 ktoré sa stavajú.
