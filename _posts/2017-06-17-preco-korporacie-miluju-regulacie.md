@@ -136,7 +136,7 @@ produkty a služby zakázať. A tie horšie, zakázané mohli byť práve
 zárodok tých lepších a lacnejších.
 
 Cesta do regulačného raja je dláždená dobrými úmyslami, skupinami ľudí,
-ktorí chcú vyriešiť len tej jeden problém, ktorý vo svete vidia a
+ktorí chcú vyriešiť len ten jeden problém, ktorý vo svete vidia a
 platená a podporovaná firmami, ktoré už svoje miesto na trhu našli.
 
 Ten, komu to vadí je malý podnikateľ, ktorý chce zmeniť svet, dieťa s
