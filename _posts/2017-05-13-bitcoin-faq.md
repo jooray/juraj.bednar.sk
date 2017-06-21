@@ -226,3 +226,50 @@ Nie je to katastrofa a môžeme polemizovať, čo je horšie, ale kupovať
 nové tokeny, ktoré za sebou nemajú niekoľkoročný bezpečnostný audit
 je podľa mňa riziko, o ktorom je dobré vedieť. A prosím, nezneužívajte
 diery, nahlasujte ich, je vždy dobré byť na správnej strane histórie.
+
+## Prečo Bitcoin a iné kryptomeny teraz tak rastú? ##
+
+Dôvodov je viacero. Kryptomeny sa dostávajú do povedomia. Bitcoin je najstaršou z nich. Vďaka tzv. sieťovým efektom rastie hodnota siete kvadraticky s počtom uzlov. Je to dané tým, že užitočnosť platobného systému je daná možnými prepojeniami medzi jednotlivými užívateľmi siete. Ak sa pridá do siete jeden užívateľ, užitočnosť siete narastie výrazne, pretože zrazu s týmto užívateľom siete môže celý zvyšok siete robiť transakcie. Veľká časť je teda prirodzený exponenciálny rozvoj platobnej siete. Táto zákonitosť je známa pod názvom Metcalfe-ov zákon a bola prvýkrát popísaná pre telekomunikačné siete. Predstavte si napríklad, že si kúpite fax. Ak ho máte sami, je to úplne zbytočné zariadenie. Ak ste dvaja, môžete si navzájom vymieňať dokumenty. Ak sa pridá ďalší človek, môže si dokumenty vymieňať so všetkými užívateľmi, ktorí sú v sieti zapojení. Tento rozvoj je zo začiatku pomalý, ale v momente, keď má fax už skoro každý, jeho užitočnosť stúpa.
+
+Druhým dôvodom je niečo čo sa volá Lindy efekt - životnosť vecí, ktoré nepodliehajú skaze je priamo úmerná veku. Príkladom je najnovší iPhone. Je na trhu niečo vyše rok a predpokladáme, že o rok bude úplne nahradený iným modelom a o dva roky sa už ani nebude dať jednoducho kúpiť. Zato napríklad stolička, ktorá existuje minimálne 2000 rokov bude pravdepodobne existovať ďalších 2000 rokov. Na Bitcoin Lindy efekt vplýva tak, že je to najstaršia kryptomena. Kedysi ľudia ignorovali Bitcoin ako experiment. Ale keď už je na trhu osem rokov, očakávame, že je to niečo, čo s nami istú dobu ostane. A toto očakávanie sa premieta do ceny.
+
+Ďalším dôvodom je samozrejme špekulácia. Ľudia si uvedomili, že možno premeškali životnú šancu rýchlo zbohatnúť a chcú veriť, že ešte nie je neskoro. Stúpajúca hodnota Bitcoinu im túto vieru posilňuje a prináša do systému ďalších ľudí. To, ako to dopadne samozrejme nevieme dopredu povedať.
+
+A posledným dôvodom je miznúce bankové tajomstvo a nedôvera v klasický štátom regulovaný finančný systém. Posledné roky na celom svete končí bankové tajomstvo, štáty vyhlasujú vojnu proti hotovosti a uchovávanie hodnoty v Bitcoine je účinný spôsob ako sa proti týmto zmenám brániť. Zároveň platí, že čím viac ľudí sa bráni, tým vyššiu hodnotu má Bitcoin. Medzi regulácie, pred ktorými chráni Bitcoin a iné kryptomeny patrí medzinárodná dohoda OECD CRS a americké pravidlá FATCA, ktoré zabezpečujú to, že banky musia hlásiť zostatky na účte a dôležité zdaniteľné udalosti krajinám, v ktorých je držiteľ účtu daňovým rezidentom. To v praxi znamená, že skrývanie majetku na off-shore bankových účtoch nie je tak jednoduché ako kedysi. Samozrejme, bankový systém pre majetnejších klientov našiel rôzne riešenia, ale pre väčšinu ľudí, ktorým na bankovom tajomstve záleží je Bitcoin oveľa bezpečnejšie a efektívnejšie riešenie.
+
+## Prečo klesá pomer trhovej kapitalizácie Bitcoinu voči ostatným kryptomenám? ##
+
+Dôvody sú dva. V prvom rade, ľudia by veľmi radi videli zisky, aké boli možné pri Bitcoine a veria, že pri iných kryptomenách mohlo prísť k rovnakému rastu. A tak špekulujú s pochopiteľným cieľom zarobiť.
+
+Druhým dôvodom sú problémy so škálovaním Bitcoinu a niektoré vlastnosti alternatívnych kryptomien. Špecifické dôvody pre jednotlivé kryptomeny sú tieto:
+
+**Litecoin** - má nižšie transakčné poplatky a škáluje lepšie ako Bitcoin. Bitcoin momentálne nie je vhodný na malé platby (napríklad na platbu v kaviarni) a Litecoin túto úlohu pomerne dobre spĺňa. Zároveň je po Bitcoine druhou najstaršou kryptomenou, takže s ňou ľudia majú skúsenosti a táto kryptomena má pomerne dobrú technologickú infraštruktúru - peňaženky, zmenárne, riešenia pre obchodníkov.
+
+**Monero** - Bitcoin sa často prezentuje ako anonymná kryptomena. To je však pravda iba čiastočne. Pri Bitcoine neexistuje prihlasovacie meno a heslo alebo niečo, čo by priamo identifikovalo majiteľa účtu. Bitcoinové adresy vyzerajú ako náhodné zhluky písmen a číslic. Okrem toho väčšina užívateľov používa pre každú platbu inú adresu. Na druhej strane všetky transakcie sú plne transparentné a všetci vidia z ktorých účtov sa posielali Bitcoiny. V tzv. blockchain databáze, kde sa uchovávajú transakcie je možné vidieť kto, komu a koľko Bitcoinov poslal. Odosielateľ a príjemca sú identifikovaní len Bitcoin adresou, ale ak je užívateľ nejakým spôsobom identifikovaný, dá sa za istých okolností sledovaním pohybov peňazí zistiť o koho sa jedná. Tento problém rieši napríklad mena Monero (okrem nej trochu menej dokonale aj Zcash alebo DASH). Pomocou šikovných kryptografických protokolov autori vymysleli spôsob ako vo verejnej databáze transakcií ukryť odosielateľa, prijímateľa aj sumu. Monero teda funguje veľmi podobne ako Bitcoin, ale transakcie nie sú verejne dohľadateľné.
+
+**Ethereum** - Ethereum umožňuje vytváranie nových mien a dokonca aj zložitejších decentralizovaných aplikácií. Predstavte si napríklad notársky úrad, kataster, sharing economy aplikáciu alebo stávkovú spoločnosť, ktorá nemá žiadnu centrálnu autoritu. Funguje bezpečne a len na základe dohody používateľov. Práve možnosť vytvárať ďalšie kryptomeny pomocou tzv. Initial Coin Offerings nad Ethereum vzrastá hodnota samotného Etherea. Predstavte si, že prídete do supermarketu, kde si môžete kúpiť podiel na firmách alebo množstvo iných technologických hračiek, ktoré sú teraz v móde. Ale platiť sa dá iba pomocou jednej meny Ethereum. Znamená to, že celá ekonomika tohto obchodu zvyšuje hodnotu Etherea ako výmenného prostriedku.
+
+## Nie je volatilita problém? ##
+
+Volatilita môže a nemusí byť problém, závisí od toho, čo chcete s
+kryptomenou robiť.
+
+Je pravda, že ceny tovarov a služieb denominované v BTC sa menia aj niekoľkokrát denne. Preto väčšina obchodníkov nepoužíva Bitcoin ako účtovnú jednotku a ceny určuje v inej účtovnej jednotke. Napríklad aj v [Paralelní Polis v Prahe](http://paralelnipolis.cz/) - Bitcoin kaviarni a coworking priestore sa platí síce iba kryptomenami, ale ceny sú určené v českej korune, aj keď českú korunu na platbu nepoužívajú.
+
+Dôležité je uvedomiť si, že volatilita nie je nutne nevýhodou a naopak príliš veľká snaha stabilizovať cenovú hladinu môže mať fatálne následky, ako sme sa poučili v prípade [Soros vs. Britská centrálna banka v roku 1992](https://en.wikipedia.org/wiki/Black_Wednesday). 
+
+O tom ako sa dá Bitcoin použiť aj v prostredí cenovej volatility na súkromné účely, ale aj vo firme a navyše z tejto volatility ťažiť si môžete pozrieť [moju prednášku o Bitcoine ako úložisku hodnoty](https://juraj.bednar.sk/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/).
+
+## Aké sú ešte výhody a nevýhody krypto mien? ##
+
+Výhodou väčšiny kryptomien je decentralizácia spoločnosti. Prestáva existovať rozdelenie medzi "bankármi" a ostatnými. Každý užívateľ v Bitcoin sieti má rovnaké práva a povinnosti. Centrálne banky už nie sú potrebné.
+
+To môžu niektorí ľudia vnímať ako nevýhodu, niekto iný zase ako výhodu. Väčšinou to závisí na presvedčení ľudí - je manipulácia a stabilizácia cenovej hladiny dobrá alebo zlá? Sú ľudia, ktorí si na ňu zvykli a pre nich táto vlastnosť kryptomien je jednoznačne nevýhodou. Iní ľudia preferujú iné vlastnosti a nemanipulovateľnosť menovej zásoby považujú za výhodu.
+
+## Potrebujú kryptomeny regulácie alebo uznanie štátov? ##
+
+Nie. Regulácia je minimálne neúčinná, niekedy dokonca pomáha kriminálnikom. Štáty si musia uvedomiť, že kryptomeny sú mimo ich jurisdikciu. Kryptomena neexistuje na území žiadneho štátu ani teritória. Kryptomena sa nezačne správať inak ak ju niektorá krajina zreguluje. Momentálne sa štáty snažia regulovať najmä nákup a predaj kryptomien, ktoré pod ich jurisdikciu spadajú. Tu je ale dôležité si uvedomiť, že kriminálnici nebudú slepo nasledovať reguláciu. Je to podobné ako s reguláciou výbušnín - tá sa týka obyčajných ľudí, ale terorista si nepôjde pýtať povolenie na štátny úrad.
+
+Účtovníctvo je voči kryptomenám neutrálne. Účtujú sa príjmy a výdavky, bez ohľadu na to ako boli zaplatené. V tomto prípade môžu štáty účtovanie zjednodušiť v tom, že presne špecifikujú ako sa daná platba má zaúčtovať, čo stačí ako doklad o úhrade a podobne. Podstatný je ale daňový doklad o dodanom produkte a službe, nie spôsob platby. Štáty sa síce snažia niektoré typy platieb ako napr. hotovosť regulovať a toto môže byť v prípade účtovníctva problém aj pri kryptomenách.
+
+Vo všeobecnosti snaha zregulovať daňové aspekty kryptomien nepovedie k zvýšeným daňovým výberom ani k zabráneniu kriminality. Regulácie nasledujú iba aktéri v klasickej ekonomike, čierna a šedá ekonomika sa o regulácie viac-menej nezaujíma a teda akákoľvek regulácia sa týka iba tých, ktorí sa rozhodli participovať na oficiálnom štátom regulovanom trhu. Práve preto môže mať regulácia opačný efekt - vytlačí ekonomických aktérov, ktorí by inak fungovali v klasickej regulovanej ekonomike za hranu, na čierny trh.
