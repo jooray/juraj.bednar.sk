@@ -55,6 +55,13 @@ karty, zaujímavou alternatívou je [Xapo](https://xapo.com/). Rozdiel je
 ten, že pri Bitwala sa karta zmení na eurá v čase dobitia, pri Xapo v
 čase platby.
 
+Zaujímavou fičurkou je tiež objednávanie z Amazonu cez službu
+[Purse](https://purse.io/?_r=3BxAjy), pretože umožňuje platbu so zľavou.
+Finta je v tom, že sú ľudia, ktorí dostávajú rôzne gift karty, ale
+radšej by Bitcoiny. Takže si vytvoríte na Amazon-e wishlist, ktorý vám
+potom niekto objedná a zaplatí a vy zaplatíte Bitcoinami. Služba
+nepodporuje amazon.de, ale amazon.co.uk a amazon.com sú podporované.
+
 ## Ako zmením BTC za inú kryptomenu alebo opačne? ##
 
 Jednoducho a bez registrácie cez [shapeshift](https://shapeshift.io/),
