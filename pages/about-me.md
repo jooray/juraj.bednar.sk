@@ -35,16 +35,5 @@ I wrote some interesting code that can be found over at [Github](https://github.
 
 Here's my [linkedin profile](http://www.linkedin.com/in/jbednar/), [Google+ page](https://plus.google.com/103813611168161728566), [Twitter: @jurbed](http://twitter.com/jurbed) and [Facebook](https://www.facebook.com/juraj.bednar). When e-mailing me, please use [my PGP public key](/assets/pgp-key.txt). 
 
-30th Chaos Communication Congress talk:
-<iframe width="420" height="236" src="//www.youtube-nocookie.com/embed/hBxeSmBBdfg?rel=0" frameborder="0" allowfullscreen></iframe>
-
-My TEDxBratislava talk about hacktivism:
-<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/0zVpmWKulm4?rel=0" frameborder="0" allowfullscreen></iframe>
-
-My freedom and cryptocurrency (Bitcoin) talk at Bitcoin Conference, London:
-<iframe src="http://prezi.com/embed/whzsw2-yimvv/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
-
-Bitcoin presentation (from LibertyCamp):
-<iframe src="http://prezi.com/embed/sxnahdtl4h1b/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
-
+[Talks and lectures are available here - both in English and Slovak](https://juraj.bednar.sk/category/talk/)
 
