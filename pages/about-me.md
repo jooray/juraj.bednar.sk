@@ -13,13 +13,19 @@ My name is Juraj Bednár. I am an entrepreneur, hacker and explorer. It is diffi
 
 I wrote my first program when I was 6 years old. Later I have become involved with open-source, Linux (as a user, then administrator and system architect) and redundant server solutions. It all goes hand in hand with security and cryptography. I am very interested in wider implication of technologies. I studied artificial intelligence and I try to figure out what's the real difference between computer programs and people :).
 
-I am currently mainly responsible for strategy at [DIGMIA](http://www.digmia.com/), which I started with Vladislav Konečný in 2006 to deliver our vision in server computing. We are responsible for server farms at some of the largest web sites in Slovakia and several interesting server farms around Europe.
+I am a co-founder of [Citadelo](https://www.citadelo.com/) (with Vladislav and Tomáš Zaťko) - a team of hackers (called penetration testers or ethical hackers). Our main security service is a simulated hacker attack directed at your web or mobile application. We use and contribute to OWASP Testing Guide. We have tested several financial applications for insurance companies and banks and e-commerce solutions (credit card processor, e-shops, ...). We also serve Czech market with [Citadelo CZ](https://www.citadelo.cz/) which we co-founded with Martin Leskovjan.
 
-We also founded [Citadelo](http://www.citadelo.com/) (with Vladislav and Tomáš Zaťko) - a team of hackers (called penetration testers or ethical hackers). Our main security service is a simulated hacker attack directed at your web or mobile application. We use and contribute to OWASP Testing Guide. We have tested several financial applications for insurance companies and banks and e-commerce solutions (credit card processor, e-shops, ...).
+I also co-created a sharing-economy service for hackers and
+a bug bounty program called [Hacktrophy](https://www.hacktrophy.com/).
+We are serving mainly European market - we are the first European bug
+bounty program provider.
 
-I am always looking for new opportunities, friendships and ventures. I wanted to work in a company where a majority of people are technical, not managers ... so I started it.
+I am currently working on projects related to cryptocurrencies -
+security, smart contracts, ...
 
-Entrepreneurship is key to creating abundance in this world. Creativity and productivity solve poverty and improve people's lives in a way that no state agency can. I am involved with Bitcoin - an alternative currency that will probably make sending and receiving money easier for entrepreneurs and people around the world, not only in the "western countries". This brought me to Austrian school of economics, which I study.
+I am always looking for new opportunities, friendships and ventures.
+
+Entrepreneurship is key to creating abundance in this world. Creativity and productivity solve poverty and improve people's lives in a way that no state agency can. I am involved with Bitcoin - an alternative currency that will probably make sending and receiving money easier for entrepreneurs and people around the world, not only in the "western countries". 
 
 Travel; that's how I learn about the world. I like hacking travel too.
 
@@ -38,7 +44,7 @@ My TEDxBratislava talk about hacktivism:
 My freedom and cryptocurrency (Bitcoin) talk at Bitcoin Conference, London:
 <iframe src="http://prezi.com/embed/whzsw2-yimvv/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
 
-My generic Bitcoin presentation (from LibertyCamp):
+Bitcoin presentation (from LibertyCamp):
 <iframe src="http://prezi.com/embed/sxnahdtl4h1b/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
 
 
