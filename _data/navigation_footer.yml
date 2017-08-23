@@ -1,5 +1,5 @@
 - name: 'About'
-  url: '/about-me'
+  url: '/about-me.html'
 
 - name: 'Navigation'
   url: '/navigation/'
