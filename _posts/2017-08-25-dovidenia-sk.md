@@ -23,10 +23,33 @@ doméne .sk majú nejaké špeciálne práva a teda je to nejakým spôsobom
 kde sa môžete dozvedieť pomerne presne čo sa stalo.
 
 Doména podľa stránky bola komunite neprávom odobratá [jednoduchým hackom
-so schránkou na matfyze](https://www.nasadomena.sk/historia/). Tomuto
-príbehu verím a nebol pekný.
+so schránkou na matfyze](https://www.nasadomena.sk/historia/). Existuje
+aj iná verzia príbehu, ktorú ako reakciu na tento článok napísal Stano
+Meduna, ktorý je dlhoročným členom internetovej, Linux a teraz Bitcoin
+komunity a v tomto mu dôverujem, pretože pri tom naozaj bol. Citát:
 
-Faktom ostáva, že hack zafungoval a doménu odvtedy spravovala súkromná
+> "Pre úplnosť, ten príbeh s "jednoduchým hackom schránky na matfyze"
+> sa neodohral tak úplne, ako ho nasadomena podáva. Matfyz v tomto
+> príbehu nikdy nevystupoval ako správca domény; ľudia spravujúci
+> doménu boli platení súkromnou firmou. MFF poskytla priestory a
+> nejaký čas starú smepku, kde to bežalo. RIPE záznam vtedy explicitne
+> uvádzal "BB Type: located at University, manpower given by SWH Ltd."
+> a fungovalo to tak ešte za čias .cs, ako aj pre .sk.
+> 
+> Vadí mi toto ohýbanie histórie (ak nechcem rovno povedať klamstvo)
+> v záujme boja za svoju kauzu. Považujem za potrebné sa k tomu vyjadrovať,
+> keďže v tých záznamoch je aj moje meno a mená ľudí, s ktorými
+> som pracoval a ktorým verím pre zmenu ja.
+> 
+> Že je od čias "nového systému" stav domény katastrofou je bez pochyby
+> a s tým, čo sa deje v súčasnosti, samozrejme nesúhlasím ani ja.
+> Juraj má ale úplnú pravdu v tom, že v tomto prípade nie je problém
+> hlasovať nohami."
+
+Viac informácií o histórií československého Internetu [v tejto
+prezentácií](https://drive.google.com/file/d/0B7NsAh8_l8OpQkpVaFhGSTN1SE0/view)
+
+Faktom ostáva, že "hack či ne-hack" zafungoval a doménu minimálne odvtedy spravovala súkromná
 spoločnosť. Návrh časti internetovej komunity bol buď prechod domény pod
 správu nejakej neziskovky alebo štátu. Je to model českého CZ-NIC, ktorý
 funguje naozaj dobre a nemám proti nemu nič. Ak by však toto "združenie"
@@ -45,9 +68,11 @@ ktoré pôžičky zakladajúcich členov vyplatí z budúceho zisku. Mne osobne
 na tej doméne až tak nezáleží, takže preferujem riešenie - keď sa mi
 niečo nepáči, prestanem to používať (viď nižšie).
 
-Nepto komentoval: **"Vám nevadí, že SK-NIC má ročné revenue 5M
-a reálny zisk 4M? Mne to vadí, lebo to považujem za peniaze nás
-všetkých."**
+Nepto komentoval:
+
+> "Vám nevadí, že SK-NIC má ročné revenue 5M
+> a reálny zisk 4M? Mne to vadí, lebo to považujem za peniaze nás
+> všetkých."
 
 ## Čo s tým?
 
