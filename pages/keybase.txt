@@ -8,6 +8,79 @@ https://keybase.io/jurajbednar
 
 I hereby claim:
 
+  * I am an admin of https://juraj.bednar.io
+  * I am jurajbednar (https://keybase.io/jurajbednar) on keybase.
+  * I have a public key with fingerprint 3529 61E1 BF53 DA48 B2D1  8B77 4D35 0309 AEE2 FB70
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010103c4d375836f5a556682bd71fae4c2ab10078894eeb1c60c65af15745b2034630a",
+      "fingerprint": "352961e1bf53da48b2d18b774d350309aee2fb70",
+      "host": "keybase.io",
+      "key_id": "4d350309aee2fb70",
+      "kid": "010103c4d375836f5a556682bd71fae4c2ab10078894eeb1c60c65af15745b2034630a",
+      "uid": "7aee919a5c379078d1a9f58dc6cf8100",
+      "username": "jurajbednar"
+    },
+    "service": {
+      "hostname": "juraj.bednar.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1503676252,
+  "expire_in": 157680000,
+  "prev": "850a927918d707d9204a54f7f1e24d68312a656fc87b270b2561b5e3222f0c16",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - http://gpgtools.org
+
+owGtUmtQVGUYXi5uC7oDk7IqBuKZJmcZgnO/LGpGBI6DGmEoaC3n8h04CLvLObss
+SEgOMYLghWQQiwZRGEmMwSxtyBXRuG4NAQ1u0NjYVCMVDjZFTBB1DuZMP/rZ9/34
+5nvf53ne533nPWkM0Bn8dhABQR3fzjv8vFOcLuNsMiiBOLtQDFlKoANg6QF5AlCc
+1gOSAFkgGFEvxuMCRhE0RooESxAkSaOcQCEiC3AeZTkEhimaZnAAOIQnYZ4kWBEh
+KJzgUBjDSQxmoRhIlGzZQHbIks2pymIEypAIQDiRwAQWpzlUQGiOotQ6BIzBDAsA
+KnIUrBJz7IrGUM1xrAJiJbsaUz/WJXv/gf+ffbuW5Ci1AIMwLMFjFKOyBIRlRIIW
+eJIXaVVHAypAtrH5QEXnumQ2lwOCjZWh0hhITRRKPNBmqzXzb1DsI9Sjrhyy3Wnn
+7XlqMsfpdCgWjewsdmhoN+Cs/+hYOckmqNNUGYVAViS7DbIgKpJ3Spowog6EpEiU
+QGMgUOSQZGCVNARBkTSsHq0OKFQlaSsBswxKMQgtUDAlMCiMswQuUiICUFwgaQxB
+WZIgRZ6mOJSCOZQgEY4AGIqiIswjJKS1VmCzQxYcU42y2aqoImXbWKdLBlBpcJU/
+FqjzM+giTBsCCTN7rzttYtsHI9Xuxyu4zF/bP11wUOjjSNt4qO5ycHuXt7zt1Lr2
+SHamMaK8NbWqea6j6Lpgwms2mN3zI55nHEzgiuhNxj+qL2U3FCH7GuLamrZ3PTCb
+HyZVLz+zmMHnBBkmv1vMtEbrVw/0b8u+0fD1PtdzP08mlySvyTkue/Cp4jfJ2Fl9
+JyMMWf8E5XF9LSmLd5X74+PxQurCsLuPnz2cGdKaFto8PHYhZfxMj77p14e/6Rlq
+9ErKynPfJ5145ZOSgdGEc59eHJzXBUYjU56wmqJGqfDY6Y7P02PL9syU6eKc7x9s
+7iYnga/2+fZf+tZ8zExe+7HgarRpV1NJ9crECseW+qt77/Tnv2yZMHp818LkyoN/
+RdTdbLx9/DNTb2rCTlDq1+mYuZX7Vo/B8k5FSOVLY2+PGXw36l6crHhhU7cpo8Z4
+J/3EtLFrsPNCYuVTSmLc5sHpne6zte6OEVK//naG1989Vx8Zumf/sSP6H+5tTWr7
+8HxtXln4soFXa/YH9A/Prav9ydd7ueVwQ83CF5FUqLdtl+fWSJgcVRCZs3F6aLmn
+vupJQ0dGdWk8FxDbl0WuClkkfn96lS/ySl2WmBnH+fWIT7xevzvPdP2b8LH4CanF
+++XC7rpTrTyIgta+0UuFR50cNb/74G6aq3Po0I69R0+7zm/d7Js9ZNoeo7yXlV62
+/ubGWmf+8Jb7z5avPmLOW/HaV2sTjBe9Ys8l5aO/AQ==
+=bdGp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jurajbednar
+
+==================================================================
+==================================================================
+https://keybase.io/jurajbednar
+--------------------------------------------------------------------
+
+I hereby claim:
+
   * I am an admin of http://juraj.bednar.sk
   * I am jurajbednar (https://keybase.io/jurajbednar) on keybase.
   * I have a public key with fingerprint 3529 61E1 BF53 DA48 B2D1  8B77 4D35 0309 AEE2 FB70

@@ -31,7 +31,7 @@ Travel; that's how I learn about the world. I like hacking travel too.
 
 I am a co-founder and active member of Bratislava's hackerspace [Progressbar](http://www.progressbar.sk/) and Prague's best venue - [Paralelní Polis](http://paralelnipolis.cz/). It hosts a hackerspace called [Institute of Cryptoanarchy](http://www.paralelnipolis.cz/cryptoanarchy-institute/) and a cafeteria with best coffee in Prague and accepting only Bitcoin.
 
-I wrote some interesting code that can be found over at [Github](https://github.com/jooray) or our company's [open-source page](http://www.digmia.com/pages/en/products/open-source.html)
+I wrote some (hopefully) useful and interesting code that can be found over at my [Github](https://github.com/jooray).
 
 Here's my [linkedin profile](http://www.linkedin.com/in/jbednar/), [Google+ page](https://plus.google.com/103813611168161728566), [Twitter: @jurbed](http://twitter.com/jurbed) and [Facebook](https://www.facebook.com/juraj.bednar). When e-mailing me, please use [my PGP public key](/assets/pgp-key.txt). 
 
