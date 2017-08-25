@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-03-19
-podcast_link: http://juraj.bednar.sk/assets/podcast/11-matej-held-podnikatelsky-aktivizmus.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/11-matej-held-podnikatelsky-aktivizmus.mp3
 podcast_file_size: 109 MB
 podcast_duration: "1:35:38"
 podcast_length: 114793413
@@ -33,15 +33,15 @@ Bratislave, [pozrite si (zatiaľ provizórny) web paralelnapolis.sk](http://para
 Odkazy k podcastu:
 
  * [Paralelné systémy a zmena zdola](https://medium.com/@matejheld/paralelné-systémy-a-zmena-z-dola-1ac3ce469ce#.idc76djeb) a [dodatok k článku](https://medium.com/@matejheld/dodatok-k-článku-paralelné-systémy-a-zmena-z-dola-a2dc0436445c#.x2luy639m), kde Matej popisuje svoju víziu paralelných systémov a rôznych možností zmien.
- * [Podcast s Robertom Chovanculiakom](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), kde sme sa bavili o súkromných školách v slumoch, odporúčam ako pekné doplnenie tohto podcastu.
- * [Prečo som libertarián](https://juraj.bednar.sk/blog/2017/03/08/preco-som-libertarian/) - môj blog, kde vysvetľujem prečo preferujem podnikateľský aktivizmus pred politickými riešeniami.
- * [Morálka pravice, ľavice a libertariánov](https://juraj.bednar.sk/blog/2017/01/05/moralka/) - aký má toto všetko morálny základ a pre koho je to určené?
- * [Vzdelávanie v exponenciálnej dobe](https://juraj.bednar.sk/blog/2016/12/09/vzdelavanie/), [S pilníkom na nechty na Mt.  Everest](https://juraj.bednar.sk/blog/2016/11/24/podpora-startupov-a-elektrickych-aut/) a [Luxusná medicína a dožitie sa tisíc rokov](https://juraj.bednar.sk/blog/2016/11/15/luxusna-medicina-a-dozitie-sa-tisic-rokov/) - moje blogy, ktoré rozoberajú témy, o ktorých sa rozprávame z pohľadu inovácie a exponenciálnej doby, v ktorej žijeme.
+ * [Podcast s Robertom Chovanculiakom](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), kde sme sa bavili o súkromných školách v slumoch, odporúčam ako pekné doplnenie tohto podcastu.
+ * [Prečo som libertarián](https://juraj.bednar.io/blog/2017/03/08/preco-som-libertarian/) - môj blog, kde vysvetľujem prečo preferujem podnikateľský aktivizmus pred politickými riešeniami.
+ * [Morálka pravice, ľavice a libertariánov](https://juraj.bednar.io/blog/2017/01/05/moralka/) - aký má toto všetko morálny základ a pre koho je to určené?
+ * [Vzdelávanie v exponenciálnej dobe](https://juraj.bednar.io/blog/2016/12/09/vzdelavanie/), [S pilníkom na nechty na Mt.  Everest](https://juraj.bednar.io/blog/2016/11/24/podpora-startupov-a-elektrickych-aut/) a [Luxusná medicína a dožitie sa tisíc rokov](https://juraj.bednar.io/blog/2016/11/15/luxusna-medicina-a-dozitie-sa-tisic-rokov/) - moje blogy, ktoré rozoberajú témy, o ktorých sa rozprávame z pohľadu inovácie a exponenciálnej doby, v ktorej žijeme.
 
 
 Facebook skupiny, ktoré by vás mohli zaujímať:
 
- * [Facebook skupina Taleboviny](https://www.facebook.com/groups/1156112114478175/) - o antifragilite, barbell stratégiách a podobných témach. Ako úvod odporúčam [túto](https://juraj.bednar.sk/podcast/2017/01/27/antifragilita-a-decentralizacia/) a [túto epizódu podcastu](https://juraj.bednar.sk/podcast/2017/03/07/barbell-strategia-pre-investicie/).
+ * [Facebook skupina Taleboviny](https://www.facebook.com/groups/1156112114478175/) - o antifragilite, barbell stratégiách a podobných témach. Ako úvod odporúčam [túto](https://juraj.bednar.io/podcast/2017/01/27/antifragilita-a-decentralizacia/) a [túto epizódu podcastu](https://juraj.bednar.io/podcast/2017/03/07/barbell-strategia-pre-investicie/).
  * [Skryté svety - Čína, Japonsko, slumy, Afrika, ...](https://www.facebook.com/groups/675275682642480/).
  * [Biohacking - veľa energie, evolúcia na superčloveka a dožitie sa 1000 rokov](https://www.facebook.com/groups/555837574564696/) - väčšinou riešime produktivitu, zdravie a rôzne biohacky
  * [Crowdfunding, crowdsourcing, sila crowdu](https://www.facebook.com/groups/217530805318863/)

@@ -35,5 +35,5 @@ I wrote some interesting code that can be found over at [Github](https://github.
 
 Here's my [linkedin profile](http://www.linkedin.com/in/jbednar/), [Google+ page](https://plus.google.com/103813611168161728566), [Twitter: @jurbed](http://twitter.com/jurbed) and [Facebook](https://www.facebook.com/juraj.bednar). When e-mailing me, please use [my PGP public key](/assets/pgp-key.txt). 
 
-[Talks and lectures are available here - both in English and Slovak](https://juraj.bednar.sk/category/talk/)
+[Talks and lectures are available here - both in English and Slovak](https://juraj.bednar.io/category/talk/)
 

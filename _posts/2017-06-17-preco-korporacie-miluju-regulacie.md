@@ -69,7 +69,7 @@ regulácie).
 **Objavovanie**
 
 S Matejom Heldom sme sa [v
-podcaste](https://juraj.bednar.sk/podcast/2017/03/19/matej-held-podnikatelsky-aktivizmus/)
+podcaste](https://juraj.bednar.io/podcast/2017/03/19/matej-held-podnikatelsky-aktivizmus/)
 rozprávali o podnikaní a tom, že je to proces objavovania. Máloktorý
 podnikateľ ide od geniálneho nápadu k dokonalej exekúcii a zisku. Je to
 dlhý proces, ktorý zahŕňa vývoj produktu, zisťovanie ako osloviť daným

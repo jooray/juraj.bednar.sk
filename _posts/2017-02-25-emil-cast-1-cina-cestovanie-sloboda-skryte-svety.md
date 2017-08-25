@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-02-25
-podcast_link: http://juraj.bednar.sk/assets/podcast/08-emil-cast-1-cina-cestovanie-sloboda-skryte-svety.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/08-emil-cast-1-cina-cestovanie-sloboda-skryte-svety.mp3
 podcast_file_size: 63 MB
 podcast_duration: "0:54:36"
 podcast_length: 65772526
@@ -42,7 +42,7 @@ Facebook skupiny, ktoré spomínam v úvode a závere:
  * [Crowdfunding, crowdsourcing, sila crowdu](https://www.facebook.com/groups/217530805318863/)
  * O Bitcoine máme dve Facebook skupiny: [Bitcoin v srdci Európy](https://www.facebook.com/groups/455323634541502/) a [Slovenská BTC komunita](https://www.facebook.com/groups/1876810492565676/). Ešte existuje aj [Česká Bitcoinová komunita](https://www.facebook.com/groups/bitcoincz/).
  * [Exponenciálne technológie](https://www.facebook.com/groups/242658132854230) - 3D tlač, roboty, umelá inteligencia, výpočtové kapacity, siete, senzory, drony, nové materiály, ...
- * [Taleboviny](https://www.facebook.com/groups/1156112114478175/) - o antifragilite a podobných témach. Ak ste nepočuli môj [predchádzajúci podcast o antifragilite](https://juraj.bednar.sk/podcast/2017/01/27/antifragilita-a-decentralizacia/), odporúčam začať tým.
+ * [Taleboviny](https://www.facebook.com/groups/1156112114478175/) - o antifragilite a podobných témach. Ak ste nepočuli môj [predchádzajúci podcast o antifragilite](https://juraj.bednar.io/podcast/2017/01/27/antifragilita-a-decentralizacia/), odporúčam začať tým.
  * [Čaje, čajové dýchánky, čajovne, plantáže a podobné nerdoviny](https://www.facebook.com/groups/540470942788749/)
  * [Drone nerds v srdci Európy](https://www.facebook.com/groups/349203725281093/) - československá skupina pre priaznivcov dronov.
 

@@ -14,7 +14,7 @@ This Tedx talk is about hacktivism in a modern world and it's morality.
 
 It talks about Moral Reform, an artistic performance of Czech art group called Ztohoven. The setting: Czech Parliament.
 
-More about Moral Reform can be found in [my previous blogpost](http://juraj.bednar.sk/blog/2013/01/06/moral-reform-by-ztohoven-an-ultimate-hack/) or at the [project's page on Ztohoven.com](http://ztohoven.com/mr/index-en.html).
+More about Moral Reform can be found in [my previous blogpost](http://juraj.bednar.io/blog/2013/01/06/moral-reform-by-ztohoven-an-ultimate-hack/) or at the [project's page on Ztohoven.com](http://ztohoven.com/mr/index-en.html).
 
 There is also an [English translation of the slides](http://www.slideshare.net/jooray/tedx-hacktivism)
 

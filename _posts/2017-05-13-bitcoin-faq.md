@@ -88,9 +88,9 @@ alebo kohokoľvek iného.
 ## Oplatí sa teraz investovať? ##
 
 O mojom postoji k investovaniu do Bitcoinu a stratégii som spravil [túto
-prednášku](https://juraj.bednar.sk/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/),
+prednášku](https://juraj.bednar.io/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/),
 o celkovej mojej investičnej stratégii
-[tento podcast](https://juraj.bednar.sk/podcast/2017/03/07/barbell-strategia-pre-investicie/).
+[tento podcast](https://juraj.bednar.io/podcast/2017/03/07/barbell-strategia-pre-investicie/).
 
 ## Oplatí sa minovať Bitcoin? ##
 
@@ -104,7 +104,7 @@ Pravdepodobne nie, kryptomien je momentálne toľko, že ich nemám v pláne
 sledovať až kým nebudú veľmi známe. Zaujímajú ma inovatívne kryptomeny,
 ktoré prinášajú čokoľvek nové, ale vo väčšine prípadov je moja odpoveď
 "Bitcoin je lepší". Viac informácií o tom prečo je to tak
-[v tomto podcaste](https://juraj.bednar.sk/podcast/2017/04/04/emil-medziepizoda-o-shitcoinoch/).
+[v tomto podcaste](https://juraj.bednar.io/podcast/2017/04/04/emil-medziepizoda-o-shitcoinoch/).
 
 ## Investuješ do nejakých iných kryptomien ako Bitcoinu? ##
 
@@ -134,8 +134,8 @@ platenia, je to podvod.
 ## Vieš o nejakých dobrých zdrojoch na úvod? ##
 
  * [Príručka "Začíname s Bitcoinom"](https://docs.google.com/document/d/1ytBJuRHUQTzXMKni9-tJMPvz0CJi6LghrdYC7ssBezA/edit?usp=sharing)
- * [Moja úvodná prednáška o Bitcoine](https://juraj.bednar.sk/talk/2015/12/27/bitcoin-akademia-trojstenu/)
- * [Môj podcast s Emilom - o Bitcoine trochu inak](https://juraj.bednar.sk/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/)
+ * [Moja úvodná prednáška o Bitcoine](https://juraj.bednar.io/talk/2015/12/27/bitcoin-akademia-trojstenu/)
+ * [Môj podcast s Emilom - o Bitcoine trochu inak](https://juraj.bednar.io/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/)
  * [Facebook skupina slovenskej BTC komunity](https://www.facebook.com/groups/1876810492565676/). Prosím predtým ako sa budete pýtať otázky, preštudujte si celú túto stránku, vypočujte si prednášky a pozrite si trochu histórie diskusie. Áno, zaberá to čas, ale rovnako zaberá náš čas odpovedať na otázky. Ak chcete niečo vedieť, investujte do toho najprv svoj čas. Do skupiny sa kľudne pridajte, ale odporúčam najprv počúvať a sledovať čo sa tam deje ako sa hneď pýtať.
 
 ## Môžeš prísť spraviť prednášku o Bitcoine pre moju školu/firmu/konferenciu/... ? ##
@@ -143,9 +143,9 @@ platenia, je to podvod.
 Prednášok o Bitcoine som urobil toľko, že mi nepríde ako dobré využitie
 môjho času robiť ďalšiu. Kľudne si nejakú nahratú spoločne vo firme,
 škole a podobne pozrite na projektore. Zoznam mojich
-[prednášok je tu](http://juraj.bednar.sk/category/talk/),
-[ak si neviete vybrať, táto úvodná je celkom OK](https://juraj.bednar.sk/talk/2015/12/27/bitcoin-akademia-trojstenu/). Bitcoinu, peniazom, budúcnosti a podobne sa venujem často
-[v mojom podcaste](http://juraj.bednar.sk/category/podcast).
+[prednášok je tu](http://juraj.bednar.io/category/talk/),
+[ak si neviete vybrať, táto úvodná je celkom OK](https://juraj.bednar.io/talk/2015/12/27/bitcoin-akademia-trojstenu/). Bitcoinu, peniazom, budúcnosti a podobne sa venujem často
+[v mojom podcaste](http://juraj.bednar.io/category/podcast).
 
 Ak chcete naozaj zaujímavú prednášku z iného pohľadu ako robím
 štandardne, napíšte mi ponuku, ako odmenu beriem Bitcoiny aj iné
@@ -162,7 +162,7 @@ to token na platenie za služby tej siete (asi ako "cestovný lístok v
 MHD", tiež si ich nekúpim sto na investíciu do budúcnosti). Problém je,
 že je to sieť pomerne drahá, takže si myslím, že to, čo sa stane pôjde dvomi vetvami:
 
-**[Rootstock](http://www.rsk.co/)** je implementácia Ethereum technológie nad Bitcoin blockchainom ako tzv. sidechain.  Trošku zložiteješie vysvetliť, ale v praxi sa to dá predstaviť ako druhý chain, ktorý vie interagovať s Bitcoinovou sieťou (posielať skutočné Bitcoiny namiesto etherov), ale nezahlcuje Bitcoin blockchain smart contract transakciami. Myslím si, že toto je oveľa užitočnejší use-case ako Ethereum samotné, pretože dokáže interagovať s Bitcoin sieťou, ktorá je väčšia (a teda [network effect je väčší](https://juraj.bednar.sk/blog/2017/05/31/blockchains-and-network-effects/)).
+**[Rootstock](http://www.rsk.co/)** je implementácia Ethereum technológie nad Bitcoin blockchainom ako tzv. sidechain.  Trošku zložiteješie vysvetliť, ale v praxi sa to dá predstaviť ako druhý chain, ktorý vie interagovať s Bitcoinovou sieťou (posielať skutočné Bitcoiny namiesto etherov), ale nezahlcuje Bitcoin blockchain smart contract transakciami. Myslím si, že toto je oveľa užitočnejší use-case ako Ethereum samotné, pretože dokáže interagovať s Bitcoin sieťou, ktorá je väčšia (a teda [network effect je väčší](https://juraj.bednar.io/blog/2017/05/31/blockchains-and-network-effects/)).
 
 **Privátne / alternatívne blockchainy**. Tým, že ether transakcie majú dosť nepredikovateľnú reálnu cenu, pre mnoho aplikácií bude výhodnejšie postaviť si vlastný chain. Ak ste zaregistrovali informácie o Ethereum Enterprise Alliance, tak väčšina tých firiem tam nie je preto, že by chceli stavať na Ethereum sieti, ale preto, že si zoberú technológiu na ktorej je to postavené a postavia si vlastný chain, ktorý bude "lacnejší". To je v konečnom dôsledku dobré aj pre Ethereum samotné (nebude zaspamované toľkými transakciami).
 
@@ -265,7 +265,7 @@ Je pravda, že ceny tovarov a služieb denominované v BTC sa menia aj niekoľko
 
 Dôležité je uvedomiť si, že volatilita nie je nutne nevýhodou a naopak príliš veľká snaha stabilizovať cenovú hladinu môže mať fatálne následky, ako sme sa poučili v prípade [Soros vs. Britská centrálna banka v roku 1992](https://en.wikipedia.org/wiki/Black_Wednesday). 
 
-O tom ako sa dá Bitcoin použiť aj v prostredí cenovej volatility na súkromné účely, ale aj vo firme a navyše z tejto volatility ťažiť si môžete pozrieť [moju prednášku o Bitcoine ako úložisku hodnoty](https://juraj.bednar.sk/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/).
+O tom ako sa dá Bitcoin použiť aj v prostredí cenovej volatility na súkromné účely, ale aj vo firme a navyše z tejto volatility ťažiť si môžete pozrieť [moju prednášku o Bitcoine ako úložisku hodnoty](https://juraj.bednar.io/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/).
 
 ## Aké sú ešte výhody a nevýhody krypto mien? ##
 

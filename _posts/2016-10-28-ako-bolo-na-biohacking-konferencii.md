@@ -7,7 +7,7 @@ tags:
  - biohacking
 image: /assets/podcast/podcast_cover.jpg
 date: 2016-10-28
-podcast_link: http://juraj.bednar.sk/assets/podcast/01-bulletproof_conference-2016.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/01-bulletproof_conference-2016.mp3
 podcast_file_size: 41 MB
 podcast_duration: "50:49"
 podcast_length: 42700945

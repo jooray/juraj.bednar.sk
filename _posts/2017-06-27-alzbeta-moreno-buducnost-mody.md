@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-06-27
-podcast_link: http://juraj.bednar.sk/assets/podcast/15-alzbeta-3dtlac.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/15-alzbeta-3dtlac.mp3
 podcast_file_size: 47 MB
 podcast_duration: "0:41:01"
 podcast_length: 49480525

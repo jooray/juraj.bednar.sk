@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-16
-podcast_link: http://juraj.bednar.sk/assets/podcast/14-citadelo-hackeri.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/14-citadelo-hackeri.mp3
 podcast_file_size: 123 MB
 podcast_duration: "1:47:42"
 podcast_length: 129282028
@@ -28,7 +28,7 @@ Odkazy k podcastu:
 
  * [Citadelo](http://www.citadelo.com/) - slovenské a české firmy ktoré poskytujú služby etického hackingu (penetračného testovania), ktoré som spoluzaložil.
  * [Hacktrophy](http://www.hacktrophy.com/) - firma, ktorá poskytuje etických hackerov formou zdieľanej ekonomiky a tzv. bug bounty programov, ktorú som tiež spoluzaložil.
- * [Podcast s Pavlom Luptákom](https://juraj.bednar.sk/podcast/2016/11/14/pavol-luptak-voluntaristicka-firma-zdielana-ekonomika-v-bezpecnosti-emailovy-bankrot-a-hedonizmus/), s ktorým sme založili firmu Hacktrophy.
+ * [Podcast s Pavlom Luptákom](https://juraj.bednar.io/podcast/2016/11/14/pavol-luptak-voluntaristicka-firma-zdielana-ekonomika-v-bezpecnosti-emailovy-bankrot-a-hedonizmus/), s ktorým sme založili firmu Hacktrophy.
  * [Mr. Robot](http://www.imdb.com/title/tt4158110/) - seriál, kde sú pomerne vierohodne zobrazené niektoré reálne používané hackerské techniky.
  * [Nástrahy wifi sietí](https://www.youtube.com/watch?v=EmK2e1IsFVw&list=PLQiKxvrZeRPzGoW4t57axnWe0f6CigHpu&index=3) - prednáška Tomáša Volného o rizikách vyplývajúcich z pripájania sa na nezabezpečené alebo verejné wifi siete.
  * [Blog o heslách](https://blog.tvolny.eu/2015/06/hesla-nase-kazdodenne/#more-170) od Tomáša Volného

@@ -25,5 +25,5 @@ Ideas and viruses spread through social connections. I likeÂ [this TED talk][6]Â
   [2]: https://class.coursera.org/sna-2012-001/class/index
   [3]: http://coursera.org/
   [4]: https://persuasionradio.wordpress.com/2010/05/06/using-netvizz-gephi-to-analyze-a-facebook-network/
-  [5]: http://juraj.bednar.sk/work/software/kyberia-viz/index-en.html
+  [5]: http://juraj.bednar.io/work/software/kyberia-viz/index-en.html
   [6]: https://www.youtube.com/watch?v=L-dPxGLesE4

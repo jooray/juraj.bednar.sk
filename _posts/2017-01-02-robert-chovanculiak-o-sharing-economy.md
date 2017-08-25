@@ -7,7 +7,7 @@ tags:
  - lifehacking
 image: /podcast_cover.jpg
 date: 2017-01-02
-podcast_link: https://juraj.bednar.sk/assets/podcast/05-zdielana-ekonomika-transakcne-naklady-sukromne-skoly-v-slumoch.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/05-zdielana-ekonomika-transakcne-naklady-sukromne-skoly-v-slumoch.mp3
 podcast_file_size: 91 MB
 podcast_duration: "1:19:19"
 podcast_length: 95212109

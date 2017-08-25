@@ -28,7 +28,7 @@ Ospravedlňujem sa za zvuk, nie je najlepší, ale gopro zvládla aspoň niečo,
 Na druhej strane som tam pripojil slajdy, aby ste ich videli rovno z obrazu, takže kde nie je super zvuk, je lepší obraz :).
 
 Ak preferujete anglickú verziu, je [dostupná aj
-tá](https://juraj.bednar.sk/talk/2017/03/18/bitcoin-as-a-store-of-value/),
+tá](https://juraj.bednar.io/talk/2017/03/18/bitcoin-as-a-store-of-value/),
 ale táto verzia je trošku podrobnejšia a presnejšia.
 
 [Slajdy sú dostupné tu](https://prezi.com/ethybarblk6f/bitcoin-ako-ulozisko-hodnoty/)

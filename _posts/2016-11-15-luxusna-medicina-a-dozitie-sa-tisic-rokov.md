@@ -99,11 +99,11 @@ sa času, kedy budú dostupné technológie, ktoré to umožnia. "Žiť
 dostatočne dlho na to, aby ste žili naveky". Sada mojich vychytávok, na
 ktoré ste nemuseli byť privatizačným podnikateľom, aby ste si ich mohli
 dovoliť je v mojej prednáške [Biohacking: Ako sa dožiť 1000
-rokov](http://juraj.bednar.sk/talk/2016/04/12/biohacking-ako-sa-dozit-1000-rokov/),
+rokov](http://juraj.bednar.io/talk/2016/04/12/biohacking-ako-sa-dozit-1000-rokov/),
 pozrite si ju, je zadarmo. O tom, že to nie je len o prežití, ale o
 kvalite života a produktivite [hovorím viac aj v ďalej prednáške, ktorá je o
 hackovaní mozgu a
-produktivity](http://juraj.bednar.sk/talk/2016/02/10/biohacking-neurofeedback-meditacia-eeg-a-hacking-mozgu/). A ak vás táto téma naozaj zaujíma, pridajte sa do československej [Biohacking skupiny
+produktivity](http://juraj.bednar.io/talk/2016/02/10/biohacking-neurofeedback-meditacia-eeg-a-hacking-mozgu/). A ak vás táto téma naozaj zaujíma, pridajte sa do československej [Biohacking skupiny
 na Facebooku](https://www.facebook.com/groups/555837574564696/).
 
 

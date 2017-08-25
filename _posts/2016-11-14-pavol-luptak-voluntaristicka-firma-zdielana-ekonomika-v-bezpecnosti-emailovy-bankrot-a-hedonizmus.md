@@ -9,7 +9,7 @@ tags:
  - bitcoin
 image: /assets/podcast/podcast_cover.jpg
 date: 2016-11-14
-podcast_link: http://juraj.bednar.sk/assets/podcast/03-pavol_luptak_sharing_economy.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/03-pavol_luptak_sharing_economy.mp3
 podcast_file_size: 76 MB
 podcast_duration: "1:06:48"
 podcast_length: 80178004

@@ -1,5 +1,5 @@
 - name: "Learn more about me"
-  url: "/about-me"
+  url: "/about-me.html"
 
 - name: "All Articles"
   url: "/archive/"
@@ -20,21 +20,15 @@
   url: "https://keybase.io/jurajbednar"
 
 - name: "Biohacking"
-  url: "/biohacking-bratislava"
+  url: "/biohacking-bratislava.html"
 
+- name: "Hacktrophy - european bug bounty program"
+  url: "http://www.hacktrophy.com/"
+
+- name: "Citadelo - hackers on your side"
+  url: "http://www.citadelo.com/"
 - name: "Progressbar - Bratislava hackerspace"
   url: "http://www.progressbar.sk/"
 
 - name: "Paralelni Polis - hackerspace and Bitcoin cafe in Prague"
   url: "http://www.paralelnipolis.cz/"
-
-- name: "DIGMIA - my server-geeks company"
-  url: "http://www.digmia.com/"
-
-- name: "Citadelo - hackers on your side"
-  url: "http://www.citadelo.com/"
-
-- name: "Essential Data - search & big data company"
-  url: "http://www.essential-data.sk/"
-
-

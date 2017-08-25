@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-16
-podcast_link: http://juraj.bednar.sk/assets/podcast/13-juraj-karpis-mrakodrapy-a-zle-peniaze.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/13-juraj-karpis-mrakodrapy-a-zle-peniaze.mp3
 podcast_file_size: 87 MB
 podcast_duration: "1:16:07"
 podcast_length: 91384566
@@ -34,7 +34,7 @@ biohackerských odporúčaniach na lepší život.
 
 Odkazy k podcastu:
 
- * [Podcast s Robertom Chovanculiakom](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), ktorý je Jurajov kolega z [INESS](http://iness.sk/).
+ * [Podcast s Robertom Chovanculiakom](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), ktorý je Jurajov kolega z [INESS](http://iness.sk/).
  * Luxmeter aplikácia pre [iOS/iPhone](https://itunes.apple.com/us/app/galactica-luxmeter/id666846635?mt=8) a [Jurajove vysvetlenie dôležitosti svetla](http://www.jurajkarpis.com/2016/10/29/013-eu-utoci-na-mars-toto-su-dobre-casy-lux-us-zle-peniaze-dobry-zivot/).
  * [Zlé peniaze](http://zlepeniaze.eu/) - Jurajova kniha o zlých peniazoch a kríze
  * [Týždenník Zlé peniaze, dobrý život](http://www.jurajkarpis.com/tag/tyzdennik/) - vpravo sa môžete prihlásiť na odber alebo si môžete prečítať staršie vydania.

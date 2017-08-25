@@ -6,13 +6,13 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-03-07
-podcast_link: http://juraj.bednar.sk/assets/podcast/09-barbell-strategia-pre-investicie-zivot-a-vobec.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/09-barbell-strategia-pre-investicie-zivot-a-vobec.mp3
 podcast_file_size: 34 MB
 podcast_duration: "0:29:48"
 podcast_length: 36017997
 ---
 
-V [podcaste o antifragilite](https://juraj.bednar.sk/podcast/2017/01/27/antifragilita-a-decentralizacia/) som hovoril o tom, že existujú veci, ktoré ťažia z chaosu, neistoty, pôsobenia času a podobne. V tomto podcaste si ukážeme ako si takéto veci vytvoriť, aj keď samé o sebe takéto vlastnosti nemajú.
+V [podcaste o antifragilite](https://juraj.bednar.io/podcast/2017/01/27/antifragilita-a-decentralizacia/) som hovoril o tom, že existujú veci, ktoré ťažia z chaosu, neistoty, pôsobenia času a podobne. V tomto podcaste si ukážeme ako si takéto veci vytvoriť, aj keď samé o sebe takéto vlastnosti nemajú.
 
 Pozrieme sa na tri domény: Investície, partnerský vzťah a predajná
 stratégia a ukážeme si, ako sa nad nimi dá rozmýšľať tak, aby sme
@@ -26,8 +26,8 @@ Odkazy k podcastu:
  * [Diskusia kde sa pokúsime vytvoriť Barbell stratégie pre iné oblasti života](https://www.facebook.com/groups/1156112114478175/permalink/1205947652827954/) - ak máte nejakú oblasť, v ktorej by ste chceli vymyslieť Barbell stratégiu, napíšte, možno nás niečo napadne :).
  * [Alternatívna Barbell stratégia pre vzťahy](https://www.youtube.com/watch?v=0sYguTPLpHE)
  * [Nassim Nicholas Taleb: Antifragile](https://www.martinus.sk/?uItem=206175).
- * [Môj blog o Barbell stratégii na financie (v angličtine)](https://juraj.bednar.sk/blog/2016/09/06/barbell-strategy-for-investment/)
- * [Vydanie podcastu o Antifragilite](https://juraj.bednar.sk/podcast/2017/01/27/antifragilita-a-decentralizacia/)
+ * [Môj blog o Barbell stratégii na financie (v angličtine)](https://juraj.bednar.io/blog/2016/09/06/barbell-strategy-for-investment/)
+ * [Vydanie podcastu o Antifragilite](https://juraj.bednar.io/podcast/2017/01/27/antifragilita-a-decentralizacia/)
 
 
 Facebook skupiny a iné odkazy, ktoré spomínam v úvode a závere:

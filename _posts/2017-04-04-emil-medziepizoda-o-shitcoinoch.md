@@ -6,13 +6,13 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-04
-podcast_link: http://juraj.bednar.sk/assets/podcast/12-medziepizoda-shitcoiny-su-alternativy-k-bitcoinu-vobec-kryptomeny.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/12-medziepizoda-shitcoiny-su-alternativy-k-bitcoinu-vobec-kryptomeny.mp3
 podcast_file_size: 45 MB
 podcast_duration: "0:39:19"
 podcast_length: 47446635
 ---
 
-S Emilom som sa už [rozprával o Číne](https://juraj.bednar.sk/podcast/2017/02/25/emil-cast-1-cina-cestovanie-sloboda-skryte-svety/) aj [o Bitcoine](https://juraj.bednar.sk/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/).
+S Emilom som sa už [rozprával o Číne](https://juraj.bednar.io/podcast/2017/02/25/emil-cast-1-cina-cestovanie-sloboda-skryte-svety/) aj [o Bitcoine](https://juraj.bednar.io/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/).
 
 Počas rozhovoru vznikla ešte táto krátka "medziepizóda", kde sa venujeme
 téme alternatívnych kryptomien, z ktorých väčšinu voláme "shitcoiny".
@@ -38,8 +38,8 @@ je sa dozviete, ak si vypočujete túto krátku epizódu.
 
 Odkazy k podcastu:
 
- * [Predchádzajúca epizóda podcastu s Emilom - o Číne, slobode a skrytých svetoch](https://juraj.bednar.sk/podcast/2017/02/25/emil-cast-1-cina-cestovanie-sloboda-skryte-svety/)
- * [Prechádzajúca epizóda podcastu s Emilom - O Bitcoine trochu inak](https://juraj.bednar.sk/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/).
+ * [Predchádzajúca epizóda podcastu s Emilom - o Číne, slobode a skrytých svetoch](https://juraj.bednar.io/podcast/2017/02/25/emil-cast-1-cina-cestovanie-sloboda-skryte-svety/)
+ * [Prechádzajúca epizóda podcastu s Emilom - O Bitcoine trochu inak](https://juraj.bednar.io/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/).
  * [Paralelní Polis a Institut Kryptoanarchie](https://www.paralelnipolis.cz/) - miesto, v ktorom som nahrával úvod a záver podcastu
  * [Paralelná Polis Bratislava](http://www.paralelnapolis.sk/) - naša
  snaha vytvoriť podobný priestor v Bratislave, pridajte sa!

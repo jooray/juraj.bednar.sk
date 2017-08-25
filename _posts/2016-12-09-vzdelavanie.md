@@ -100,15 +100,15 @@ Na záver dávam ešte do pozornosti [môj podcast](/category/podcast), ktorý j
 
 Obzvlášť [odporúčam epizódu, v ktorej Robert Chovanculiak vysvetľuje
 prečo chudobné deti v slumoch chodia do súkromných škôl aj napriek tomu,
-že štátne školy existujú a sú "zadarmo"](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/). Konkrétny úryvok tejto časti tu:
+že štátne školy existujú a sú "zadarmo"](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/). Konkrétny úryvok tejto časti tu:
 <iframe width="560" height="315"
 src="//www.youtube-nocookie.com/embed/QkyIeFMinGo?rel=0" frameborder="0"
 allowfullscreen></iframe>
 
 [Celý podcast
-tu](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/).
+tu](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/).
 
 Odporúčam pozrieť aj môj [novší blog, ktorý sa tiež dotýka konfliktu medzi
 exponenciálnymi technológiami a lineárnymi vládami - na príklade
-vzdelávania.](https://juraj.bednar.sk/blog/2017/01/24/exponencialne-technologie-vs-linearna-vlada/)
+vzdelávania.](https://juraj.bednar.io/blog/2017/01/24/exponencialne-technologie-vs-linearna-vlada/)
 

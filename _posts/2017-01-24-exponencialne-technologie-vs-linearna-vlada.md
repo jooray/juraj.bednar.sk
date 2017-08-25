@@ -18,23 +18,23 @@ je odvetvie, v ktorom daný problém riešime v exponenciálnom rozvoji,
 dokonca aj úplne na začiatku, najlepšie čo môže štátny úradník je rýchlo
 uhnúť z cesty. Exponenciálne technológie lineárne politické riešenia
 prevalcujú. [Je to ako snažiť sa pilníkom na nechty ísť na Mt.
-Everest.](https://juraj.bednar.sk/blog/2016/11/24/podpora-startupov-a-elektrickych-aut/).
+Everest.](https://juraj.bednar.io/blog/2016/11/24/podpora-startupov-a-elektrickych-aut/).
 
 <!--more-->
 
 Nedávno som písal [blog o vzdelávaní v exponenciálnej
-dobe](https://juraj.bednar.sk/blog/2016/12/09/vzdelavanie/) a s [Robertom
+dobe](https://juraj.bednar.io/blog/2016/12/09/vzdelavanie/) a s [Robertom
 Chovanculiakom sme v jednej epizóde podcastu rozoberali, prečo chudobné
 deti v slumoch chodia do súkromných
-škol](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), aj napriek tomu, že štátne školy existujú a sú zadarmo. Konkrétny úryvok
+škol](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/), aj napriek tomu, že štátne školy existujú a sú zadarmo. Konkrétny úryvok
 celej tejto časti je tu:
 
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/QkyIeFMinGo?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[Celý podcast tu](https://juraj.bednar.sk/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/)
+[Celý podcast tu](https://juraj.bednar.io/podcast/2017/01/02/robert-chovanculiak-o-sharing-economy/)
 
 
-V [blogu som spomínal aj vytvorenie Čítanky pre urodzené slečny](https://juraj.bednar.sk/blog/2016/12/09/vzdelavanie/), ktorá umožní miliónom detí získať vzdelanie bez toho, aby bolo treba učiteľov, školy a podobné inštitúcie. Miliónom chudobných detí v Afrike, ktoré nevedia po anglicky. Ak ste nevideli, pozrite si víziu.
+V [blogu som spomínal aj vytvorenie Čítanky pre urodzené slečny](https://juraj.bednar.io/blog/2016/12/09/vzdelavanie/), ktorá umožní miliónom detí získať vzdelanie bez toho, aby bolo treba učiteľov, školy a podobné inštitúcie. Miliónom chudobných detí v Afrike, ktoré nevedia po anglicky. Ak ste nevideli, pozrite si víziu.
 
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/3Dnn7NFQPbQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ zažiť svoj "Kodak moment"?
 Ak si myslíme, že edutech - vzdelávacie technológie - nastupujú na
 exponenciálny rozvoj (čo si myslím nie len ja, všimnite si internet a
 všelijaké coursery a podobne - podrobnejšie som o tom písal [v spomínanom
-blogu](https://juraj.bednar.sk/blog/2016/12/09/vzdelavanie/)), dokážeme
+blogu](https://juraj.bednar.io/blog/2016/12/09/vzdelavanie/)), dokážeme
 vzdelať obrovské množstvo ľudí za stále menej peňazí, kdekoľvek na
 svete. To je tá exponenciála. A štát rieši "platy učiteľov", čo je podľa
 mňa absolútne nezmyselná otázka.

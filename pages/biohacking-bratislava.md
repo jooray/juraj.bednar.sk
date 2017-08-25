@@ -14,7 +14,12 @@ alias: [/a]
 
 Ahojte,
 
-vitajte na ministránke k biohackingu. Slajdy z prednášok a videá:
+vitajte na ministránke k biohackingu. Táto stránka bola pôvodne venovaná
+Biohacking akcií v Bratislave, ale ak by ste chceli [novší obsah,
+navštívte moje blogy a prednášky o
+biohackingu](https://juraj.bednar.io/tag/biohacking/).
+
+K Bratislavskej akcií: slajdy z prednášok a videá:
 
  * Dušan Plichta: [Ranná prednáška o káve - a všeličom inom (záznam)](https://www.youtube.com/watch?v=izcC9-EqHzc)
  * [Ken Kumor: Ako sa dožiť 1000 rokov](/assets/biohacking-bratislava/KenKumor.pdf)   (slajdy) [text - anglický](/assets/biohacking-bratislava/KenKumor-text-en.pdf) [slovenský](/assets/biohacking-bratislava/KenKumor-text-sk.pdf)

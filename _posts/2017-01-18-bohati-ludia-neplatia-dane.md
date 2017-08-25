@@ -13,7 +13,7 @@ OK, ak s ním nebudete súhlasiť. Mne prišiel tento myšlienkový experiment
 ako zaujímavý pohľad na večne omieľanú tému.
 
 Tematicky trochu nadväzuje na môj
-[predchádzajúci blog o morálke](https://juraj.bednar.sk/blog/2017/01/05/moralka/),
+[predchádzajúci blog o morálke](https://juraj.bednar.io/blog/2017/01/05/moralka/),
 takže predtým než mi začnete nadávať, že nie som za plnú rovnosť (čo nie
 som), prečítajte si prečo to tak je a to, že chápem, že máte iné morálne
 intuície.
@@ -374,14 +374,14 @@ potrebné. A nechcem tým povedať, že máte ísť na štátnu univerzitu
 Povedané inými slovami, vzdelávajte sa v tom, čo vám umožní viac pomôcť
 viacerým ľuďom (vrátane seba). Ak ste nepočuli [môj posledný podcast s
 mojou mamou o tom ako to robíme my,
-odporúčam](https://juraj.bednar.sk/podcast/2017/01/13/zuzana-bednarova-ako-rast-vo-vsetkych-oblastiach/), ak zvládate angličtinu, tak [aj môj starší blog o tom ako spraviť z riešenia problémov sveta svoju kariéru](http://juraj.bednar.sk/blog/2016/09/23/solve-the-worlds-problems/). Ak nezvládate angličtinu, [časť z neho v slovenčine vyšla predtým na menejstatu.sk](http://www.menejstatu.sk/starostlivost-o-zivotne-prostredie-ako-biznisplan-na-bali/). 
+odporúčam](https://juraj.bednar.io/podcast/2017/01/13/zuzana-bednarova-ako-rast-vo-vsetkych-oblastiach/), ak zvládate angličtinu, tak [aj môj starší blog o tom ako spraviť z riešenia problémov sveta svoju kariéru](http://juraj.bednar.io/blog/2016/09/23/solve-the-worlds-problems/). Ak nezvládate angličtinu, [časť z neho v slovenčine vyšla predtým na menejstatu.sk](http://www.menejstatu.sk/starostlivost-o-zivotne-prostredie-ako-biznisplan-na-bali/). 
 
 Ďalší dobrý spôsob šetrenia je ukladanie hodnoty v drahých kovoch (napr.
 v zlate) a v bitcoinoch (pozor, to je do veľkej miery špekulácia).
 Nepočítajte s tým, že hodnota ktoréhokoľvek z nich vzrastie, ale minimálne
 u zlata ani veľa neprerobíte, myslím, že oproti euru je to bezpečný
 prístav na 20 a viac rokov. Celá moja stratégia je [v tomto blogu (tiež
-v angličtine)](https://juraj.bednar.sk/blog/2016/09/06/barbell-strategy-for-investment/).
+v angličtine)](https://juraj.bednar.io/blog/2016/09/06/barbell-strategy-for-investment/).
 Inú zaujímavú stratégiu, ktorá sa mi tiež pozdáva popísal [Harry Browne
 vo svojej knižke Fail-safe
 investing](https://www.amazon.com/Fail-Safe-Investing-Lifelong-Financial-Security/dp/031226321X).

@@ -8,7 +8,7 @@ tags:
  - biohacking
 image: /assets/podcast/podcast_cover.jpg
 date: 2016-12-14
-podcast_link: http://juraj.bednar.sk/assets/podcast/04-miso-duchon-o-cestovani-otuzovani-lifestyle-design-a-sebarozvoji.mp3
+podcast_link: http://juraj.bednar.io/assets/podcast/04-miso-duchon-o-cestovani-otuzovani-lifestyle-design-a-sebarozvoji.mp3
 podcast_file_size: 78 MB
 podcast_duration: "1:08:21"
 podcast_length: 82024265

@@ -13,5 +13,5 @@ An old project of mine, visualizing kyberia node database (mainly forum data)
   
 
 
-  [1]: http://juraj.bednar.sk/work/software/kyberia-viz/
-  [2]: http://juraj.bednar.sk/work/software/kyberia-viz/
+  [1]: http://juraj.bednar.io/work/software/kyberia-viz/
+  [2]: http://juraj.bednar.io/work/software/kyberia-viz/

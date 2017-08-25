@@ -13,7 +13,7 @@ Toto je voľná reakcia na [blog Miša Trubana](http://www.truban.sk/preco-som-p
 Na jeho blogu ma zaujalo to, že mnohé z dôvodov, ktoré uvádza mňa práve
 viedli k tomu, aby som "veril v libertariánske náboženstvo". V jednej
 epizóde podcastu, ktorú pripravujem sa budeme venovať podnikateľskému
-aktivizmu. O morálnych aspektoch som [písal v predchádzajúcom blogu](https://juraj.bednar.sk/blog/2017/01/05/moralka/),
+aktivizmu. O morálnych aspektoch som [písal v predchádzajúcom blogu](https://juraj.bednar.io/blog/2017/01/05/moralka/),
 len zopakujem, že som presvedčený, že s túžbou po slobode a so
 základnými morálnymi hodnotami sa človek buď narodí alebo je ich
 minimálne ťažké zmeniť. Samozrejme, aj na samotné "chuťové poháriky"

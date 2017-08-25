@@ -29,16 +29,16 @@ title:        'Ramblings of Juraj'
 description: > # this means to ignore newlines until "email:"
    Homepage of Juraj Bednár
 
-email: juraj@bednar.sk
+email: juraj@bednar.io
 slogan:       'On geeky stuff, life hacks and entrepreneurship'
 
 # The language setting is used in /includes/header.html for html-settings
 lang: "en"
 
 # Build settings
-url:          'https://juraj.bednar.sk'
+url:          'https://juraj.bednar.io'
 baseurl:      ''
-urlimg:       'https://juraj.bednar.sk/images'
+urlimg:       'https://juraj.bednar.io/images'
 markdown:     kramdown
 highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/
@@ -56,11 +56,11 @@ excerpt_separator: <!--more-->
 
 # Podcast settings
 
-podcast_url: http://juraj.bednar.sk/podcast
+podcast_url: https://juraj.bednar.io/category/podcast
 podcast_album_art: /assets/podcast/podcast_cover.jpg
 podcast_title: 'Reči o živote, vesmíre a vôbec'
 podcast_owner: Juraj Bednár
-podcast_email: juraj@bednar.sk
+podcast_email: juraj@bednar.io
 podcast_category: 'Society &amp; Culture'
 podcast_subcategory_one: Personal Journals
 podcast_subcategory_two: Philosophy
