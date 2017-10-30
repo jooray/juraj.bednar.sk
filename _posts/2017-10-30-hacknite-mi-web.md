@@ -147,3 +147,7 @@ blog má aj Citadelo](https://www.citadelo.sk/category/blog/).
 Taktiež odporúčam do pozornosti [môj podcast s etickými hackermi
 z Citadelo o tom ako hacknúť banku a ako sa (ne)ubrániť
 CIA](https://juraj.bednar.io/podcast/2017/04/16/eticki-hackeri/).
+O Hacktrophy a etickom hackingu som sa rozprával aj v podcaste
+[s Pavlom
+Luptákom](https://juraj.bednar.io/podcast/2016/11/14/pavol-luptak-voluntaristicka-firma-zdielana-ekonomika-v-bezpecnosti-emailovy-bankrot-a-hedonizmus/),
+ktorý je spoluzakladateľom Hacktrophy.
