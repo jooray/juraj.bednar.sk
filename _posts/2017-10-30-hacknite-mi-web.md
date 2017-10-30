@@ -136,7 +136,14 @@ Ak nie ste pevne rozhodnutí alebo potrebujete pomoc s aktiváciou
 programu alebo nastavením pre vás vhodnej odmeny, [napíšte
 nám](https://hacktrophy.com/kontakt/).
 
+Viac informácií o bezpečnosti
+=============================
+
 Ak sa chcete dozvedieť o bezpečnosti viac, pozrite sa na [blogy
 Hacktrophy](https://hacktrophy.com/bezpecnost-na-internete/), kde
 nájdete aj knižku pre firmy o IT bezpečnosti, ktorá je super. A [svoj
 blog má aj Citadelo](https://www.citadelo.sk/category/blog/).
+
+Taktiež odporúčam do pozornosti [môj podcast s etickými hackermi
+z Citadelo o tom ako hacknúť banku a ako sa (ne)ubrániť
+CIA](https://juraj.bednar.io/podcast/2017/04/16/eticki-hackeri/).
