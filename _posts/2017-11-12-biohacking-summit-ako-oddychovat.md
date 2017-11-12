@@ -25,6 +25,8 @@ zlé baktérie, nootropiká a všeličo iné.
 
 Odkazy k podcastu:
 
+ * [Aplikácia Luxmeter ktorú spomínam](https://itunes.apple.com/sk/app/galactica-luxmeter/id666846635?mt=8) a [spomínaný týždenník Juraja Karpiša](http://www.jurajkarpis.com/tag/tyzdennik/), kde som sa o nej dozvedel (odporúčam prihlásiť sa vpravo vo formulári na odber e-mailom, je to jedinný free newsletter ktorý čítam).
+
  * [Reportáž z Bulletproof konferencie z Pasadeny pred rokom](https://juraj.bednar.io/podcast/2016/10/28/ako-bolo-na-biohacking-konferencii/) - prvá epizóda tohto podcastu.
 
  * Moje prednášky o biohackingu: [Biohacking: Ako sa dožiť 1000 rokov](https://juraj.bednar.io/talk/2016/04/12/biohacking-ako-sa-dozit-1000-rokov/), [Biohacking: Neurofeedback, meditácia, EEG a hacking mozgu](https://juraj.bednar.io/talk/2016/02/10/biohacking-neurofeedback-meditacia-eeg-a-hacking-mozgu/)
