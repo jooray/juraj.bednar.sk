@@ -7,7 +7,7 @@ tags:
  - lifehacking
 image: /assets/podcast/podcast_cover.jpg
 date: 2016-11-02
-podcast_link: http://juraj.bednar.io/assets/podcast/02-zivotny_kapital_a_transakcne_naklady.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/02-zivotny_kapital_a_transakcne_naklady.mp3
 podcast_file_size: 42 MB
 podcast_duration: "36:04"
 podcast_length: 43548032

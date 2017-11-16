@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-04
-podcast_link: http://juraj.bednar.io/assets/podcast/12-medziepizoda-shitcoiny-su-alternativy-k-bitcoinu-vobec-kryptomeny.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/12-medziepizoda-shitcoiny-su-alternativy-k-bitcoinu-vobec-kryptomeny.mp3
 podcast_file_size: 45 MB
 podcast_duration: "0:39:19"
 podcast_length: 47446635

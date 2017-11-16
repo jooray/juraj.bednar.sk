@@ -7,7 +7,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-11-12
-podcast_link: http://juraj.bednar.io/assets/podcast/17-biohacking-summit-ako-oddychovat.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/17-biohacking-summit-ako-oddychovat.mp3
 podcast_file_size: 70 MB
 podcast_duration: "1:01:14"
 podcast_length: 73746144

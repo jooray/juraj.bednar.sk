@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-02-25
-podcast_link: http://juraj.bednar.io/assets/podcast/08-emil-cast-1-cina-cestovanie-sloboda-skryte-svety.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/08-emil-cast-1-cina-cestovanie-sloboda-skryte-svety.mp3
 podcast_file_size: 63 MB
 podcast_duration: "0:54:36"
 podcast_length: 65772526

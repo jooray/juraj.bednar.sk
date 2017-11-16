@@ -8,7 +8,7 @@ tags:
  - lifehacking
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-01-13
-podcast_link: http://juraj.bednar.io/assets/podcast/06-zuzana-bednarova-ako-rast-vo-vsetkych-oblastiach.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/06-zuzana-bednarova-ako-rast-vo-vsetkych-oblastiach.mp3
 podcast_file_size: 97 MB
 podcast_duration: "1:25:04"
 podcast_length: 102098342

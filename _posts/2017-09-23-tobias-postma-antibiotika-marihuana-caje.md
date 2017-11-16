@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-09-23
-podcast_link: http://juraj.bednar.io/assets/podcast/16-tobias-chemia.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/16-tobias-chemia.mp3
 podcast_file_size: 82 MB
 podcast_duration: "1:07:53"
 podcast_length: 81494131

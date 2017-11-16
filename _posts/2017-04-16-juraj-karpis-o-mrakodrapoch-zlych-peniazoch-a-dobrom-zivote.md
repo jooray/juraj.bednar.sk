@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-16
-podcast_link: http://juraj.bednar.io/assets/podcast/13-juraj-karpis-mrakodrapy-a-zle-peniaze.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/13-juraj-karpis-mrakodrapy-a-zle-peniaze.mp3
 podcast_file_size: 87 MB
 podcast_duration: "1:16:07"
 podcast_length: 91384566

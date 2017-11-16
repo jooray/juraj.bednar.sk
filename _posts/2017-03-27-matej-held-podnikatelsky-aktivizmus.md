@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-03-19
-podcast_link: http://juraj.bednar.io/assets/podcast/11-matej-held-podnikatelsky-aktivizmus.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/11-matej-held-podnikatelsky-aktivizmus.mp3
 podcast_file_size: 109 MB
 podcast_duration: "1:35:38"
 podcast_length: 114793413

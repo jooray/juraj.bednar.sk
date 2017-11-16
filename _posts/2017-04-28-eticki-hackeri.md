@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-04-16
-podcast_link: http://juraj.bednar.io/assets/podcast/14-citadelo-hackeri.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/14-citadelo-hackeri.mp3
 podcast_file_size: 123 MB
 podcast_duration: "1:47:42"
 podcast_length: 129282028

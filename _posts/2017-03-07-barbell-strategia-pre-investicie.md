@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-03-07
-podcast_link: http://juraj.bednar.io/assets/podcast/09-barbell-strategia-pre-investicie-zivot-a-vobec.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/09-barbell-strategia-pre-investicie-zivot-a-vobec.mp3
 podcast_file_size: 34 MB
 podcast_duration: "0:29:48"
 podcast_length: 36017997

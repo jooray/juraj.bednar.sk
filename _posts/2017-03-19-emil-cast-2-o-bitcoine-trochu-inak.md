@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-03-19
-podcast_link: http://juraj.bednar.io/assets/podcast/10-emil-cast-2-o-bitcoine-trochu-inak.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/10-emil-cast-2-o-bitcoine-trochu-inak.mp3
 podcast_file_size: 88 MB
 podcast_duration: "1:16:45"
 podcast_length: 92368313

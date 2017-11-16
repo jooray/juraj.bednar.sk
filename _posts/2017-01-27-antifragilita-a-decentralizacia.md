@@ -6,7 +6,7 @@ tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
 date: 2017-01-27
-podcast_link: http://juraj.bednar.io/assets/podcast/07-antifragilita-a-decentralizacia.mp3
+podcast_link: https://juraj.bednar.io/assets/podcast/07-antifragilita-a-decentralizacia.mp3
 podcast_file_size: 49 MB
 podcast_duration: "0:42:57"
 podcast_length: 51586468
