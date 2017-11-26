@@ -5,8 +5,6 @@ comments: true
 external-url:
 categories:
 ---
-[<img src="http://e.asset.soup.io/asset/3916/0830_13e2.png" width="1024" height="1024" alt="0830_13e2" />][1]
-
 I just started with [Social Network Analysis][2] course on [coursera][3] (if you want to learn science, try coursera, especially Andrew Ng's Machine Learning, it's free and great:).
 
 As it goes with hackers, we learn differently. We try stuff first and then if it does not work, we try to figure out what's wrong. So after introduction, I went immediately to my favourite search engine and found Gephi for graph analysis and downloaded a Facebook graph of my friends (and some other data for groups I am involved in). There is a [great tutorial][4] for what I did by Sarah Jay. So if you want to try this out with your friends, do it, it's super easy.
@@ -21,7 +19,6 @@ You may noticed that some nodes in the graph are larger than others. The size is
 
 Ideas and viruses spread through social connections. I like [this TED talk][6] about why this is important.
 
-  [1]: 
   [2]: https://class.coursera.org/sna-2012-001/class/index
   [3]: http://coursera.org/
   [4]: https://persuasionradio.wordpress.com/2010/05/06/using-netvizz-gephi-to-analyze-a-facebook-network/
