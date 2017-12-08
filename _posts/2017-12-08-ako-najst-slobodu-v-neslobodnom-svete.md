@@ -13,7 +13,7 @@ podcast_length: 118197665
 ---
 
 Ľudia, ktorým záleží na slobode sú často označovaní ako "libertariáni".
-Veľmi často je ale klasický pohľad na libertariána ako niekoh, kto frfle
+Veľmi často je ale klasický pohľad na libertariána ako na niekoho, kto "frfle"
 na to v akom svete žijeme, ale zmenu hľadá v tom, že sa zmení celý svet.
 
 Tento podcast je iným pohľadom na slobodu - je o hľadaní slobody, ktorej
@@ -23,7 +23,7 @@ dôležitá. Ak to nie je téma, ktorá vo vás rezonuje a máte strach
 vykročiť zo zabehnutých koľají, asi bude lepšie, keď túto epizódu
 preskočíte, môže vo vás vyvolať nepríjemné pocity a otázky. Pre ľudí,
 ktorí hľadajú slobodu by táto epizóda mala byť svetielkom nádeje, že sa
-to dá.
+v mnohých oblastiach dá dosiahnuť - tu a teraz.
 
 <!--more-->
 
