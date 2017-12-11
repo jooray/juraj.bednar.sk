@@ -52,6 +52,8 @@ Odkazy k podcastu:
  * [Video zo záveru podcastu - prelet slobodného drona nad Paralelnou
  Polis](https://www.youtube.com/watch?v=tql4LQRs5BU)
 
+ * [Ako nájsť svoje silné stránky](https://www.viacharacter.org/survey/account/register) - praktický test, ktorý vám pomôže odhaliť v čom ste dobrí a ako to rozvíjať. Test je zadarmo a pomáha výskumu silných stránok.
+
  * [Facebook skupina tohto podcastu](https://www.facebook.com/groups/jurajbednarpodcast/)
 
  * [Paralelná Polis Bratislava](https://paralelnapolis.sk/)
