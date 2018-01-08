@@ -28,19 +28,32 @@ Ak to chcete robiť online, známe burzy sú
 [Bitstamp](https://www.bitstamp.net/) a
 [Kraken](https://www.kraken.com/). Osobne ich veľmi nepoužívam, takže
 neviem aké verifikácie momentálne požadujú a koľko to trvá. Navyše, z
-niektorých bánk (napríklad Tatrabanka) nejde posielať eurá na bitcoinové
-burzy. Preto preferujem hotovosť.
+niektorých bánk (napríklad Tatrabanka alebo Unicredit Bank) nejde
+posielať eurá na bitcoinové burzy. Preto preferujem hotovosť.
 
 ## Akú peňaženku používaš? ##
 
 Na ukladanie úspor (všetko, čo je viac ako by som si zobral so sebou v
 peňaženke večer do mesta) používam [Trezor](https://trezor.io/), na
-mobile používam [breadwallet](https://breadwallet.com/).
+mobile som používal [breadwallet](https://breadwallet.com/), ale
+momentálne na menšie platby je Bitcoin nepoužiteľný kvôli poplatkom a
+preto sa snažím platiť skôr Litecoin-ami, ktoré majú nižšie poplatky.
+Fungujú veľmi podobne ako Bitcoin. Dobrá peňaženka je napríklad
+[loafwallet](http://loafwallet.org/). Aj na ukladanie Litecoinov ale
+odporúčam Trezor.
+
+Často mi ľudia píšu, že sa im zasekla transakcia v nejakej divnej
+peňaženke, nevedia zmeniť poplatok, prípadne im niekto vykradol
+peňaženku kvôli vírusu na počítači. Prosím, naozaj investujte peniaze do
+hardvérovej peňaženky. Trezor zároveň podporuje aktuálne vychytávky ako
+napríklad segwit, ktoré znižujú poplatky za transakcie. Ešte existuje aj
+Ledger Nano S, ktorý je lacnejší, ale má podľa mňa škaredý user
+interface a skúsenosť s ním je dosť oničom. Prosím, kúpte si Trezor.
 
 ## A čo peňaženka XYZ alebo burza ABC? ##
 
 Neviem, nesledujem to natoľko podrobne, že by som poznal aktuálny stav
-a bezpečnosť všetkých peňaženiek. Treba sa popýtať.
+a bezpečnosť všetkých peňaženiek a búrz. Treba sa popýtať.
 
 ## Ako platiť Bitcoinom bežné veci? ##
 
@@ -49,18 +62,15 @@ klasické bankové účty pomocou SEPA prevodov. Ak chcete pridať variabilný s
 reference v tvare /VS1234/SS/KS (v tomto prípade bude variabilný symbol
 1234 a špecifický a konštantný symbol prázdne).
 
-Druhá možnosť je požiadať o platobnú kartu, ktorou sa dá platiť.
-[Bitwala](https://my.bitwala.io/r/ekGxxWevPpRoPDGoR) tiež vydáva prepaid
-karty, zaujímavou alternatívou je [Xapo](https://xapo.com/). Rozdiel je
-ten, že pri Bitwala sa karta zmení na eurá v čase dobitia, pri Xapo v
-čase platby.
-
 Zaujímavou fičurkou je tiež objednávanie z Amazonu cez službu
 [Purse](https://purse.io/?_r=3BxAjy), pretože umožňuje platbu so zľavou.
 Finta je v tom, že sú ľudia, ktorí dostávajú rôzne gift karty, ale
 radšej by Bitcoiny. Takže si vytvoríte na Amazon-e wishlist, ktorý vám
 potom niekto objedná a zaplatí a vy zaplatíte Bitcoinami. Služba
 nepodporuje amazon.de, ale amazon.co.uk a amazon.com sú podporované.
+Momentálne majú nejaký problém s voľbou Slovenska ako krajiny doručenia
+a tak to funguje len z amazon.com pri použití forwarding služby s ktorou
+spolupracujú.
 
 ## Ako zmením BTC za inú kryptomenu alebo opačne? ##
 
@@ -77,6 +87,23 @@ transakciu a pošlite von.
 Váš počítač a mobil nie je bezpečný. Nie, ani keď máte antivírus a
 updaty. Na čokoľvek, čo vám bude ľúto si kúpte [hardvérovú
 peňaženku](https://trezor.io/).
+
+Dôležité upozornenie - ak máte "kľúče", sú to vaše kryptomeny, ak ich
+nemáte (a má ich burza), nie sú to vaše kryptomeny, ukladáte si ich u
+burzy. Niekoľko z nich už v histórii skrachovalo a ľudia prišli o
+peniaze. Prosím, nepoužívajte burzu ako "internet banking", nie je na to
+určená.
+
+Peňaženka pri inicializácii vytvára tzv. seed, ktorý je vašou zálohou.
+Je to niekoľko anglických slov, ktoré v správnom poradí umožnia prístup
+k bitcoinom aj keby sa hardvérová peňaženka pokazila. Nezapisujte si
+tieto slová do počítača, existujú vírusy ktoré ich hľadajú a dokážu vám
+ukradnúť všetky kryptomeny. Zapíšte si ich na papier a dobre odložte.
+Dobre znamená, že keď sa vám pokazí hardvérová peňaženka, budete sa k
+nim vedieť dostať, ale zároveň sa k ním nedostane nikto iný, pretože
+ktokoľvek kto ich získa, má vaše kryptomeny. Možno nie je na škodu kúpiť
+si fyzický trezor a uložiť ich do [tamper-evident
+obálky](https://www.amazon.co.uk/Purely-Packaging-Security-Tamper-Evident/dp/B00N8JASVG/ref=sr_1_1?ie=UTF8&qid=1515421108&sr=8-1&keywords=Purely+Packaging+240+x+135+mm+Security+Bag+with+Tamper+Evident+Seal+%28Pack+of+5%29).
 
 # O investovaní do Bitcoinu #
 
@@ -106,10 +133,17 @@ ktoré prinášajú čokoľvek nové, ale vo väčšine prípadov je moja odpove
 "Bitcoin je lepší". Viac informácií o tom prečo je to tak
 [v tomto podcaste](https://juraj.bednar.io/podcast/2017/04/04/emil-medziepizoda-o-shitcoinoch/).
 
+Samozrejme, vďaka transakčným poplatkom nám nezostáva nič iné ako na
+bežné platenie používať iné kryptomeny. Zaujímavé a použiteľné sú podľa
+mňa Litecoin, Monero a Bitcoin Cash. Na iné veci [ako napríklad
+Cryptokitties](https://juraj.bednar.io/talk/2017/12/13/bitcoin-je-retro/) je dobrou kryptomenou aj Ethereum.
+
+
 ## Investuješ do nejakých iných kryptomien ako Bitcoinu? ##
 
 Kúpil som si na hranie nejaké Ethery a nejaké Monero. Najmä preto aby
-som sa s nimi naučil robiť. Žiadne iné v čase písania tohto blogu nemám.
+som sa s nimi naučil robiť.
+
 Ak máte čas to sledovať a zaoberať sa tým, kľudne sa hrajte alebo
 špekulujte, odporúčam len do sumy, ktorú nechcete prerobiť.
 
@@ -124,6 +158,8 @@ menu kúpiť ako ju ťažiť.
 Neviem, lebo pravdepodobne nepoužívam kryptomenu XYZ. Vybral by som si
 oficiálnu peňaženku projektu. A dávajte si pozor na bezpečnosť počítača.
 
+Ak daná kryptomena podporuje Trezor, tak odporúčam používať ten.
+
 ## Počul si o OneCoin? ##
 
 Je to podvod. Vždy keď vám niekto sľubuje rozprávkové výnosy a budúcnosť
@@ -137,6 +173,10 @@ platenia, je to podvod.
  * [Moja úvodná prednáška o Bitcoine](https://juraj.bednar.io/talk/2015/12/27/bitcoin-akademia-trojstenu/)
  * [Môj podcast s Emilom - o Bitcoine trochu inak](https://juraj.bednar.io/podcast/2017/03/19/emil-cast-2-o-bitcoine-trochu-inak/)
  * [Facebook skupina slovenskej BTC komunity](https://www.facebook.com/groups/1876810492565676/). Prosím predtým ako sa budete pýtať otázky, preštudujte si celú túto stránku, vypočujte si prednášky a pozrite si trochu histórie diskusie. Áno, zaberá to čas, ale rovnako zaberá náš čas odpovedať na otázky. Ak chcete niečo vedieť, investujte do toho najprv svoj čas. Do skupiny sa kľudne pridajte, ale odporúčam najprv počúvať a sledovať čo sa tam deje ako sa hneď pýtať.
+ * [Bitcoin ako úložisko hodnoty](https://juraj.bednar.io/talk/2017/04/12/bitcoin-ako-ulozisko-hodnoty/)
+ * [Bitcoin je retro - od kryptomačičiek po paralelný finančný
+ systém](https://juraj.bednar.io/talk/2017/12/13/bitcoin-je-retro/) pre
+ trochu pokročilých.
 
 ## Môžeš prísť spraviť prednášku o Bitcoine pre moju školu/firmu/konferenciu/... ? ##
 
