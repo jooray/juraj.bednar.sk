@@ -19,6 +19,10 @@ oblastiach aj podniká.
 
 <!--more-->
 
+Ak sa vám podcast páči, možno sa vám bude páčiť [aj opačná verzia -
+podcast kde mňa Vlado spovedá o exponenciálnych technológiách, slobode
+a Paralelnej Polis](https://paralelnapolis.sk/podcast-o-paralelnej-polis-slobode-a-exponencialnych-technologiach/)
+
 Odkazy k podcastu:
 
  * [Web Vlada Zlatoša](https://www.vladozlatos.com/)
@@ -29,7 +33,9 @@ Odkazy k podcastu:
  * [Neseda](https://www.neseda.com/) - stolička na sedenie v rôznych
  polohách - ďalšia Vladova firma
 
- * [Vladov podcast](https://www.vladozlatos.com/novinky/hlavne-spravy/spustili-sme-zlatos-family-podcast.html)
+ * [Vladov podcast](https://www.vladozlatos.com/novinky/hlavne-spravy/spustili-sme-zlatos-family-podcast.html) a [epizóda kde spovedá on mňa  o exponenciálnych technológiách, slobode a Paralelnej Polis](https://paralelnapolis.sk/podcast-o-paralelnej-polis-slobode-a-exponencialnych-technologiach/)
+
+
 
  * [Knižka Seligman, Peterson: Character Strengths and
  Virtues](https://www.amazon.com/Character-Strengths-Virtues-Handbook-Classification/dp/0195167015/ref=sr_1_1?ie=UTF8&qid=1515753218&sr=8-1&keywords=character+strengths+seligman)
