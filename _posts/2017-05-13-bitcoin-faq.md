@@ -71,9 +71,11 @@ a bezpečnosť všetkých peňaženiek a búrz. Treba sa popýtať.
 
 ## Ako platiť Bitcoinom bežné veci? ##
 
-Služba [bitwala](https://my.bitwala.io/r/ekGxxWevPpRoPDGoR) umožňuje posielanie peňazí na
-klasické bankové účty pomocou SEPA prevodov. Ak chcete pridať variabilný symbol, dajte payment
-reference v tvare /VS1234/SS/KS (v tomto prípade bude variabilný symbol
+Služba [bitwala](https://my.bitwala.io/r/ekGxxWevPpRoPDGoR) umožňovala posielanie peňazí na
+klasické bankové účty pomocou SEPA prevodov. Momentálne za týmto účelom nefunguje,
+počul som, že sa tak dá používať [simplecoin](https://simplecoin.sk/),
+ale ten som neskúšal. Hack na variabilné symboly: Ak chcete pridať variabilný symbol,
+dajte payment reference v tvare /VS1234/SS/KS (v tomto prípade bude variabilný symbol
 1234 a špecifický a konštantný symbol prázdne).
 
 Zaujímavou fičurkou je tiež objednávanie z Amazonu cez službu
@@ -82,9 +84,11 @@ Finta je v tom, že sú ľudia, ktorí dostávajú rôzne gift karty, ale
 radšej by Bitcoiny. Takže si vytvoríte na Amazon-e wishlist, ktorý vám
 potom niekto objedná a zaplatí a vy zaplatíte Bitcoinami. Služba
 nepodporuje amazon.de, ale amazon.co.uk a amazon.com sú podporované.
-Momentálne majú nejaký problém s voľbou Slovenska ako krajiny doručenia
-a tak to funguje len z amazon.com pri použití forwarding služby s ktorou
-spolupracujú.
+Túto službu používam pravidelne na nákup takmer čohokoľvek a bežne
+dostanem 33% zľavu. Celkom fajn na zníženie nákladov. Dobrý hack na
+zníženie poplatkov: ak máte peniaze na coinbase, tak sa dá purse nabiť
+bez poplatkov off-chain. A keď vám objednávku prijmú, odporúčam v danom
+kurze nakúpiť naspäť BTC.
 
 ## Ako zmením BTC za inú kryptomenu alebo opačne? ##
 
