@@ -34,13 +34,27 @@ posielať eurá na bitcoinové burzy. Preto preferujem hotovosť.
 ## Akú peňaženku používaš? ##
 
 Na ukladanie úspor (všetko, čo je viac ako by som si zobral so sebou v
-peňaženke večer do mesta) používam [Trezor](https://trezor.io/), na
-mobile som používal [breadwallet](https://breadwallet.com/), ale
-momentálne na menšie platby je Bitcoin nepoužiteľný kvôli poplatkom a
-preto sa snažím platiť skôr Litecoin-ami, ktoré majú nižšie poplatky.
+peňaženke večer do mesta) používam [Trezor](https://trezor.io/).
+
+Prosím, naozaj investujte do hardvérovej peňaženky. Trezor je kvalitná
+peňaženka, ktorá podporuje Bitcoin správne. Ľudia si často kúpia
+Bitcoiny "len za pár eur" a potom ich nevedia dostať z peňaženky, lebo
+sa nedá zvoliť fee alebo podobne. Žiaľ, nemám kapacitu pomáhať vám s
+vyberaním peňazí z divných peňaženiek.
+
+Bežne veci sa snažím platiť skôr Litecoin-ami, ktoré majú nižšie poplatky.
 Fungujú veľmi podobne ako Bitcoin. Dobrá peňaženka je napríklad
 [loafwallet](http://loafwallet.org/). Aj na ukladanie Litecoinov ale
 odporúčam Trezor.
+
+Veľmi dobrá moderná mobilná peňaženka, ktorá vie viacero mien (Bitcoin,
+Litecoin, Bitcoin Cash, Ethereum, ...) je
+[Edge](https://edgesecure.co/). Funguje na Androide aj na iOS, podporuje
+Segwit a podobne. Dôležitá vec však je, že vás neprinúti odzálohovať si
+seed. Napíšte si seed na papierik (vpravo od konkrétnej peňaženky
+kliknite na tri vertikálne bodky a zvoľte "Get Seed" - treba to urobiť
+pre každú menu osobitne). Tieto si napíšte na papier, ktorý nestratíte
+(nie do počítača!).
 
 Často mi ľudia píšu, že sa im zasekla transakcia v nejakej divnej
 peňaženke, nevedia zmeniť poplatok, prípadne im niekto vykradol
