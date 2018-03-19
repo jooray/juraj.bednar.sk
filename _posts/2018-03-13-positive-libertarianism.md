@@ -1,6 +1,6 @@
 ---
 title: 'Positive libertarianism: beyond hating the state (from HCPP17)'
-video: https://www.youtube.com/watch?v=rtyW9n5qNbM
+video: https://www.youtube.com/watch?v=z8k12Q0Uyjc
 categories: talk
 ---
 
