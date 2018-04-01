@@ -9,7 +9,7 @@ group :jekyll_plugins do
     gem 'octopress-image-tag'
     gem 'octopress-codeblock'
     gem 'octopress-quote-tag'
-    gem 'octopress-codefence'
+#    gem 'octopress-codefence'
     gem 'octopress-solarized'
     gem 'jekyll-gist'
     gem 'jekyll-youtube'
@@ -17,4 +17,5 @@ group :jekyll_plugins do
 		gem 'jekyll-paginate'
 		gem 'jekyll-sitemap'
 		gem 'jekyll-feed'
+    gem 'jekyll-manager'
 end
