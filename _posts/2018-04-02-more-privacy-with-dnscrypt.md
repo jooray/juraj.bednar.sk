@@ -23,7 +23,7 @@ brew install dnscrypt-proxy
 Next edit */usr/local/etc/dnscrypt-proxy.toml* and change line starting with *server_names* to
 
 ```
-
+server_names = ['cloudflare']
 ```
 
 If you are especially lazy and don't want to edit the file, you can do this (paste with newlines):
