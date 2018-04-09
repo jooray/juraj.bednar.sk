@@ -49,12 +49,12 @@ odporúčam Trezor.
 
 Veľmi dobrá moderná mobilná peňaženka, ktorá vie viacero mien (Bitcoin,
 Litecoin, Bitcoin Cash, Ethereum, ...) je
-[Edge](https://edgesecure.co/). Funguje na Androide aj na iOS, podporuje
-Segwit a podobne. Dôležitá vec však je, že vás neprinúti odzálohovať si
-seed. Napíšte si seed na papierik (vpravo od konkrétnej peňaženky
-kliknite na tri vertikálne bodky a zvoľte "Get Seed" - treba to urobiť
-pre každú menu osobitne). Tieto si napíšte na papier, ktorý nestratíte
-(nie do počítača!).
+[Coinomi](https://coinomi.com/). Funguje na Androide aj na iOS, podporuje
+Segwi, nové formáty adries a podobne. Po inštalácii si napíšte seed (18 slov,
+ktoré predstavujú vaše kryptomeny) na papierik. Tieto si napíšte na papier, ktorý nestratíte (nie do počítača!). Ktokoľvek sa dostane k týmto slovám v
+správnom poradí (napríklad infekciou vášho počítača spywarom) vám dokáže
+ukradnúť kryptomeny. Ak naopak prídete o mobil a tieto slová nemáte,
+prišli ste o kryptomeny a už sa k nim nedostanete.
 
 Často mi ľudia píšu, že sa im zasekla transakcia v nejakej divnej
 peňaženke, nevedia zmeniť poplatok, prípadne im niekto vykradol
