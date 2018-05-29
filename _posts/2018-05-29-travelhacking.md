@@ -5,7 +5,7 @@ categories: podcast
 tags:
  - slovak
 image: /assets/podcast/podcast_cover.jpg
-date: 2018-06-04
+date: 2018-05-29
 podcast_link: https://juraj.bednar.io/assets/podcast/21-travelhacking.mp3
 podcast_file_size: 81 MB
 podcast_duration: "01:06:47"
@@ -36,7 +36,7 @@ Odkazy k podcastu:
  * Spodné prádlo značky Ex-Officio a Merino oblečenie značky Icebreaker (vrátane čiapky). Mimochodom, ak nájdete niekde obchod Uniqlo, [táto vetrovka je super na cestovanie](https://www.youtube.com/watch?v=lGlGc54dvRs)
  * Barefoot topánky, osobne mám momentálne [Vivo Barefoot](https://www.vivobarefoot.sk/), ale značiek barefoot topánok je viac. Objednávam aj na [SportsPursuit](https://www.sportpursuit.com/join/Juraj_Bednar_dec0da) kde ich občas zvyknú mať za výrazne nižšie ceny ako v oficiálnom obchode - ale najprv si ich vyskúšajte niekde.
  * [Sandále čo nikdy nesmrdia](https://sourceoutdoor.com/en/17-men-outdoor-sandals)
- * Ubytovanie: [Airbnb](https://www.airbnb.cz/c/jbednar3) - ak použijete tento link, dostanete €30 kredit na prvé ubytovanie. [CryptoCribs](https://www.cryptocribs.com/) - airbnb za krypto (neskúšal som zatiaľ). [Booking](https://www.booking.com/s/34_6/8eab135a) - dostanete 10% z ceny pobytu naspäť pri použití tejto linky.
+ * Ubytovanie: [Airbnb](https://www.airbnb.cz/c/jbednar3) - ak použijete tento link, dostanete €30 kredit na prvé ubytovanie. [Booking](https://www.booking.com/s/34_6/8eab135a) - dostanete 10% z ceny pobytu naspäť pri použití tejto linky.
  * Ride sharing (lepší "taxík"): [Uber](https://www.uber.com/invite/kwtgn) (funguje v "civilizácii" okrem Slovenska, s kódom kwtgn budete mať prvú jazdu zdarma), [Taxify](https://invite.taxify.eu/3YAXU) (funguje aj v Bratislave, používam aj v Prahe, s kódom 3YAXU budete mať jednu jazdu do 5€ zadarmo), [Lyft](https://lyft.com/idi/JURAJ72636) (funguje v USA, kód JURAJ72636, väčšinou trochu lacnejšie ako Uber), [Grab](https://www.grab.com/) (funguje prevažne v Ázii, v niektorých ázijských krajinách prebral aj sieť Uberu, bez kódu :)
  * Letenkové portály [Azair.cz](http://www.azair.cz/), [SkyScanner](https://www.skyscanner.net/), [Momondo](https://www.momondo.com/)
  * [Flystein](https://www.flystein.com/) - skúsení travelhackeri hľadajú lepšie letenky ako nájdete vy. Ak vám nenájdu lepšiu cenu na základe požiadaviek, je služba zadarmo.
