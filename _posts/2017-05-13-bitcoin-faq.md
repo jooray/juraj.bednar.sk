@@ -338,3 +338,8 @@ Nie. Regulácia je minimálne neúčinná, niekedy dokonca pomáha kriminálniko
 Účtovníctvo je voči kryptomenám neutrálne. Účtujú sa príjmy a výdavky, bez ohľadu na to ako boli zaplatené. V tomto prípade môžu štáty účtovanie zjednodušiť v tom, že presne špecifikujú ako sa daná platba má zaúčtovať, čo stačí ako doklad o úhrade a podobne. Podstatný je ale daňový doklad o dodanom produkte a službe, nie spôsob platby. Štáty sa síce snažia niektoré typy platieb ako napr. hotovosť regulovať a toto môže byť v prípade účtovníctva problém aj pri kryptomenách.
 
 Vo všeobecnosti snaha zregulovať daňové aspekty kryptomien nepovedie k zvýšeným daňovým výberom ani k zabráneniu kriminality. Regulácie nasledujú iba aktéri v klasickej ekonomike, čierna a šedá ekonomika sa o regulácie viac-menej nezaujíma a teda akákoľvek regulácia sa týka iba tých, ktorí sa rozhodli participovať na oficiálnom štátom regulovanom trhu. Práve preto môže mať regulácia opačný efekt - vytlačí ekonomických aktérov, ktorí by inak fungovali v klasickej regulovanej ekonomike za hranu, na čierny trh.
+
+## Čítal som, že Bitcoin je neekologický... ##
+
+Na túto tému som napísal
+[článok](https://btctip.cz/bitcoin-a-planeta-zeme-jak-je-to-s-ekologickymi-dopady/).
