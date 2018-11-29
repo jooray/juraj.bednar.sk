@@ -1,6 +1,6 @@
 ---
 title: "Biohacking scorecard"
-date: 2018-11-29 14:00
+date: 2018-11-29 10:00
 comments: true
 categories: blog
 image: /posts/2018-11-29-biohacking-mindset-scorecard.jpg
