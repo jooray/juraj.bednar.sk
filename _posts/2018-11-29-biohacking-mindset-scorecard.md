@@ -56,3 +56,6 @@ každého iné, ale užitočné mindsety sú prenositeľné.
 tu](https://juraj.bednar.io/assets/biohacking-bratislava/biohacking-mindset-scorecard.pdf)
 alebo ho môžete dostať u nás v [Bitcoin Coffee v Paralelnej Polis
 Bratislava](https://paralelnapolis.sk/) zadarmo na bare.
+
+P.S.: [Slajdy a záznam z biohacking prednášky už je na blogu Paralelnej
+Polis](https://paralelnapolis.sk/uvod-do-biohackingu/)
