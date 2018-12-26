@@ -117,6 +117,16 @@ By detokenizing, most projects would gain security, they would get
 better network effect (removing transaction costs in entering the
 network).
 
+**Update December 26th 2018**: [This happened exactly as I
+predicted](https://www.theblockcrypto.com/tiny/ddex-is-forking-the-0x-protocol-to-remove-the-zrx-token/).
+I wrote this article with ZRX project in mind. While writing this,
+I was actually looking at ZRX code and trying to see how hard it was
+to remove the token while keeping the protocol still functional. I found
+out that it is possible, but it's too soon to do it, because the ZRX
+protocol was not mature enough yet. Now, [DDEX is forking 0x to remove
+the ZRX
+token](https://www.theblockcrypto.com/tiny/ddex-is-forking-the-0x-protocol-to-remove-the-zrx-token/).
+
 # Other ways of funding the project
 
 So how are the projects supposed to get funded if someone is
