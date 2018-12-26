@@ -71,7 +71,7 @@ fixnú dať a počítať s ňou. Ľahšie sa kalkulovalo. Do cien jednoducho vie
 progresívnych daniach sa to robí ťažšie. Ak by niekto zvýšil dane, časť ľudí sa presunie
 do šedej alebo čiernej ekonomiky. A tu platia dve veci:
 
-1. Šedá ekonomika sa nevytratí tým, že sa zavedie blockchain. Ľudia nie sú hlúpi, ak chcú
+1.) Šedá ekonomika sa nevytratí tým, že sa zavedie blockchain. Ľudia nie sú hlúpi, ak chcú
 byť v šedej ekonomike, začnú obchodovať so zlatom, vymienať si tovary za iné tovary (barter)
 a podobne. Zvyšuje to transakčné náklady, ale to neznamená, že šedá alebo dokonca čierna
 ekonomika zmizne. Dokonca ak sa takéto obchodovanie zakáže, bude fungovať ešte lepšie
@@ -90,7 +90,7 @@ hrnie do parlamentu. Pohľad z rodinnej vilky na Kolibe na to, aké by
 mali byť vysoké dane je o dosť iný ako pri pohľade [na skutočnú cenu
 štátu](http://cenastatu.sk/).
 
-2. Šedá ekomomika je protiváhou zlých štátnych opatrení. Vytvára jednu stranu [Lafferovej
+2.) Šedá ekomomika je protiváhou zlých štátnych opatrení. Vytvára jednu stranu [Lafferovej
 krivky](https://cs.wikipedia.org/wiki/Lafferova_k%C5%99ivka). Z tohto
 pohľadu je dôležitým prvkom, ktorý brzdí nenásytný štát, ktorý bez
 ohľadu na to, koľko daní vyberie, vždy minie viac. Len ekonomická
